@@ -1,0 +1,2275 @@
+"uu_attribs"
+{
+	"attributes"
+	{
+		"unused"
+		{
+			"name"		"leave an unused here"
+			"ref"		"damage bonus tes"
+			"increase_ratio" "0.4"
+			"cost"		"400"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"1000.00"
+		}
+		"1"
+		{
+			"name"		"dmg penalty vs players"
+			"ref"		"Damage bonus vs player"
+			"increase_ratio" "0.2"
+			"cost"		"400"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"10000.00"
+		}
+		"2"
+		{
+			"name"		"dmg penalty vs players"
+			"ref"		"Damage bonus vs player (C)"
+			"increase_ratio" "0.15"
+			"cost"		"300"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"10000.00"
+		}
+		"3"
+		{
+			"name"		"damage penalty"
+			"ref"		"armor piercing damage"
+			"increase_ratio" "0.8"
+			"cost"		"400"
+			"value"		"0.15"
+			"init"		"1.00"
+			"max"		"1000.00"
+		}
+		"4"
+		{
+			"name"		"damage penalty"
+			"ref"		"damage penalty"
+			"increase_ratio" "0.8"
+			"cost"		"400"
+			"value"		"0.15"
+			"init"		"1.00"
+			"max"		"1000.00"
+		}
+		"5"
+		{
+			"name"		"damage penalty"
+			"ref"		"damage bonus SPECIAL"
+			"increase_ratio" "0.4"
+			"cost"		"400"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"10000.00"
+		}
+		"6"
+		{
+			"name"			"damage bonus"
+			"ref"			"damage bonus"
+			"cost"			"400"
+			"increase_ratio" "0.2"
+			"value"			"0.25"
+			"init"			"1.00"
+			"max"			"7500.00"
+		}
+		"7"
+		{
+			"name"		"clip size penalty"
+			"ref"		"clip size penalty"
+			"cost"		"-400"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"8"
+		{
+			"name"		"clip size bonus"
+			"ref"		"clip size bonus"
+			"cost"		"200"
+			"increase_ratio" "0.2"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"80.00"
+		}
+		"9"
+		{
+			"name"		"clip size bonus upgrade"
+			"ref"		"clip size bonus (E)"
+			"cost"		"200"
+			"increase_ratio" "0.2"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"100.0"
+		}
+		"10"
+		{
+			"name"		"clip size bonus"
+			"ref"		"clip size bonus (B)"
+			"cost"		"400"
+			"increase_ratio" "0.2"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"1000.0"
+		}
+		"11"
+		{
+			"name"		"fire rate penalty"
+			"ref"		"fire rate penalty"
+			"cost"		"-400"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"25.00"
+		}
+		"12"
+		{
+			"name"		"fire rate bonus"
+			"ref"		"fire rate bonus"
+			"cost"		"350"
+			"increase_ratio" "1.60"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.2"
+		}
+		"13"
+		{
+			"name"		"fire rate bonus"
+			"ref"		"fire rate bonus (C)"
+			"cost"		"300"
+			"increase_ratio" "1.3"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.3"
+		}
+		"14"
+		{
+			"name"		"heal rate bonus"
+			"ref"		"heal rate bonus"
+			"cost"		"400"
+			"value"		"0.25"
+			"increase_ratio" 	"0.25"
+			"init"		"1.00"
+			"max"		"500.00"
+		}
+		"15"
+		{
+			"name"		"ubercharge rate bonus"
+			"ref"		"ubercharge rate bonus"
+			"cost"		"400"
+			"value"		"0.15"
+			"increase_ratio" 	"0.6"
+			"init"		"1.00"
+			"max"		"50.00"
+		}
+		"16"
+		{
+			"name"		"overheal bonus"
+			"ref"		"overheal bonus"
+			"cost"		"200"
+			"increase_ratio" 	"0.6"
+			"value"		"0.20"
+			"init"		"1.00"
+			"max"		"800.50"
+		}
+		"17"
+		{
+			"name"		"overheal decay bonus"
+			"ref"		"overheal decay bonus"
+			"cost"		"300"
+			"value"		"0.25"
+			"increase_ratio" 	"1.25"
+			"init"		"1.00"
+			"max"		"4.00"
+		}
+		"18"
+		{
+			"name"		"crit mod disabled"
+			"ref"		"crit mod disabled"
+			"cost"		"-400"
+			"value"		"-1.00"
+			"init"		"1.00"
+			"max"		"0.00"
+		}
+		"19"
+		{
+			"name"		"heal on hit for rapidfire"
+			"ref"		"heal on hit for rapidfire"
+			"cost"		"300"
+			"increase_ratio" "1.50"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"100.00"
+		}
+		"20"
+		{
+			"name"		"heal on hit for rapidfire"
+			"ref"		"heal on hit (slowfire)"
+			"cost"		"300"
+			"increase_ratio" "1.50"
+			"value"		"15.00"
+			"init"		"0.00"
+			"max"		"100.00"
+		}
+		"21"
+		{
+			"name"		"add uber charge on hit"
+			"ref"		"add uber charge on hit"
+			"cost"		"800"
+			"increase_ratio" 	"0.4"
+			"value"		"0.05"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"22"
+		{
+			"name"		"crit vs burning players"
+			"ref"		"crit vs burning players"
+			"cost"		"5000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"23"
+		{
+			"name"		"mod flamethrower back crit"
+			"ref"		"mod flamethrower back crit"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"24"
+		{
+			"name"		"max health additive bonus"
+			"ref"		"max health additive bonus"
+			"increase_ratio" 	"0.05"
+			"cost"		"200"
+			"value"		"20.00"
+			"init"		"0.00"
+			"max"		"50000.00"
+		}
+		"25"
+		{
+			"name"		"max health additive bonus"
+			"ref"		"max health additive bonus (H)"
+			"increase_ratio" 	"0.05"
+			"cost"		"200"
+			"value"		"40.00"
+			"init"		"0.00"
+			"max"		"150000.00"
+		}
+		"26"
+		{
+			"name"		"critboost on kill"
+			"ref"		"critboost on kill"
+			"increase_ratio" 	"1.2"
+			"cost"		"350"
+			"value"		"2.00"
+			"init"		"0.00"
+			"max"		"60.00"
+		}
+		"27"
+		{
+			"name"		"set cloak is feign death"
+			"ref"		"set cloak is feign death"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"28"
+		{
+			"name"		"mult cloak meter consume rate"
+			"ref"		"cloak consume rate"
+			"cost"		"300"
+			"value"		"-0.25"
+			"init"		"1.00"
+			"max"		"-50.00"
+		}
+		"29"
+		{
+			"name"		"mult cloak meter regen rate"
+			"ref"		"mult cloak meter regen rate"
+			"cost"		"60"
+			"value"		"0.50"
+			"init"		"0.00"
+			"max"		"100.00"
+		}
+		"30"
+		{
+			"name"		"mult cloak rate"
+			"ref"		"cloak rate"
+			"cost"		"200"
+			"value"		"-0.05"
+			"init"		"0.00"
+			"max"		"-1.0"
+		}
+		"31"
+		{
+			"name"		"mult decloak rate"
+			"ref"		"decloak rate"
+			"cost"		"200"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.01"
+		}
+		"32"
+		{
+			"name"		"spread penalty"
+			"ref"		"spread penalty"
+			"cost"		"-400"
+			"value"		"0.30"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"33"
+		{
+			"name"		"zoom speed mod disabled"
+			"ref"		"zoom speed mod disabled"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"1.00"
+		}
+		"34"
+		{
+			"name"		"sniper charge per sec"
+			"ref"		"sniper charge per sec"
+			"increase_ratio" 	"0.1"
+			"cost"		"400"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"20.00"
+		}
+		"35"
+		{
+			"name"		"scattergun no reload single"
+			"ref"		"scattergun no reload single"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"36"
+		{
+			"name"		"scattergun has knockback"
+			"ref"		"scattergun has knockback"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"37"
+		{
+			"name"		"bullets per shot bonus"
+			"ref"		"bullets per shot bonus"
+			"cost"		"800"
+			"increase_ratio" "0.75"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"38"
+		{
+			"name"		"bullets per shot bonus"
+			"ref"		"bullets per shot bonus (single)"
+			"cost"		"3200"
+			"increase_ratio" "1.00"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"39"
+		{
+			"name"		"absorb damage while cloaked"
+			"ref"		"absorb damage while cloaked"
+			"cost"		"250"
+			"value"		"0.15"
+			"init"		"0.00"
+			"max"		"0.94"
+		}
+		"40"
+		{
+			"name"		"revolver use hit locations"
+			"ref"		"revolver use hit locations"
+			"cost"		"500"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"41"
+		{
+			"name"		"backstab shield"
+			"ref"		"backstab shield"
+			"cost"		"150"
+			"value"		"0.00"
+			"init"		"0.00"
+			"max"		"0.00"
+		}
+		"42"
+		{
+			"name"		"become fireproof on hit by fire"
+			"ref"		"fire retardant"
+			"cost"		"1900"
+			"increase_ratio" 	"0.75"
+			"value"		"1.0"
+			"init"		"0.00"
+			"max"		"100.00"
+		}
+		"43"
+		{
+			"name"		"move speed penalty"
+			"ref"		"move speed"
+			"increase_ratio" 	"1.4"
+			"cost"		"200"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"2.20"
+		}
+		"44"
+		{
+			"name"		"health regen"
+			"ref"		"health regen"
+			"cost"		"200"
+			"increase_ratio" 	"0.05"
+			"value"		"2.00"
+			"init"		"0.00"
+			"max"		"20000.00"
+		}
+		"45"
+		{
+			"name"		"self dmg push force increased"
+			"ref"		"self dmg push force increased"
+			"cost"		"100"
+			"value"		"0.30"
+			"init"		"1.00"
+			"max"		"10.00"
+		}
+		"46"
+		{
+			"name"		"dmg taken from fire reduced"
+			"ref"		"dmg taken from fire reduced"
+			"increase_ratio" 	"1.2"
+			"cost"		"350"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"47"
+		{
+			"name"		"dmg taken from crit reduced"
+			"ref"		"dmg taken from crit reduced"
+			"increase_ratio" 	"1.2"
+			"cost"		"350"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"48"
+		{
+			"name"		"dmg taken from blast reduced"
+			"ref"		"dmg taken from blast reduced"
+			"increase_ratio" 	"1.2"
+			"cost"		"350"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"49"
+		{
+			"name"		"dmg taken from bullets reduced"
+			"ref"		"dmg taken from bullets reduced"
+			"increase_ratio" 	"1.2"
+			"cost"		"350"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"50"
+		{
+			"name"		"dmg from melee increased"
+			"ref"		"dmg from melee reduced"
+			"cost"		"250"
+			"increase_ratio" 	"1.2"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"50.5"
+		{
+			"name"		"SET BONUS: dmg from sentry reduced"
+			"ref"		"dmg from sentry reduced"
+			"increase_ratio" 	"1.2"
+			"cost"		"250"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"51"
+		{
+			"name"		"dmg from ranged reduced"
+			"ref"		"dmg from ranged reduced"
+			"increase_ratio" 	"1.4"
+			"cost"		"750"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.15"
+		}
+		"52"
+		{
+			"name"		"dmg taken increased"
+			"ref"		"dmg taken reduced"
+			"cost"		"900"
+			"increase_ratio" 	"1.4"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.15"
+		}
+		"53"
+		{
+			"name"		"health from healers increased"
+			"ref"		"health from healers increased"
+			"cost"		"200"
+			"increase_ratio" 	"0.6"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"30.00"
+		}
+		"54"
+		{
+			"name"		"weapon burn dmg increased"
+			"ref"		"afterburn dmg increased"
+			"increase_ratio" 	"0.25"
+			"cost"		"200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"55"
+		{
+			"name"		"weapon burn dmg increased"
+			"ref"		"afterburn dmg increased (E)"
+			"increase_ratio" 	"0.5"
+			"cost"		"200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"56"
+		{
+			"name"		"weapon burn time increased"
+			"ref"		"afterburn time increased"
+			"cost"		"200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"20.00"
+		}
+		"57"
+		{
+			"name"		"maxammo primary increased"
+			"ref"		"maxammo primary increased"
+			"cost"		"400"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"20.00"
+		}
+		"58"
+		{
+			"name"		"maxammo primary increased"
+			"ref"		"maxammo primary increased (S)"
+			"cost"		"600"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"20.00"
+		}
+		"59"
+		{
+			"name"		"maxammo primary reduced"
+			"ref"		"maxammo primary reduced"
+			"cost"		"-600"
+			"value"		"-0.20"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"60"
+		{
+			"name"		"maxammo secondary increased"
+			"ref"		"maxammo secondary increased"
+			"cost"		"400"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"20.00"
+		}
+		"61"
+		{
+			"name"		"maxammo secondary increased"
+			"ref"		"maxammo secondary increased (S)"
+			"cost"		"600"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"20.00"
+		}
+		"62"
+		{
+			"name"		"maxammo secondary reduced"
+			"ref"		"maxammo secondary reduced"
+			"cost"		"-600"
+			"value"		"-0.20"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"63"
+		{
+			"name"		"maxammo metal increased"
+			"ref"		"maxammo metal increased"
+			"cost"		"200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"25.00"
+		}
+		"64"
+		{
+			"name"		"maxammo metal reduced"
+			"ref"		"maxammo metal reduced"
+			"cost"		"-400"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.64"
+		}
+		"65"
+		{
+			"name"		"minigun spinup time increased"
+			"ref"		"minigun spinup time increased"
+			"cost"		"-200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"12.00"
+		}
+		"66"
+		{
+			"name"		"minigun spinup time decreased"
+			"ref"		"minigun spinup time decreased"
+			"cost"		"850"
+			"increase_ratio" "0.75"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.20"
+		}
+		"67"
+		{
+			"name"		"max pipebombs increased"
+			"ref"		"max pipebombs increased"
+			"cost"		"100"
+			"value"		"2.00"
+			"init"		"0.00"
+			"max"		"56.00"
+		}
+		"68"
+		{
+			"name"		"Construction rate increased"
+			"ref"		"Construction rate increased"
+			"cost"		"200"
+			"value"		"0.34"
+			"init"		"0.00"
+			"max"		"15.00"
+		}
+		"69"
+		{
+			"name"		"build rate bonus"
+			"ref"		"Build rate bonus"
+			"cost"		"300"
+			"increase_ratio" "1.3"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.2"
+		}
+		"70"
+		{
+			"name"		"Repair rate increased"
+			"ref"		"Repair rate increased"
+			"cost"		"100"
+			"value"		"0.20"
+			"init"		"1.00"
+			"max"		"10.00"
+		}
+		"71"
+		{
+			"name"		"Reload time increased"
+			"ref"		"Reload time increased"
+			"cost"		"-200"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"71"
+		{
+			"name"		"Reload time increased"
+			"ref"		"Faster reload rate SPECIAL"
+			"cost"		"200"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.25"
+		}
+		"72"
+		{
+			"name"		"selfdmg on hit for rapidfire"
+			"ref"		"selfdmg on hit for rapidfire"
+			"cost"		"-400"
+			"value"		"-5.00"
+			"init"		"0.00"
+			"max"		"-999.00"
+		}
+		"73"
+		{
+			"name"		"Blast radius increased"
+			"ref"		"blast radius increased"
+			"cost"		"400"
+			"increase_ratio" "0.35"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"74"
+		{
+			"name"		"Blast radius increased"
+			"ref"		"Blast radius increased (J)"
+			"cost"		"300"
+			"increase_ratio" "0.15"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"75"
+		{
+			"name"		"Blast radius decreased"
+			"ref"		"Blast radius decreased"
+			"cost"		"-1200"
+			"value"		"-0.34"
+			"init"		"1.00"
+			"max"		"0.30"
+		}
+		"76"
+		{
+			"name"		"Projectile speed increased"
+			"ref"		"Projectile speed increased"
+			"cost"		"200"
+			"increase_ratio" "1.00"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"2.00"
+		}
+		"77"
+		{
+			"name"		"Projectile range increased"
+			"ref"		"Projectile force increased"
+			"cost"		"200"
+			"increase_ratio" "1.00"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"2.50"
+		}
+		"78"
+		{
+			"name"		"Projectile speed decreased"
+			"ref"		"Projectile speed decreased"
+			"cost"		"-400"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"79"
+		{
+			"name"		"weapon spread bonus"
+			"ref"		"weapon spread bonus"
+			"cost"		"400"
+			"increase_ratio" "0.75"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"80"
+		{
+			"name"		"health from packs increased"
+			"ref"		"health from packs increased"
+			"cost"		"150"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"81"
+		{
+			"name"		"heal on hit for slowfire"
+			"ref"		"heal on hit for slowfire"
+			"cost"		"200"
+			"value"		"5.00"
+			"init"		"0.00"
+			"max"		"20.00"
+		}
+		"82"
+		{
+			"name"		"ammo regen"
+			"ref"		"ammo regen"
+			"increase_ratio" "1.2"
+			"cost"		"900"
+			"value"		"0.05"
+			"init"		"0.00"
+			"max"		"0.30"
+		}
+		"83"
+		{
+			"name"		"metal regen"
+			"ref"		"metal regen"
+			"cost"		"200"
+			"value"		"5.00"
+			"init"		"0.00"
+			"max"		"1000.00"
+		}
+		"84"
+		{
+			"name"		"mod mini-crit airborne"
+			"ref"		"mod mini-crit airborne"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"85"
+		{
+			"name"		"mod shovel damage boost"
+			"ref"		"mod shovel damage boost"
+			"cost"		"150"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"86"
+		{
+			"name"		"dmg falloff decreased"
+			"ref"		"dmg falloff decreased"
+			"cost"		"100"
+			"value"		"-0.25"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"87"
+		{
+			"name"		"sticky detonate mode"
+			"ref"		"sticky detonate mode"
+			"cost"		"100"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"88"
+		{
+			"name"		"stickies detonate stickies"
+			"ref"		"stickies detonate stickies"
+			"cost"		"150"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"89"
+		{
+			"name"		"mod wrench builds minisentry"
+			"ref"		"mod wrench builds minisentry"
+			"cost"		"-200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"90"
+		{
+			"name"		"max health additive penalty"
+			"ref"		"max health additive penalty"
+			"cost"		"-200"
+			"value"		"-25.00"
+			"init"		"0.00"
+			"max"		"-100.00"
+		}
+		"91"
+		{
+			"name"		"sticky arm time bonus"
+			"ref"		"sticky arm time bonus"
+			"cost"		"100"
+			"value"		"-0.20"
+			"init"		"1.00"
+			"max"		"-1.00"
+		}
+		"92"
+		{
+			"name"		"rocket jump damage reduction"
+			"ref"		"rocket jump damage reduction"
+			"cost"		"150"
+			"value"		"-0.30"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"93"
+		{
+			"name"		"mod sentry killed revenge"
+			"ref"		"mod sentry killed revenge"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"94"
+		{
+			"name"		"building cost reduction"
+			"ref"		"building cost reduction"
+			"cost"		"100"
+			"value"		"-2.0"
+			"init"		"0.00"
+			"max"		"-76.00"
+		}
+		"95"
+		{
+			"name"		"bleeding duration"
+			"ref"		"bleeding duration"
+			"cost"		"100"
+			"value"		"1.00"
+			"increase_ratio" 	"0.75"
+			"init"		"1.00"
+			"max"		"60.00"
+		}
+		"96"
+		{
+			"name"		"disguise on backstab"
+			"ref"		"disguise on backstab"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"97"
+		{
+			"name"		"silent killer"
+			"ref"		"silent killer"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"98"
+		{
+			"name"		"disguise speed penalty"
+			"ref"		"disguise speed"
+			"cost"		"200"
+			"value"		"-0.1"
+			"init"		"0.00"
+			"max"		"-1.50"
+		}
+		"99"
+		{
+			"name"		"disguise damage reduction"
+			"ref"		"disguise damage reduction"
+			"cost"		"400"
+			"value"		"-0.1"
+			"init"		"1.00"
+			"max"		"0.1"
+		}
+		"100"
+		{
+			"name"		"add cloak on kill"
+			"ref"		"add cloak on kill"
+			"cost"		"200"
+			"value"		"0.30"
+			"init"		"0.00"
+			"max"		"12.00"
+		}
+		"101"
+		{
+			"name"		"SET BONUS: quiet unstealth"
+			"ref"		"quiet unstealth"
+			"cost"		"1000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"102"
+		{
+			"name"		"flame size bonus"
+			"ref"		"flame size bonus"
+			"cost"		"800"
+			"increase_ratio" "0.30"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"60.00"
+		}
+		"103"
+		{
+			"name"		"flame life bonus"
+			"ref"		"flame life bonus"
+			"cost"		"250"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"104"
+		{
+			"name"		"charged airblast"
+			"ref"		"charged airblast"
+			"cost"		"200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"105"
+		{
+			"name"		"add cloak on hit"
+			"ref"		"add cloak on hit"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"106"
+		{
+			"name"		"disguise no burn"
+			"ref"		"disguise no burn"
+			"cost"		"800"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"107"
+		{
+			"name"		"airblast cost decreased"
+			"ref"		"airblast cost decreased"
+			"cost"		"300"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"108"
+		{
+			"name"		"flame ammopersec increased"
+			"ref"		"flame ammopersec increased"
+			"cost"		"-200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"5.00"
+		}
+		"109"
+		{
+			"name"		"flame ammopersec decreased"
+			"ref"		"flame ammopersec decreased"
+			"cost"		"200"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"110"
+		{
+			"name"		"no death from headshots"
+			"ref"		"no death from headshots"
+			"cost"		"10000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"111"
+		{
+			"name"		"deploy time decreased"
+			"ref"		"deploy time decreased"
+			"cost"		"200"
+			"value"		"-0.25"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"112"
+		{
+			"name"		"minicrits become crits"
+			"ref"		"minicrits become crits"
+			"cost"		"5000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"113"
+		{
+			"name"		"heal on kill"
+			"ref"		"heal on kill"
+			"increase_ratio" "0.05"
+			"cost"		"200"
+			"value"		"25.00"
+			"init"		"0.00"
+			"max"		"25000.00"
+		}
+		"114"
+		{
+			"name"		"no self blast dmg"
+			"ref"		"no self blast dmg"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"115"
+		{
+			"name"		"slow enemy on hit major"
+			"ref"		"slow enemy on hit major"
+			"cost"		"200"
+			"increase_ratio" 	"1.50"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"60.00"
+		}
+		"116"
+		{
+			"name"		"aiming movespeed increased"
+			"ref"		"aiming movespeed increased"
+			"cost"		"400"
+			"increase_ratio" 	"0.75"
+			"value"		"0.20"
+			"init"		"1.00"
+			"max"		"3.00"
+		}
+		"1162"
+		{
+			"name"		"aiming movespeed increased"
+			"ref"		"charge movespeed increased"
+			"cost"		"200"
+			"increase_ratio" 	"0.75"
+			"value"		"0.20"
+			"init"		"1.00"
+			"max"		"3.00"
+		}
+		"117"
+		{
+			"name"		"aiming movespeed decreased"
+			"ref"		"aiming movespeed decreased"
+			"cost"		"400"
+			"value"		"-0.20"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"118"
+		{
+			"name"		"preserve ubercharge"
+			"ref"		"preserve ubercharge"
+			"cost"		"200"
+			"value"		"0.20"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"119"
+		{
+			"name"		"fires healing bolts"
+			"ref"		"fires healing bolts"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"0.00"
+		}
+		"120"
+		{
+			"name"		"enables aoe heal"
+			"ref"		"enables aoe heal"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"5.00"
+		}
+		"121"
+		{
+			"name"		"gesture speed increase"
+			"ref"		"gesture speed increase"
+			"cost"		"75"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"122"
+		{
+			"name"		"charge time increased"
+			"ref"		"charge time increased"
+			"cost"		"200"
+			"value"		"0.50"
+			"increase_ratio" 	"0.75"
+			"init"		"1.00"
+			"max"		"10.00"
+		}
+		"123"
+		{
+			"name"		"Set DamageType Ignite"
+			"ref"		"Set DamageType Ignite"
+			"cost"		"2400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"124"
+		{
+			"name"		"minicrit vs burning player"
+			"ref"		"minicrit vs burning player"
+			"cost"		"3000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"125"
+		{
+			"name"		"kill eater"
+			"ref"		"kill eater"
+			"cost"		"-5"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"126"
+		{
+			"name"		"apply z velocity on damage"
+			"ref"		"apply z velocity on damage"
+			"cost"		"100"
+			"value"		"20.00"
+			"init"		"20.00"
+			"max"		"150.00"
+		}
+		"127"
+		{
+			"name"		"apply look velocity on damage"
+			"ref"		"apply look velocity on damage"
+			"cost"		"100"
+			"value"		"20.00"
+			"init"		"20.00"
+			"max"		"150.00"
+		}
+		"128"
+		{
+			"name"		"sanguisuge"
+			"ref"		"sanguisuge"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"129"
+		{
+			"name"		"mark for death"
+			"ref"		"mark for death"
+			"cost"		"2000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"130"
+		{
+			"name"		"dmg bonus while half dead"
+			"ref"		"dmg bonus while half dead"
+			"cost"		"400"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"131"
+		{
+			"name"		"mod medic killed revenge"
+			"ref"		"mod medic killed revenge"
+			"cost"		"200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"132"
+		{
+			"name"		"mult sniper charge after headshot"
+			"ref"		"mult sniper charge after headshot"
+			"cost"		"200"
+			"value"		"-0.25"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"133"
+		{
+			"name"		"minigun no spin sounds"
+			"ref"		"minigun no spin sounds"
+			"cost"		"800"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"134"
+		{
+			"name"		"ubercharge rate bonus for healer"
+			"ref"		"ubercharge rate bonus for healer"
+			"cost"		"200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"50.00"
+		}
+		"135"
+		{
+			"name"		"mod rage on hit bonus"
+			"ref"		"mod rage on hit bonus"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"10.00"
+		}
+		"136"
+		{
+			"name"		"mod rage damage boost"
+			"ref"		"Rage damage boost"
+			"increase_ratio" "1.2"
+			"cost"		"300"
+			"value"		"0.15"
+			"init"		"1.00"
+			"max"		"1000.00"
+		}
+		"137"
+		{
+			"name"		"accuracy scales damage"
+			"ref"		"accuracy scales damage"
+			"increase_ratio" "0.8"
+			"cost"		"300"
+			"value"		"0.15"
+			"init"		"1.00"
+			"max"		"1000.00"
+		}
+		"138"
+		{
+			"name"		"mult charge turn control"
+			"ref"		"mult charge turn control"
+			"cost"		"200"
+			"value"		"0.50"
+			"init"		"0.00"
+			"max"		"6.00"
+		}
+		"139"
+		{
+			"name"		"no charge impact range"
+			"ref"		"no charge impact range"
+			"cost"		"500"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"140"
+		{
+			"name"		"charge impact damage increased"
+			"ref"		"charge impact damage increased"
+			"increase_ratio" 	"0.3"
+			"cost"		"200"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"1600.00"
+		}
+		"141"
+		{
+			"name"		"charge recharge rate increased"
+			"ref"		"charge recharge rate increased"
+			"increase_ratio" 	"0.5"
+			"cost"		"150"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"25.00"
+		}
+		"142"
+		{
+			"name"		"air dash count"
+			"ref"		"air dash count"
+			"cost"		"150"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"30.00"
+		}
+		"143"
+		{
+			"name"		"speed buff ally"
+			"ref"		"speed buff ally"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"144"
+		{
+			"name"		"damage force reduction"
+			"ref"		"damage force reduction"
+			"cost"		"200"
+			"increase_ratio" 	"1.0"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.00"
+		}
+		"145"
+		{
+			"name"		"airblast pushback scale"
+			"ref"		"airblast pushback scale"
+			"cost"		"100"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"12.00"
+		}
+		"146"
+		{
+			"name"		"mult airblast refire time"
+			"ref"		"mult airblast refire time"
+			"cost"		"500"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.20"
+		}
+		"147"
+		{
+			"name"		"ammo becomes health"
+			"ref"		"ammo becomes health"
+			"cost"		"100"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"148"
+		{
+			"name"		"boots falling stomp"
+			"ref"		"boots falling stomp"
+			"cost"		"50"
+			"value"		"0.75"
+			"init"		"3.00"
+			"max"		"55.00"
+		}
+		"149"
+		{
+			"name"		"deflection size multiplier"
+			"ref"		"deflection size multiplier"
+			"cost"		"1200"
+			"value"		"0.05"
+			"init"		"1.00"
+			"max"		"10.00"
+		}
+		"150"
+		{
+			"name"		"melee bounds multiplier"
+			"ref"		"melee bounds multiplier"
+			"cost"		"100"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"151"
+		{
+			"name"				"melee range multiplier"
+			"ref"				"melee range multiplier"
+			"increase_ratio" 	"0.4"
+			"cost"		"200"
+			"value"		"0.1"
+			"init"		"1.00"
+			"max"		"70.00"
+		}
+		"152"
+		{
+			"name"		"mod see enemy health"
+			"ref"		"see enemy health"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"153"
+		{
+			"name"		"powerup max charges"
+			"ref"		"powerup max charges"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"3.00"
+			"max"		"15.00"
+		}
+		"154"
+		{
+			"name"		"powerup duration"
+			"ref"		"powerup duration"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"3.00"
+			"max"		"30.00"
+		}
+		"155"
+		{
+			"name"		"bidirectional teleport"
+			"ref"		"bidirectional teleport"
+			"cost"		"500"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"15.00"
+		}
+		"156"
+		{
+			"name"		"effect bar recharge rate increased"
+			"ref"		"effect bar recharge rate increased"
+			"cost"		"250"
+			"value"		"-0.10"
+			"increase_ratio" 	"0.75"
+			"init"		"1.00"
+			"max"		"0.00"
+		}
+		"157"
+		{
+			"name"		"override projectile type"
+			"ref"		"override projectile type"
+			"cost"		"-5"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"158"
+		{
+			"name"		"engy building health bonus"
+			"ref"		"engy building health bonus"
+			"increase_ratio" 	"0.1"
+			"cost"		"200"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"159"
+		{
+			"name"		"engy sentry damage bonus"
+			"ref"		"engy sentry damage bonus"
+			"cost"		"300"
+			"increase_ratio" 	"0.6"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"2950.00"
+		}
+		"160"
+		{
+			"name"		"engy sentry damage bonus"
+			"ref"		"sentry extra damage bonus"
+			"cost"		"300"
+			"increase_ratio" 	"0.75"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"950.00"
+		}
+		"161"
+		{
+			"name"		"no crit boost"
+			"ref"		"no crit boost"
+			"cost"		"-400"
+			"value"		"-1.00"
+			"init"		"1.00"
+			"max"		"0.00"
+		}
+		"162"
+		{
+			"name"		"no crit boost"
+			"ref"		"crit chance"
+			"cost"		"-400"
+			"value"		"-1.00"
+			"init"		"1.00"
+			"max"		"0.00"
+		}
+		"163"
+		{
+			"name"		"crit mod disabled"
+			"ref"		"crit chance"
+			"cost"		"400"
+			"value"		"0.05"
+			"init"		"0.15"
+			"max"		"1.00"
+		}
+		"164"
+		{
+			"name"		"kill eater score type"
+			"ref"		"kill eater score type"
+			"cost"		"-5"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"165"
+		{
+			"name"		"kill eater score type 2"
+			"ref"		"kill eater score type 2"
+			"cost"		"-5"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"166"
+		{
+			"name"		"kill eater 2"
+			"ref"		"kill eater 2"
+			"cost"		"-5"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"167"
+		{
+			"name"		"sapper kills collect crits"
+			"ref"		"sapper kills collect crits"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"168"
+		{
+			"name"		"mod ammo per shot"
+			"ref"		"mod ammo per shot"
+			"cost"		"-400"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"10.00"
+		}
+		"169"
+		{
+			"name"		"sniper full charge damage bonus"
+			"ref"		"sniper full charge damage bonus"
+			"cost"		"400"
+			"value"		"0.25"
+			"increase_ratio" 	"0.5"
+			"init"		"1.00"
+			"max"		"3000.00"
+		}
+		"170"
+		{
+			"name"		"sniper penetrate players when charged"
+			"ref"		"sniper penetrate players when charged"
+			"cost"		"100"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"171"
+		{
+			"name"		"uber duration bonus"
+			"ref"		"uber duration bonus"
+			"cost"		"400"
+			"increase_ratio" 	"0.55"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"80.00"
+		}
+		"172"
+		{
+			"name"		"faster reload rate"
+			"ref"		"faster reload rate"
+			"cost"		"200"
+			"value"		"-0.10"
+			"increase_ratio" 	"1.8"
+			"init"		"1.00"
+			"max"		"0.10"
+		}
+		"173"
+		{
+			"name"		"faster reload rate"
+			"ref"		"faster reload rate (U)"
+			"cost"		"200"
+			"value"		"-0.10"
+			"increase_ratio" 	"2.2"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"174"
+		{
+			"name"		"robo sapper"
+			"ref"		"robo sapper"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"3.00"
+		}
+		"175"
+		{
+			"name"		"attack projectiles"
+			"ref"		"attack projectiles"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"176"
+		{
+			"name"		"increased jump height"
+			"ref"		"jump height"
+			"cost"		"200"
+			"increase_ratio" 	"1.0"
+			"value"		"0.20"
+			"init"		"1.00"
+			"max"		"4.00"
+		}
+		"177"
+		{
+			"name"		"airblast vulnerability multiplier"
+			"ref"		"airblast vulnerability multiplier"
+			"cost"		"200"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"1775"
+		{
+			"name"		"airblast vertical vulnerability multiplier"
+			"ref"		"airblast vertical vulnerability multiplier"
+			"cost"		"200"
+			"value"		"-0.05"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"178"
+		{
+			"name"		"reveal cloaked victim on hit"
+			"ref"		"reveal cloaked victim on hit"
+			"cost"		"2000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"179"
+		{
+			"name"		"reveal disguised victim on hit"
+			"ref"		"reveal disguised victim on hit"
+			"cost"		"2000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"180"
+		{
+			"name"		"engy sentry fire rate increased"
+			"ref"		"engy sentry fire rate increased"
+			"cost"		"400"
+			"increase_ratio" 	"0.25"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"181"
+		{
+			"name"		"engy sentry radius increased"
+			"ref"		"engy sentry radius increased"
+			"cost"		"200"
+			"increase_ratio" 	"1.0"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"182"
+		{
+			"name"		"engy dispenser radius increased"
+			"ref"		"engy dispenser radius increased"
+			"cost"		"200"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"75.00"
+		}
+		"183"
+		{
+			"name"		"engy disposable sentries"
+			"ref"		"engy disposable sentries"
+			"cost"		"500"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"3.00"
+		}
+		"184"
+		{
+			"name"		"stun enemies wielding same weapon"
+			"ref"		"stun enemies wielding same weapon"
+			"cost"		"2000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"185"
+		{
+			"name"		"airblast disabled"
+			"ref"		"airblast disabled"
+			"cost"		"-200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"186"
+		{
+			"name"		"damage all connected"
+			"ref"		"damage all connected"
+			"cost"		"1500"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"187"
+		{
+			"name"		"crit from behind"
+			"ref"		"crit from behind" //TOTEST
+			"cost"		"1200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"188"
+		{
+			"name"		"extinguish earns revenge crits"
+			"ref"		"extinguish earns revenge crits"
+			"cost"		"200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"4.00"
+		}
+		"189"
+		{
+			"name"		"burn damage earns rage"
+			"ref"		"burn damage earns rage"
+			"cost"		"350"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"10.00"
+		}
+		"190"
+		{
+			"name"		"generate rage on damage"
+			"ref"		"generate rage on damage"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"50.00"
+		}
+		"191"
+		{
+			"name"		"rage on kill"
+			"ref"		"rage on kill"
+			"cost"		"350"
+			"value"		"3.00"
+			"init"		"0.00"
+			"max"		"5.00"
+		}
+		"192"
+		{
+			"name"		"headshot damage increase"
+			"ref"		"headshot damage increase"
+			"cost"		"400"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"15.00"
+		}
+		"193"
+		{
+			"name"		"fire rate bonus HIDDEN"
+			"ref"		"fire rate bonus HIDDEN"
+			"cost"		"400"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.25"
+		}
+		"194"
+		{
+			"name"		"explosive sniper shot"
+			"ref"		"explosive sniper shot"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"15.00"
+		}
+		"195"
+		{
+			"name"		"fire rate bonus"
+			"ref"		"melee attack rate penalty"
+			"cost"		"-200"
+			"increase_ratio" 	"1.5"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"4.00"
+		}
+		"196"
+		{
+			"name"		"melee attack rate bonus"
+			"ref"		"melee attack rate bonus (slow)"
+			"cost"		"200"
+			"increase_ratio" 	"1.5"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.40"
+		}
+		"197"
+		{
+			"name"		"melee attack rate bonus"
+			"ref"		"melee attack rate bonus"
+			"cost"		"200"
+			"increase_ratio" 	"1.5"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.25"
+		}
+		"198"
+		{
+			"name"		"projectile penetration heavy"
+			"ref"		"projectile penetration heavy"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"4.00"
+		}
+		"1985"
+		{
+			"name"		"projectile penetration heavy"
+			"ref"		"projectile penetration"
+			"cost"		"300"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"199"
+		{
+			"name"		"armor piercing"
+			"ref"		"armor piercing"
+			"cost"		"300"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"5.00"
+		}
+		"200"
+		{
+			"name"		"cannot be backstabbed"
+			"ref"		"cannot be backstabbed"
+			"cost"		"10000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"201"
+		{
+			"name"		"share consumable with patient"
+			"ref"		"share consumable with patient"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"202"
+		{
+			"name"		"crit vs disguised players"
+			"ref"		"crit vs disguised players"
+			"cost"		"3000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"203"
+		{
+			"name"		"projectile spread angle penalty"
+			"ref"		"projectile spread angle penalty"
+			"cost"		"-400"
+			"value"		"1.50"
+			"init"		"0.00"
+			"max"		"9.00"
+		}
+		"204"
+		{
+			"name"		"auto fires full clip"
+			"ref"		"auto fires full clip"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"205"
+		{
+			"name"		"can overload"
+			"ref"		"can overload"
+			"cost"		"-800"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"206"
+		{
+			"name"		"hype resets on jump"
+			"ref"		"hype resets on jump"
+			"cost"		"-200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"207"
+		{
+			"name"		"clip size penalty HIDDEN"
+			"ref"		"clip size penalty HIDDEN"
+			"cost"		"-200"
+			"value"		"-0.15"
+			"init"		"1.00"
+			"max"		"0.25"
+		}
+		"208"
+		{
+			"name"		"maxammo grenades1 increased"
+			"ref"		"max ammo"
+			"cost"		"300"
+			"value"		"1.0"
+			"init"		"1.00"
+			"max"		"20.0"
+		}
+		"209"
+		{
+			"name"		"ring of fire while aiming"
+			"ref"		"ring of fire while aiming"
+			"cost"		"400"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"210"
+		{
+			"name"		"uses ammo while aiming"
+			"ref"		"uses ammo while aiming"
+			"cost"		"-800"
+			"value"		"4.00"
+			"init"		"0.00"
+			"max"		"50.00"
+		}
+		"211"
+		{
+			"name"		"aiming no flinch"
+			"ref"		"aiming no flinch when hurt"
+			"cost"		"2500"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"212"
+		{
+			"name"		"medigun charge is crit boost"
+			"ref"		"medigun charge is crit boost"
+			"cost"		"50"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"213"
+		{
+			"name"		"move speed penalty"
+			"ref"		"move speed (heavy)"
+			"cost"		"400"
+			"increase_ratio" 	"1.5"
+			"value"		"0.10"
+			"init"		"1.00"
+			"max"		"2.20"
+		}
+		"214"
+		{
+			"name"		"major move speed bonus"
+			"ref"		"move speed penalty"
+			"cost"		"-400"
+			"increase_ratio" 	"0.75"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.15"
+		}
+		"215"
+		{
+			"name"		"melee attack rate bonus"
+			"ref"		"melee attack rate bonus (spy)"
+			"increase_ratio" "2.0"
+			"cost"		"300"
+			"value"		"-0.10"
+			"init"		"1.00"
+			"max"		"0.05"
+		}
+		"216"
+		{
+			"name"		"engy disposable sentries"
+			"ref"		"additionnal disposable sentries (mvm)"
+			"cost"		"400"
+			"increase_ratio" "0.25"
+			"mvm_only"	"1"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"6.00"
+		}
+		"217"
+		{
+			"name"		"multiple sentries"//nut workin
+			"ref"		"multiple sentries?"
+			"cost"		"800"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"4.00"
+			
+		}
+		"218"
+		{
+			"name"		"bullets per shot bonus"
+			"ref"		"bullets per shot bonus (heavy)"
+			"cost"		"900"
+			"increase_ratio" "0.75"
+			"value"		"0.25"
+			"init"		"1.00"
+			"max"		"3.00"
+		}
+		"219"
+		{
+			
+			"name"		"increase buff duration"
+			"ref"		"increase buff duration"
+			"cost"		"500"
+			"value"		"0.20"
+			"increase_ratio" 	"0.35"
+			"init"		"1.00"
+			"max"		"90.00"
+		}
+		"220"
+		{
+			
+			"name"		"buff duration"
+			"ref"		"increase buff duration"
+			"cost"		"500"
+			"value"		"0.20"
+			"increase_ratio" 	"0.35"
+			"init"		"1.00"
+			"max"		"90.00"
+		}
+		"221"
+		{
+			
+			"name"		"cancel falling damage"
+			"ref"		"cancel falling damage"
+			"cost"		"1200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"222"
+		{
+			"name"		"set item tint RGB"
+			"ref"		"set item tint"
+			"cost"		"10"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"0.00"
+		}
+		"223"
+		{
+			"name"		"lunchbox adds maxhealth bonus"
+			"ref"		"lunchbox adds maxhealth bonus"
+			"cost"		"100"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.00"
+		}
+		"224"
+		{
+			"name"		"overheal decay disabled"
+			"ref"		"overheal decay disabled"
+			"cost"		"-600"
+			"value"		"-1.00"
+			"init"		"1.00"
+			"max"		"0.0"
+		}
+		"225"
+		{
+			"name"		"honorbound"
+			"ref"		"honor bound"
+			"cost"		"-1200"
+			"value"		"-1.00"
+			"init"		"1.00"
+			"max"		"0.0"
+		}
+		"226"
+		{
+			"name"		"jarate duration"
+			"ref"		"jarate duration"
+			"cost"		"200"
+			"increase_ratio" 	"0.75"
+			"value"		"1.00"
+			"init"		"1.00"
+			"max"		"30.0"
+		}
+		"227"
+		{
+			"name"		"damage causes airblast"
+			"ref"		"damage causes airblast"
+			"cost"		"2000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.0"
+		}
+		"228"
+		{
+			"name"		"use large smoke explosion"
+			"ref"		"use large smoke explosion"
+			"cost"		"20000"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.0"
+		}
+		"229"
+		{
+			"name"		"scattergun knockback mult"
+			"ref"		"scattergun knockback mult"
+			"cost"		"200"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"20.0"
+		}
+		"230"
+		{
+			"name"		"engineer building teleporting pickup"
+			"ref"		"engineer building teleporting pickup"
+			"cost"		"200"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.0"
+		}
+		"231"
+		{
+			"name"		"damage applies to sappers"
+			"ref"		"damage applies to sappers"
+			"cost"		"800"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.0"
+		}
+		"232"
+		{
+			"name"		"sapper damage bonus"
+			"ref"		"sapper damage bonus"
+			"increase_ratio" 	"0.1"
+			"cost"		"200"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"234"
+		{
+			"name"		"sapper health bonus"
+			"ref"		"sapper health bonus"
+			"increase_ratio" 	"0.1"
+			"cost"		"200"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"235"
+		{
+			"name"		"sapper damage leaches health"
+			"ref"		"sapper damage leaches health"
+			"increase_ratio" 	"0.1"
+			"cost"		"200"
+			"value"		"0.50"
+			"init"		"1.00"
+			"max"		"1500.00"
+		}
+		"236"
+		{
+			"name"		"honorbound"
+			"ref"		"honorbound"
+			"cost"		"-1"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"1.0"
+		}
+		"236"
+		{
+			"name"		"increase player capture value"
+			"ref"		"increase player capture value"
+			"cost"		"600"
+			"value"		"1.00"
+			"init"		"0.00"
+			"max"		"3.0"
+		}
+		
+	}
+}

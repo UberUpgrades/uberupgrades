@@ -1,0 +1,1609 @@
+"Phrases"
+{
+
+	"Body upgrade"
+	{
+		"sv"		"Skydd & Hälsa"
+	}
+
+	"Upgrade my primary weapon"
+	{
+		"sv"		"Uppgradera Min Primär Vapen"
+	}
+
+	"Upgrade my secondary weapon"
+	{
+		"sv"		"Uppgradera Min Sekundära Vapen"
+	}
+
+	"Upgrade my melee weapon"
+	{
+		"sv"		"Uppgradera min Närstridsvapen"
+	}
+
+	"Display Upgrades/Remove disabilities"
+	{
+		"sv"		"Visa Uppgraderingar/Ta Bort"
+	}
+
+	"Buy a neeew weapon!!"
+	{
+		"sv"		"Köp Ett Nytt Vapen!!"
+	}
+
+	"Upgrade my neeew weapon!!"
+	{
+		"sv"		"Uppgradera Mitt Nya Vapen!!"
+	}
+
+	"Display Upgrades/Remove downgrades - Primary Weapon"
+	{
+		"sv"		"Visa Uppgraderingar/Ta Bort - Primär"
+	}
+
+	"Display Upgrades/Remove downgrades - Secondary Weapon"
+	{
+		"sv"		"Visa Uppgraderingar/Ta Bort - Sekundär"
+	}
+
+	"Display Upgrades/Remove downgrades - Melee Weapon"
+	{
+		"sv"		"Visa Uppgraderingar/Ta Bort - Närstridsvapen"
+	}
+
+	"Display Upgrades/Remove downgrades - Body"
+	{
+		"sv"		"Visa Uppgraderingar/Ta Bort - Skydd & Hälsa"
+	}
+
+	"Display Upgrades/Remove downgrades - Special Weapon"
+	{
+		"sv"		"Visa Uppgraderingar/Ta Bort - Special Vapen"
+	}
+
+	"Primary Weapon"
+	{
+		"sv"		"Primär Vapen"
+	}
+
+	"Secondary Weapon"
+	{
+		"sv"		"Sekundära Vapen"
+	}
+
+	"Melee Weapon"
+	{
+		"sv"		"Närstridsvapen"
+	}
+
+	"Special Weapon"
+	{
+		"sv"		"Special Vapen"
+	}
+
+	"Body"
+	{
+		"sv"		"Skydd & Hälsa"
+	}
+
+	"You have not enough money!!"
+	{
+		"sv"		"Du Har Inte Tillräckligt Med Pengar!!"
+	}
+
+	"Attribute removed"
+	{
+		"sv"		"Attribut Borttagen"
+	}
+
+	"Protection upgrades"
+	{
+		"sv"		"Skyddsuppgraderingar"
+	}
+
+	"Physical upgrades"
+	{
+		"sv"		"Fysiska Uppgraderingar"
+	}
+
+	"Ammo upgrades"
+	{
+		"sv"		"Ammunitionsuppgraderingar"
+	}
+
+	"Spy upgrades"
+	{
+		"sv"		"Spionuppgraderingar"
+	}
+
+	"Ammo & metal upgrades"
+	{
+		"sv"		"Ammunitions- & Metallupgraderingar"
+	}
+
+	"Damage upgrades"
+	{
+		"sv"		"Skadeuppgraderingar"
+	}
+
+	"Cannon specific upgrades"
+	{
+		"sv"		"Kanon Specifika Uppgraderingar"
+	}
+
+	"Special Tweaks"
+	{
+		"sv"		"Speciella Ändringar"
+	}
+
+	"Extra features*"
+	{
+		"sv"		"Extra Egenskaper*"
+	}
+
+	"Pipebomb launcher specific upgrades"
+	{
+		"sv"		"Rörbombskastar Specifika Uppgraderingar"
+	}
+
+	"Launcher specific upgrades"
+	{
+		"sv"		"Raket Specifika Uppgraderingar"
+	}
+
+	"Melee specific upgrades"
+	{
+		"sv"		"Närstrids Specifika Uppgraderingar"
+	}
+
+	"Charge upgrades"
+	{
+		"sv"		"Anfallsuppgraderingar"
+	}
+
+	"Weapon Specific upgrades"
+	{
+		"sv"		"Vapen Specifika Uppgraderingar"
+	}
+
+	"Gun specific upgrades"
+	{
+		"sv"		"Vapen Specifika Uppgraderingar"
+	}
+
+	"Laser weapon specific upgrades"
+	{
+		"sv"		"Laser Specifika Uppgraderingar"
+	}
+
+	"Short circuit specific upgrades"
+	{
+		"sv"		"Kortslutnings Specifika Uppgraderingar"
+	}
+
+	"Building tech upgrades"
+	{
+		"sv"		"Byggnads Uppgraderingar"
+	}
+
+	"Minigun specific upgrades"
+	{
+		"sv"		"Minigun Specifika Uppgraderingar"
+	}
+
+	"Lunchbox specific upgrades"
+	{
+		"sv"		"Matlåd-Specifika Uppgraderingar"
+	}
+
+	"Syringegun specific upgrades"
+	{
+		"sv"		"Sprutvapen Specifika Uppgraderingar"
+	}
+
+	"Medigun Specific upgrades"
+	{
+		"sv"		"Helingsvapen Specifika Uppgraderingar"
+	}
+
+	"Flamethrower specific upgrades"
+	{
+		"sv"		"Eldkastar specifika Uppgraderingar"
+	}
+
+	"Flaregun specific upgrades"
+	{
+		"sv"		"Singnalpistols specifika Uppgraderingar"
+	}
+
+	"Shotgun specific upgrades"
+	{
+		"sv"		"Hagelgevärs specifika Uppgraderingar"
+	}
+
+	"Scattergun specific upgrades"
+	{
+		"sv"		"Hagelbössa specifika Uppgraderingar"
+	}
+
+	"Handgun specific upgrades"
+	{
+		"sv"		"Handeldsvapen specifika Uppgraderingar"
+	}
+
+	"Cleaver specific upgrades"
+	{
+		"sv"		"Klyvknivs specifika Uppgraderingar"
+	}
+
+	"Jarate specific upgrades"
+	{
+		"sv"		"Jarate specifika Uppgraderingar"
+	}
+
+	"Sniper specific upgrades"
+	{
+		"sv"		"Krypskytts specifika Uppgraderingar"
+	}
+
+	"Smg Specific upgrades"
+	{
+		"sv"		"Smg Specifika Uppgraderingar"
+	}
+
+	"Mangler specific upgrades"
+	{
+		"sv"		"Mangler specifika Uppgraderingar"
+	}
+
+	"Laser specific upgrades"
+	{
+		"sv"		"Laser specifika Uppgraderingar"
+	}
+
+	"Specific upgrades"
+	{
+		"sv"		"Specifika Uppgraderingar"
+	}
+
+	"Sapper upgrades"
+	{
+		"sv"		"Sapper Uppgraderingar"
+	}
+
+	"Buff banner specific upgrades"
+	{
+		"sv"		"Buffbanneret specifika Uppgraderingar"
+	}
+
+	"Damage bonus vs player"
+	{
+		"sv"		"Mer Skada Mot Spelare"
+	}
+
+	"Damage bonus vs player (C)"
+	{
+		"sv"		"SkadeBonus mot Spelare (C)"
+	}
+
+	"armor piercing damage"
+	{
+		"sv"		"PansarBrytande Skada"
+	}
+
+	"damage bonus SPECIAL"
+	{
+		"sv"		"Special Skada"
+	}
+
+	"damage bonus"
+	{
+		"sv"		"Skada"
+	}
+
+	"clip size penalty"
+	{
+		"sv"		"Magasinstorleks Nedsättning"
+	}
+
+	"clip size bonus"
+	{
+		"sv"		"Större Magasin Storlek"
+	}
+
+	"clip size bonus (E)"
+	{
+		"sv"		"Större Magasin Storlek (E)"
+	}
+
+	"clip size bonus (B)"
+	{
+		"sv"		"Större Magasin Storlek (B)"
+	}
+
+	"fire rate penalty"
+	{
+		"sv"		"Eldgivningshastighet Nedsättning"
+	}
+
+	"fire rate bonus"
+	{
+		"sv"		"Eldgivningshastighet Bonus"
+	}
+
+	"heal rate bonus"
+	{
+		"sv"		"Läke Hastighet Bonus"
+	}
+
+	"ubercharge rate bonus"
+	{
+		"sv"		"Überladdnings Bonus"
+	}
+
+	"overheal bonus"
+	{
+		"sv"		"Överhelnings Bonus"
+	}
+
+	"overheal decay bonus"
+	{
+		"sv"		"Överhelnings Förfall Hastighet"
+	}
+
+	"crit mod disabled"
+	{
+		"sv"		"Kritisk Träff Mod. Avstängd"
+	}
+
+	"heal on hit for rapidfire"
+	{
+		"sv"		"heal on hit"
+	}
+
+	"heal on hit (slowfire)"
+	{
+		"sv"		"Helande Vid Träff (Långsam Eldgivning)"
+	}
+
+	"add uber charge on hit"
+	{
+		"sv"		"Überladda vid Träff"
+	}
+
+	"crit vs burning players"
+	{
+		"sv"		"Kritiskt. Mot Brinnande Spelare"
+	}
+
+	"mod flamethrower back crit"
+	{
+		"sv"		"Mod. Ryggbrännar Krit."
+	}
+
+	"max health additive bonus"
+	{
+		"sv"		"Max Adderad Hälsa"
+	}
+
+	"max health additive bonus (H)"
+	{
+		"sv"		"Max Adderad Hälsa (H)"
+	}
+
+	"critboost on kill"
+	{
+		"sv"		"Ge Krit. Vid Dödande Träff"
+	}
+
+	"set cloak is feign death"
+	{
+		"sv"		"Osyn. Klockan ger Dödsringar Effekten"
+	}
+
+	"cloak consume rate"
+	{
+		"sv"		"Döljningsklockans Förbrukshastighet"
+	}
+
+	"mult cloak meter regen rate"
+	{
+		"sv"		"Mult. Döljningsklockans Återhämtninghastighet"
+	}
+
+	"cloak rate"
+	{
+		"sv"		"Döljnings Hastighet"
+	}
+
+	"decloak rate"
+	{
+		"sv"		"Döljning Borttagningshastighet"
+	}
+
+	"spread penalty"
+	{
+		"sv"		"Ökad Kulspridning"
+	}
+
+	"zoom speed mod disabled"
+	{
+		"sv"		"Mod. Zoomnings Hastighet Av"
+	}
+
+	"sniper charge per sec"
+	{
+		"sv"		"Krypskytts Laddningshastighet"
+	}
+
+	"scattergun no reload single"
+	{
+		"sv"		"Hagelbössan Laddar Bara En Gång"
+	}
+
+	"scattergun has knockback"
+	{
+		"sv"		"Hagelbössan Har Rekyl"
+	}
+
+	"bullets per shot bonus"
+	{
+		"sv"		"Mer Kulor per Skott"
+	}
+
+	"bullets per shot bonus (single)"
+	{
+		"sv"		"Mer Kulor per Skott (Enstaka)"
+	}
+
+	"absorb damage while cloaked"
+	{
+		"sv"		"Absorbera Skada Vid Döljning"
+	}
+
+	"revolver use hit locations"
+	{
+		"sv"		"Revolvern har Träffpunkter"
+	}
+
+	"backstab shield"
+	{
+		"sv"		"Rygghuggssköld"
+	}
+
+	"fire retardant"
+	{
+		"sv"		"Eld Retardand"
+	}
+
+	"move speed"
+	{
+		"sv"		"Rörelsehastighet"
+	}
+
+	"health regen"
+	{
+		"sv"		"Hälso Regenering"
+	}
+
+	"self dmg push force increased"
+	{
+		"sv"		"Mer Självtryckskraft"
+	}
+
+	"dmg taken from fire reduced"
+	{
+		"sv"		"Skada Från Eld Reducerad"
+	}
+
+	"dmg taken from crit reduced"
+	{
+		"sv"		"Skada Från Krit. Reducerad"
+	}
+
+	"dmg taken from blast reduced"
+	{
+		"sv"		"Skada Från Explosioner Reducerad"
+	}
+
+	"dmg taken from bullets reduced"
+	{
+		"sv"		"Skada Från Skott Reducerad"
+	}
+
+	"dmg from ranged reduced"
+	{
+		"sv"		"Skada Från Distanskällor Reducerad"
+	}
+
+	"dmg from sentry reduced"
+	{
+		"sv"		"Skada Från Vaktgevär Reducerad"
+	}
+
+	"dmg from melee reduced"
+	{
+		"sv"		"Skada Från Närstrid Reducerad"
+	}
+
+	"dmg taken reduced"
+	{
+		"sv"		"Skada Från Allmänt Reducerad"
+	}
+
+	"health from healers increased"
+	{
+		"sv"		"Hälsa Från Helare Ökad"
+	}
+
+	"afterburn dmg increased"
+	{
+		"sv"		"Efterbrännsskada Ökad"
+	}
+
+	"afterburn dmg increased (E)"
+	{
+		"sv"		"Efterbrännsskada Ökad (E)"
+	}
+
+	"afterburn time increased"
+	{
+		"sv"		"Efterbrännstid Ökad"
+	}
+
+	"max ammo"
+	{
+		"sv"		"max ammo"
+	}
+
+	"maxammo primary increased"
+	{
+		"sv"		"Maximal Ammution Primär"
+	}
+
+	"maxammo primary increased (S)"
+	{
+		"sv"		"Maximal Ammunition Primär (S)"
+	}
+
+	"maxammo primary reduced"
+	{
+		"sv"		"Mindre Ammunition Primär"
+	}
+
+	"maxammo secondary increased"
+	{
+		"sv"		"Maximal Ammunition Sekundär"
+	}
+
+	"maxammo secondary increased (S)"
+	{
+		"sv"		"Maximal Ammuniton Sekundär (S)"
+	}
+
+	"maxammo secondary reduced"
+	{
+		"sv"		"Mindre Ammuniton Sekundär"
+	}
+
+	"maxammo metal increased"
+	{
+		"sv"		"maxammo metal increased"
+	}
+
+	"maxammo metal reduced"
+	{
+		"sv"		"Mindre Metall"
+	}
+
+	"minigun spinup time increased"
+	{
+		"sv"		"Minigun Uppsnurrningstid Ökad"
+	}
+
+	"minigun spinup time decreased"
+	{
+		"sv"		"Minigun Uppsnurrningstiden Minskad"
+	}
+
+	"max pipebombs increased"
+	{
+		"sv"		"Max Rörbomber Aktiva"
+	}
+
+	"Construction rate increased"
+	{
+		"sv"		"Byggnadshastighet Ökad"
+	}
+
+	"Build rate bonus"
+	{
+		"sv"		"Build rate bonus"
+	}
+
+	"Repair rate increased"
+	{
+		"sv"		"Lagningshastighet Ökad"
+	}
+
+	"Reload time increased"
+	{
+		"sv"		"Omladdningstid Ökad"
+	}
+
+	"selfdmg on hit for rapidfire"
+	{
+		"sv"		"Självskada för Konstant Eldgivning"
+	}
+
+	"blast radius increased"
+	{
+		"sv"		"Blast radius increased"
+	}
+
+	"Blast radius increased (J)"
+	{
+		"sv"		"Blast radius increased"
+	}
+
+	"Blast radius decreased"
+	{
+		"sv"		"Explosionsradie Minskad"
+	}
+
+	"Projectile speed increased"
+	{
+		"sv"		"Projektil Hastighet Ökad"
+	}
+
+	"Projectile force increased"
+	{
+		"sv"		"Projektiltryckkraft Ökad"
+	}
+
+	"Projectile speed decreased"
+	{
+		"sv"		"Projektil Hastighet Minskad"
+	}
+
+	"weapon spread bonus"
+	{
+		"sv"		"Kulspridnings Reducering"
+	}
+
+	"health from packs increased"
+	{
+		"sv"		"Hälsa från Lådor Ökad"
+	}
+
+	"heal on hit for slowfire"
+	{
+		"sv"		"Hälsa vid Träff (Långsam Eldgivning)"
+	}
+
+	"ammo regen"
+	{
+		"sv"		"Regenerande Ammunition"
+	}
+
+	"metal regen"
+	{
+		"sv"		"Regenerande Metall"
+	}
+
+	"mod mini-crit airborne"
+	{
+		"sv"		"Mod. Mini-Krit. Luftburna Mål"
+	}
+
+	"mod shovel damage boost"
+	{
+		"sv"		"Mod. Skyffel Skadebonus"
+	}
+
+	"dmg falloff decreased"
+	{
+		"sv"		"Reducerad Fallskada"
+	}
+
+	"sticky detonate mode"
+	{
+		"sv"		"Normal Rörbombsdetonering"
+	}
+
+	"stickies detonate stickies"
+	{
+		"sv"		"Rörbomber Detonerar Varandra"
+	}
+
+	"mod wrench builds minisentry"
+	{
+		"sv"		"Mod. Skfitnyckel Bygger Mini-Vaktgevär"
+	}
+
+	"max health additive penalty"
+	{
+		"sv"		"Mindre Maximal Hälsa"
+	}
+
+	"sticky arm time bonus"
+	{
+		"sv"		"Rörbombs Armeringstid Reducerad"
+	}
+
+	"rocket jump damage reduction"
+	{
+		"sv"		"Rakethoppsskada Reducerad"
+	}
+
+	"mod sentry killed revenge"
+	{
+		"sv"		"Mod. Vaktgevär Ger Lag-Rätt. Effekt"
+	}
+
+	"building cost reduction"
+	{
+		"sv"		"Byggnadskostnad Reducerad"
+	}
+
+	"bleeding duration"
+	{
+		"sv"		"Blödningstid"
+	}
+
+	"disguise on backstab"
+	{
+		"sv"		"Förklä som ditt Offer"
+	}
+
+	"silent killer"
+	{
+		"sv"		"Tyst Mördare"
+	}
+
+	"disguise speed"
+	{
+		"sv"		"Förklädningshastighet"
+	}
+
+	"disguise damage reduction"
+	{
+		"sv"		"Förklädnadskade Reduction"
+	}
+
+	"add cloak on kill"
+	{
+		"sv"		"Ge Döljning vid Dödande Träff"
+	}
+
+	"quiet unstealth"
+	{
+		"sv"		"Tyst Avdöljning"
+	}
+
+	"flame size bonus"
+	{
+		"sv"		"Ökad Storlek På Eldflamman"
+	}
+
+	"flame life bonus"
+	{
+		"sv"		"Ökad Hälsa för Eldflamman"
+	}
+
+	"charged airblast"
+	{
+		"sv"		"Laddad Luftstöt"
+	}
+
+	"add cloak on hit"
+	{
+		"sv"		"Ge Döljning vid Träff"
+	}
+
+	"disguise no burn"
+	{
+		"sv"		"Förklädnad Brinner Ej"
+	}
+
+	"airblast cost decreased"
+	{
+		"sv"		"Luftstötskostnad Reducerad"
+	}
+
+	"flame ammopersec increased"
+	{
+		"sv"		"Eldflammans Kostnad Ökad"
+	}
+
+	"flame ammopersec decreased"
+	{
+		"sv"		"Eldflammans Kostnad Reducerad"
+	}
+
+	"no death from headshots"
+	{
+		"sv"		"Inga Dödsfall från Huvudskott"
+	}
+
+	"deploy time decreased"
+	{
+		"sv"		"Snabbare Vapenbyte"
+	}
+
+	"minicrits become crits"
+	{
+		"sv"		"Mini-Krit. Blir Krit."
+	}
+
+	"heal on kill"
+	{
+		"sv"		"Hela Vid Dödande Träff"
+	}
+
+	"no self blast dmg"
+	{
+		"sv"		"Ingen Självskada Tagen Från Explosioner"
+	}
+
+	"slow enemy on hit major"
+	{
+		"sv"		"Sakta Ner Fienden Vid Träff"
+	}
+
+	"aiming movespeed increased"
+	{
+		"sv"		"Rörelsehastighet vid Anvädning av Sikte Ökad"
+	}
+
+	"aiming movespeed decreased"
+	{
+		"sv"		"Röreksehastighet vid Anvädning av Sikte Ökad"
+	}
+
+	"charge movespeed increased"
+	{
+		"sv"		"charge movespeed increased"
+	}
+
+	"preserve ubercharge"
+	{
+		"sv"		"Behåll Überladdning vid Död"
+	}
+
+	"fires healing bolts"
+	{
+		"sv"		"Skjuter Helande Pilar"
+	}
+
+	"enables aoe heal"
+	{
+		"sv"		"Har En Helande "
+	}
+
+	"gesture speed increase"
+	{
+		"sv"		"Hastighet för Hån Ökad"
+	}
+
+	"charge time increased"
+	{
+		"sv"		"Anfalltid Ökad"
+	}
+
+	"Set DamageType Ignite"
+	{
+		"sv"		"Vapnet Gör Eldskada"
+	}
+
+	"minicrit vs burning player"
+	{
+		"sv"		"Mini-Krit mot Brinnande Spelare"
+	}
+
+	"kill eater"
+	{
+		"sv"		"Dödsätare"
+	}
+
+	"apply z velocity on damage"
+	{
+		"sv"		"Få Uppåtkraft Vid Skada"
+	}
+
+	"apply look velocity on damage"
+	{
+		"sv"		"Applicera syn-velocitet vid skada"
+	}
+
+	"sanguisuge"
+	{
+		"sv"		"sanguisuge"
+	}
+
+	"mark for death"
+	{
+		"sv"		"Markera för död"
+	}
+
+	"dmg bonus while half dead"
+	{
+		"sv"		"Skadebonus Vid <50% av Hälsa"
+	}
+
+	"mod medic killed revenge"
+	{
+		"sv"		"Mod. Sjuk. död Hämnd"
+	}
+
+	"mult sniper charge after headshot"
+	{
+		"sv"		"Mult. Krypskytt Laddning Efter Huvudskott"
+	}
+
+	"minigun no spin sounds"
+	{
+		"sv"		"Ingen Minigun Ljud"
+	}
+
+	"ubercharge rate bonus for healer"
+	{
+		"sv"		"Überladdnings Hastighet för Helare"
+	}
+
+	"mod rage on hit bonus"
+	{
+		"sv"		"Mod. Ilska vid Träff"
+	}
+
+	"Rage damage boost"
+	{
+		"sv"		"mod rage damage boost"
+	}
+
+	"accuracy scales damage"
+	{
+		"sv"		"accuracy scales damage"
+	}
+
+	"mult charge turn control"
+	{
+		"sv"		"Mult. Anfalls girhastighetsreglaget"
+	}
+
+	"no charge impact range"
+	{
+		"sv"		"Ingen Anfalls Impaktsdistans"
+	}
+
+	"charge impact damage increased"
+	{
+		"sv"		"Anfalls Impaktskada Ökad"
+	}
+
+	"charge recharge rate increased"
+	{
+		"sv"		"Anfalls Laddnings hastighet ökad"
+	}
+
+	"air dash count"
+	{
+		"sv"		"Lufthoppsräkning"
+	}
+
+	"speed buff ally"
+	{
+		"sv"		"Hastighetboosta Allierade"
+	}
+
+	"damage force reduction"
+	{
+		"sv"		"Tryckkraft Från Skada Reducering"
+	}
+
+	"airblast pushback scale"
+	{
+		"sv"		"Luftstöts Knuffskala"
+	}
+
+	"mult airblast refire time"
+	{
+		"sv"		"Mult. Luftstöts Omeldgivning"
+	}
+
+	"ammo becomes health"
+	{
+		"sv"		"Ammunition Blir Till Hälsa"
+	}
+
+	"boots falling stomp"
+	{
+		"sv"		"Skada Från Stövlar"
+	}
+
+	"deflection size multiplier"
+	{
+		"sv"		"Deflektionsstorlek Ökning"
+	}
+
+	"melee bounds multiplier"
+	{
+		"sv"		"Närstridsgräns Ökning"
+	}
+
+	"melee range multiplier"
+	{
+		"sv"		"Närstrids räckvidd Ökning"
+	}
+
+	"see enemy health"
+	{
+		"sv"		"Se Fiendehälsa"
+	}
+
+	"powerup max charges"
+	{
+		"sv"		"Max. 'Powerup' Laddningar"
+	}
+
+	"powerup duration"
+	{
+		"sv"		"'Powerup' Varaktighet"
+	}
+
+	"bidirectional teleport"
+	{
+		"sv"		"Dubbelriktad Teleportör"
+	}
+
+	"effect bar recharge rate increased"
+	{
+		"sv"		"Effekt Mätare Hastighet Ökad"
+	}
+
+	"override projectile type"
+	{
+		"sv"		"Ersätt Projektiltyp"
+	}
+
+	"engy building health bonus"
+	{
+		"sv"		"Byggnads total Hälsa"
+	}
+
+	"engy sentry damage bonus"
+	{
+		"sv"		"Vaktgevärs skada"
+	}
+
+	"sentry extra damage bonus"
+	{
+		"sv"		"Vaktgevär Extra Skada"
+	}
+
+	"no crit boost"
+	{
+		"sv"		"Ingen Krit. Boost"
+	}
+
+	"crit chance"
+	{
+		"sv"		"Crit chance"
+	}
+
+	"kill eater score type"
+	{
+		"sv"		"Döda Ätare Poängtyp"
+	}
+
+	"kill eater score type 2"
+	{
+		"sv"		"Döda Ätare Poängtyp 2"
+	}
+
+	"kill eater 2"
+	{
+		"sv"		"Döda Ätare 2"
+	}
+
+	"sapper kills collect crits"
+	{
+		"sv"		"Sappade Byggnader Ger Krit."
+	}
+
+	"mod ammo per shot"
+	{
+		"sv"		"Mod. Ammunition Per Skott"
+	}
+
+	"sniper full charge damage bonus"
+	{
+		"sv"		"Krypskytt Full Laddning Skadebonus"
+	}
+
+	"sniper penetrate players when charged"
+	{
+		"sv"		"Skott Penetrerar Spelare Vid Full Laddning"
+	}
+
+	"uber duration bonus"
+	{
+		"sv"		"ÜberLaddningsvaraktighet Bonus"
+	}
+
+	"Faster reload rate SPECIAL"
+	{
+		"sv"		"Faster reload rate SPECIAL"
+	}
+
+	"faster reload rate"
+	{
+		"sv"		"Snabbare Omladdning"
+	}
+
+	"faster reload rate (U)"
+	{
+		"sv"		"Snabbare Omladdning (U)"
+	}
+
+	"robo sapper"
+	{
+		"sv"		"Robotsapper"
+	}
+
+	"attack projectiles"
+	{
+		"sv"		"Förstör Projektiler"
+	}
+
+	"jump height"
+	{
+		"sv"		"Hopp Höjd"
+	}
+
+	"airblast vulnerability multiplier"
+	{
+		"sv"		"Luftstötssårbarhet Mult."
+	}
+
+	"reveal cloaked victim on hit"
+	{
+		"sv"		"Avslöja Dold Offer Vid Träff"
+	}
+
+	"reveal disguised victim on hit"
+	{
+		"sv"		"Avslöja Förklädd Offer Vid Träff"
+	}
+
+	"engy sentry fire rate increased"
+	{
+		"sv"		"Ökad Vaktgevärets eldgivningshastighet"
+	}
+
+	"engy sentry radius increased"
+	{
+		"sv"		"Ökad Vaktgevärs Radie"
+	}
+
+	"engy dispenser radius increased"
+	{
+		"sv"		"Ökad Utmatarradie"
+	}
+
+	"engy disposable sentries"
+	{
+		"sv"		"Disponibelt Vaktgevär"
+	}
+
+	"stun enemies wielding same weapon"
+	{
+		"sv"		"Bedöva Fiender Som Har Samma Vapen"
+	}
+
+	"airblast disabled"
+	{
+		"sv"		"Luftstöt Inaktiverad"
+	}
+
+	"damage all connected"
+	{
+		"sv"		"Skada Alla Anslutna"
+	}
+
+	"crit from behind"
+	{
+		"sv"		"Krit. Bakom"
+	}
+
+	"extinguish earns revenge crits"
+	{
+		"sv"		"Hämnd-Krit. Vid Släckning"
+	}
+
+	"burn damage earns rage"
+	{
+		"sv"		"Eldskada ger Ilska"
+	}
+
+	"generate rage on damage"
+	{
+		"sv"		"generera Ilska vid Skada"
+	}
+
+	"rage on kill"
+	{
+		"sv"		"Ilska Vid Dödande Träff"
+	}
+
+	"headshot damage increase"
+	{
+		"sv"		"Huvudskottsskade Ökning"
+	}
+
+	"fire rate bonus HIDDEN"
+	{
+		"sv"		"Eldgivningshastighet Bonus GÖMD"
+	}
+
+	"fire rate bonus (C)"
+	{
+		"sv"		"Eldgivningshastighet Bonus (C)"
+	}
+
+	"explosive sniper shot"
+	{
+		"sv"		"explosivt Krypskyttsskott"
+	}
+
+	"melee attack rate bonus (slow)"
+	{
+		"sv"		"Närstrids attack hastighet (långsam)"
+	}
+
+	"melee attack rate bonus"
+	{
+		"sv"		"Närstrids attack hastighet"
+	}
+
+	"melee attack rate penalty"
+	{
+		"sv"		"melee attack rate penalty"
+	}
+
+	"projectile penetration heavy"
+	{
+		"sv"		"Tung Projektil-Penetration"
+	}
+
+	"projectile penetration"
+	{
+		"sv"		"projectile penetration"
+	}
+
+	"armor piercing"
+	{
+		"sv"		"Pansarbrytande"
+	}
+
+	"damage penalty"
+	{
+		"sv"		"armor piercing damage"
+	}
+
+	"cannot be backstabbed"
+	{
+		"sv"		"Kan ej bli Rygghuggen"
+	}
+
+	"share consumable with patient"
+	{
+		"sv"		"Dela konsumerbart med Patient"
+	}
+
+	"crit vs disguised players"
+	{
+		"sv"		"Krit. Mot Förklädda Spelare"
+	}
+
+	"projectile spread angle penalty"
+	{
+		"sv"		"Projektil Spridningsvinkel-nedsättning"
+	}
+
+	"auto fires full clip"
+	{
+		"sv"		"Auto Avfyrar Helt Klipp"
+	}
+
+	"can overload"
+	{
+		"sv"		"Kan Överladda"
+	}
+
+	"hype resets on jump"
+	{
+		"sv"		"Hype Omställs vid Hopp"
+	}
+
+	"clip size penalty HIDDEN"
+	{
+		"sv"		"Magasinsstorlek Nedsättning GÖMD"
+	}
+
+	"ring of fire while aiming"
+	{
+		"sv"		"Eldring Vid inzoomning"
+	}
+
+	"uses ammo while aiming"
+	{
+		"sv"		"Använder Ammunition vid Inzoomning"
+	}
+
+	"medigun charge is crit boost"
+	{
+		"sv"		"Hälsovapnets laddning ger Krit."
+	}
+
+	"move speed (heavy)"
+	{
+		"sv"		"Rörelsehastighet (Tung Artillerist)"
+	}
+
+	"move speed penalty"
+	{
+		"sv"		"Rörelsehastighets Nedsättning"
+	}
+
+	"melee attack rate bonus (spy)"
+	{
+		"sv"		"Närstrids Attack Hastighets Bonus (Spion)"
+	}
+
+	"additionnal disposable sentries (mvm)"
+	{
+		"sv"		"Ett Extra Placerbart Vaktgevär (MMM)"
+	}
+
+	"multiple sentries?"
+	{
+		"sv"		"Flera Vakrgevär?"
+	}
+
+	"bullets per shot bonus (heavy)"
+	{
+		"sv"		"Kulor Per Skott (Tung Artillerist)"
+	}
+
+	"increase buff duration"
+	{
+		"sv"		"Öka Buff Varaktighet"
+	}
+
+	"cancel falling damage"
+	{
+		"sv"		"Ingen Fallskada"
+	}
+
+	"set item tint"
+	{
+		"sv"		"Ändra Föremålets Nyans"
+	}
+
+	"lunchbox adds maxhealth bonus"
+	{
+		"sv"		"Lunchlåda Ger Extra Hälsa"
+	}
+
+	"overheal decay disabled"
+	{
+		"sv"		"Överhelnings Förfall Avaktiverad"
+	}
+
+	"honor bound"
+	{
+		"sv"		"Bunden Ära"
+	}
+
+	"jarate duration"
+	{
+		"sv"		"Pissburk Effekt Längd"
+	}
+
+	"damage causes airblast"
+	{
+		"sv"		"Skada Orsakar Luftstöt"
+	}
+
+	"use large smoke explosion"
+	{
+		"sv"		"Använder Stor Rök Explosion"
+	}
+
+	"scattergun knockback mult"
+	{
+		"sv"		"Hagelbössa Tillbakaknuff Mult."
+	}
+
+	"engineer building teleporting pickup"
+	{
+		"sv"		"Inge. Tar Byggnader från Distans"
+	}
+
+	"damage applies to sappers"
+	{
+		"sv"		"Skada Tar Bort Kortslutare"
+	}
+
+	"sapper damage bonus"
+	{
+		"sv"		"Ökad Kortslutar Skada"
+	}
+
+	"sapper health bonus"
+	{
+		"sv"		"Kortslutar Hälso Bonus"
+	}
+
+	"sapper damage leaches health"
+	{
+		"sv"		"Kortslutarens skada Suger Hälsa"
+	}
+
+	"energy weapon no ammo"
+	{
+		"sv"		"energy weapon no ammo"
+	}
+
+	"mod ammo per shot missed DISPLAY ONLY"
+	{
+		"sv"		"mod ammo per shot missed"
+	}
+
+	"cleaver description"
+	{
+		"sv"		"cleaver description"
+	}
+
+	"crit vs stunned players"
+	{
+		"sv"		"crit vs stunned players"
+	}
+
+	"Honor!"
+	{
+		"sv"		"Honor!"
+	}
+
+	"honorbound"
+	{
+		"sv"		"Honorbound"
+	}
+
+	"aiming no flinch when hurt"
+	{
+		"sv"		"aiming no flinch when hurt"
+	}
+
+	"increase player capture value"
+	{
+		"sv"		"increase player capture value"
+	}
+
+	"airblast vertical vulnerability multiplier"
+	{
+		"sv"		"airblast vertical vulnerability multiplier"
+	}
+
+	"Armor Piercing Explosive"
+	{
+		"sv"		"Rustnings Genomskjutning Explosioner"
+	}
+
+	"Army of not Many"
+	{
+		"sv"		"Armé Av Få"
+	}
+
+	"Some Beggar Tweak"
+	{
+		"sv"		"Någon Tiggar Justering"
+	}
+
+	"Some Other Beggar Tweak"
+	{
+		"sv"		"Någon Annan Tiggar Justering"
+	}
+
+	"Medic Beggar Tweak"
+	{
+		"sv"		"Medic Beggar Tweak"
+	}
+
+	"Heavy Heavy Heavy Weapon"
+	{
+		"sv"		"Tungt Tungt Tungt Vapen"
+	}
+
+	"Heavy Electric Motor"
+	{
+		"sv"		"Tung Elektrisk Motor"
+	}
+
+	"Assault Weapon"
+	{
+		"sv"		"Överfalls Vapen"
+	}
+
+	"Bigger Caliber"
+	{
+		"sv"		"Större Kaliber"
+	}
+
+	"Bigger Little Caliber."
+	{
+		"sv"		"Större Mindre Kaliber"
+	}
+
+	"Sentry Heavy Motor"
+	{
+		"sv"		"Vaktgevär Tung Motor"
+	}
+
+	"Sentry Bigger Caliber"
+	{
+		"sv"		"Vaktgevär Större Kaliber"
+	}
+
+	"Concentrated Fire"
+	{
+		"sv"		"Koncentrerad Eld"
+	}
+
+	"Higher Pressure"
+	{
+		"sv"		"Högre Tryck"
+	}
+
+	"Temperature rise"
+	{
+		"sv"		"Temperatur Ökare"
+	}
+
+	"Kamikaze strike"
+	{
+		"sv"		"Kamikaze Träff"
+	}
+
+	"Fast Shot"
+	{
+		"sv"		"Snabbt Skott"
+	}
+
+	"Fast Laser Shot"
+	{
+		"sv"		"Snabbt Laser Skott"
+	}
+
+	"Heavy Laser Shot"
+	{
+		"sv"		"Tung Laser Skott"
+	}
+
+	"Slow swing"
+	{
+		"sv"		"Seg Svängning"
+	}
+
+	"Short charge"
+	{
+		"sv"		"Kort Anfall"
+	}
+
+	"Le Flingueur"
+	{
+		"sv"		"Revolvermannen"
+	}
+
+}

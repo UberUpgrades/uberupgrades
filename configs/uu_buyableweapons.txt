@@ -1,0 +1,39 @@
+"uu_new_weapons"
+{
+	"Scout"
+	{
+		    
+	}
+	"Soldier"
+	{
+	
+	}
+	"Pyro"
+	{
+	
+	}
+	"DemoMan"
+	{
+	
+	}
+	"Heavy"
+	{
+	
+	}
+	"Medic"
+	{
+	
+	}
+	"Sniper"
+	{
+	
+	}
+	"Engineer"
+	{
+	
+	}
+	"Spy"
+	{
+	
+	}
+}

@@ -1,0 +1,1312 @@
+"Phrases"
+{
+	"Body upgrade"
+	{
+		"en"		"Body upgrade"
+	}
+	"Upgrade my primary weapon"
+	{
+		"en"		"Upgrade my primary weapon"
+	}
+	"Upgrade my secondary weapon"
+	{
+		"en"		"Upgrade my secondary weapon"
+	}
+	"Upgrade my melee weapon"
+	{
+		"en"		"Upgrade my melee weapon"
+	}
+	"Display Upgrades/Remove disabilities"
+	{
+		"en"		"Display Upgrades/Remove disabilities"
+	}
+	"Buy a neeew weapon!!"
+	{
+		"en"		"Buy neeew weapon!!"
+	}
+	"Upgrade my neeew weapon!!"
+	{
+		"en"		"Upgrade neeew weapon!!"
+	}
+	"Display Upgrades/Remove downgrades - Primary Weapon"
+	{
+		"en"	"Display Upgrades/Remove downgrades - Primary"
+	}
+	"Display Upgrades/Remove downgrades - Secondary Weapon"
+	{
+		"en"	"Display Upgrades/Remove downgrades - Secondary"
+	}
+	
+	"Display Upgrades/Remove downgrades - Melee Weapon"
+	{
+		"en"	"Display Upgrades/Remove downgrades - Melee Weapon"
+	}
+	
+	"Display Upgrades/Remove downgrades - Body"
+	{
+		"en"	"Display Upgrades/Remove downgrades - Body"
+	}
+	
+	"Display Upgrades/Remove downgrades - Special Weapon"
+	{
+		"en"	"Display Upgrades/Remove downgrades - Special weapon"
+	}
+	
+	"Primary Weapon"
+	{
+		"en"	"Primary"
+	}
+	"Secondary Weapon"
+	{
+		"en"	"Secondary Weapon"
+	}
+	
+	"Melee Weapon"
+	{
+		"en"	"Melee Weapon"
+	}
+	
+	"Special Weapon"
+	{
+		"en"	"Special Weapon"
+	}
+	"Body"
+	{
+		"en"	"Body"
+	}
+	"You have not enough money!!" 
+	{
+		"en"	"You have not enough money!!" 
+	}
+	"Attribute removed"
+	{
+		"en" "Attribute removed!"
+	}
+	//SUB CATEGORIES
+	
+	"Protection upgrades"
+	{
+		"en"		"Protection upgrades"
+	}
+	"Physical upgrades"
+	{
+		"en"		"Physical upgrades"
+	}
+	"Ammo upgrades"
+	{
+		"en"		"Ammo upgrades"
+	}
+	"Spy upgrades"
+	{
+		"en"		"Spy upgrades"
+	}
+	"Ammo & metal upgrades"
+	{
+		"en"		"Ammo & metal upgrades"
+	}
+	"Damage upgrades"
+	{
+		"en"		"Damage upgrades"
+	}
+	"Cannon specific upgrades"
+	{
+		"en"		"Cannon specific upgrades"
+	}
+	"Special Tweaks"
+	{
+		"en"		"Special Tweaks"
+	}
+	"Extra features*"
+	{
+		"en"		"Extra features*"
+	}
+	"Pipebomb launcher specific upgrades"
+	{
+		"en"		"Pipebomb launcher specific upgrades"
+	}
+	"Launcher specific upgrades"
+	{
+		"en"		"Launcher specific upgrades"
+	}
+	"Melee specific upgrades"
+	{
+		"en"		"Melee specific upgrades"
+	}
+	"Charge upgrades"
+	{
+		"en"		"Charge upgrades"
+	}
+	"Weapon Specific upgrades"
+	{
+		"en"		"Weapon Specific upgrades"
+	}
+	"Gun specific upgrades"
+	{
+		"en"		"Gun specific upgrades"
+	}
+	"Laser weapon specific upgrades"
+	{
+		"en"		"Laser weapon specific upgrades"
+	}
+	"Short circuit specific upgrades"
+	{
+		"en"		"Short circuit specific upgrades"
+	}
+	"Building tech upgrades"
+	{
+		"en"		"Building tech upgrades"
+	}
+	"Minigun specific upgrades"
+	{
+		"en"		"Minigun specific upgrades"
+	}
+	"Lunchbox specific upgrades"
+	{
+		"en"		"Lunchbox specific upgrades"
+	}
+	"Syringegun specific upgrades"
+	{
+		"en"		"Syringegun specific upgrades"
+	}
+	"Medigun Specific upgrades"
+	{
+		"en"		"Medigun Specific upgrades"
+	}
+	"Flamethrower specific upgrades"
+	{
+		"en"		"Flamethrower specific upgrades"
+	}
+	"Flaregun specific upgrades"
+	{
+		"en"		"Flaregun specific upgrades"
+	}
+	"Shotgun specific upgrades"
+	{
+		"en"		"Shotgun specific upgrades"
+	}
+	"Scattergun specific upgrades"
+	{
+		"en"		"Scattergun specific upgrades"
+	}
+	"Handgun specific upgrades"
+	{
+		"en"		"Handgun specific upgrades"
+	}
+	"Cleaver specific upgrades"
+	{
+		"en"		"Cleaver specific upgrades"
+	}
+	"Jarate specific upgrades"
+	{
+		"en"		"Jarate specific upgrades"
+	}
+	"Sniper specific upgrades"
+	{
+		"en"		"Sniper specific upgrades"
+	}
+	"Smg Specific upgrades"
+	{
+		"en"		"Smg Specific upgrades"
+	}
+	"Mangler specific upgrades"
+	{
+		"en"		"Mangler specific upgrades"
+	}
+	"Laser specific upgrades"
+	{
+		"en"		"Laser specific upgrades"
+	}
+	"Specific upgrades"
+	{
+		"en"		"Specific upgrades"
+	}
+	"Sapper upgrades"
+	{
+		"en"		"Sapper upgrades"
+	}
+	"Buff banner specific upgrades"
+	{
+		"en"		"Buff banner specific upgrades"
+	}
+	
+	
+	
+	"Damage bonus vs player"
+	{
+		"en"		"Damage vs player++"
+	}
+	"Damage bonus vs player (C)"
+	{
+		"en"		"Damage bonus vs player (C)"
+	}
+	"armor piercing damage"
+	{
+		"en"		"armor piercing damage++"
+	}
+	"damage bonus SPECIAL"
+	{
+		"en"		"damage SPECIAL++"
+	}
+	"damage bonus"
+	{
+		"en"		"damage++"
+	}
+	"clip size penalty"
+	{
+		"en"		"clip size penalty"
+	}
+	"clip size bonus"
+	{
+		"en"		"clip size++"
+	}
+	"clip size bonus (E)"
+	{
+		"en"		"clip size bonus (E)"
+	}
+	"clip size bonus (B)"
+	{
+		"en"		"clip size bonus (B)"
+	}
+	"fire rate penalty"
+	{
+		"en"		"fire rate penalty"
+	}
+	"fire rate bonus"
+	{
+		"en"		"fire rate bonus"
+	}
+	"heal rate bonus"
+	{
+		"en"		"heal rate bonus"
+	}
+	"ubercharge rate bonus"
+	{
+		"en"		"ubercharge rate bonus"
+	}
+	"overheal bonus"
+	{
+		"en"		"overheal bonus"
+	}
+	"overheal decay bonus"
+	{
+		"en"		"overheal decay bonus"
+	}
+	"crit mod disabled"
+	{
+		"en"		"crit mod disabled"
+	}
+	"heal on hit for rapidfire"
+	{
+		"en"		"heal on hit"
+	}
+	"heal on hit (slowfire)"
+	{
+		"en"		"heal on hit (slowfire)"
+	}
+	"add uber charge on hit"
+	{
+		"en"		"add uber charge on hit"
+	}
+	"crit vs burning players"
+	{
+		"en"		"crit vs burning players"
+	}
+	"mod flamethrower back crit"
+	{
+		"en"		"mod flamethrower back crit"
+	}
+	"max health additive bonus"
+	{
+		"en"		"max health additive bonus"
+	}
+	"max health additive bonus (H)"
+	{
+		"en"		"max health additive bonus (H)"
+	}
+	"critboost on kill"
+	{
+		"en"		"critboost on kill"
+	}
+	"set cloak is feign death"
+	{
+		"en"		"set cloak is feign death"
+	}
+	"cloak consume rate"
+	{
+		"en"		"cloak consume rate"
+	}
+	"mult cloak meter regen rate"
+	{
+		"en"		"mult cloak meter regen rate"
+	}
+	"cloak rate"
+	{
+		"en"		"cloak rate"
+	}
+	"decloak rate"
+	{
+		"en"		"decloak rate"
+	}
+	"spread penalty"
+	{
+		"en"		"spread penalty"
+	}
+	"zoom speed mod disabled"
+	{
+		"en"		"zoom speed mod disabled"
+	}
+	"sniper charge per sec"
+	{
+		"en"		"sniper charge per sec"
+	}
+	"scattergun no reload single"
+	{
+		"en"		"scattergun no reload single"
+	}
+	"scattergun has knockback"
+	{
+		"en"		"scattergun has knockback"
+	}
+	"bullets per shot bonus"
+	{
+		"en"		"bullets per shot bonus"
+	}
+	"bullets per shot bonus (single)"
+	{
+		"en"		"bullets per shot bonus (single)"
+	}
+	"absorb damage while cloaked"
+	{
+		"en"		"absorb damage while cloaked"
+	}
+	"revolver use hit locations"
+	{
+		"en"		"revolver use hit locations"
+	}
+	"backstab shield"
+	{
+		"en"		"backstab shield"
+	}
+	"fire retardant"
+	{
+		"en"		"fire retardant"
+	}
+	"move speed"
+	{
+		"en"		"move speed"
+	}
+	"health regen"
+	{
+		"en"		"health regen"
+	}
+	"self dmg push force increased"
+	{
+		"en"		"self dmg push force increased"
+	}
+	"dmg taken from fire reduced"
+	{
+		"en"		"dmg taken from fire reduced"
+	}
+	"dmg taken from crit reduced"
+	{
+		"en"		"dmg taken from crit reduced"
+	}
+	"dmg taken from blast reduced"
+	{
+		"en"		"dmg taken from blast reduced"
+	}
+	"dmg taken from bullets reduced"
+	{
+		"en"		"dmg taken from bullets reduced"
+	}
+	"dmg from ranged reduced"
+	{
+		"en"		"dmg from ranged reduced"
+	}
+	"dmg from sentry reduced"
+	{
+		"en"		"dmg from sentry reduced"
+	}
+	"dmg from melee reduced"
+	{
+		"en"		"dmg from melee reduced"
+	}
+	"dmg taken reduced"
+	{
+		"en"		"dmg taken reduced"
+	}
+	"health from healers increased"
+	{
+		"en"		"health from healers increased"
+	}
+	"afterburn dmg increased"
+	{
+		"en"		"afterburn dmg increased"
+	}
+	"afterburn dmg increased (E)"
+	{
+		"en"		"afterburn dmg increased (E)"
+	}
+	"afterburn time increased"
+	{
+		"en"		"afterburn time increased"
+	}
+	"max ammo"
+	{
+		"en"		"max ammo"
+	}
+	"maxammo primary increased"
+	{
+		"en"		"maxammo primary increased"
+	}
+	"maxammo primary increased (S)"
+	{
+		"en"		"maxammo primary increased (S)"
+	}
+	"maxammo primary reduced"
+	{
+		"en"		"maxammo primary reduced"
+	}
+	"maxammo secondary increased"
+	{
+		"en"		"maxammo secondary increased"
+	}
+	"maxammo secondary increased (S)"
+	{
+		"en"		"maxammo secondary increased (S)"
+	}
+	"maxammo secondary reduced"
+	{
+		"en"		"maxammo secondary reduced"
+	}
+	"maxammo metal increased"
+	{
+		"en"		"maxammo metal increased"
+	}
+	"maxammo metal reduced"
+	{
+		"en"		"maxammo metal reduced"
+	}
+	"minigun spinup time increased"
+	{
+		"en"		"minigun spinup time increased"
+	}
+	"minigun spinup time decreased"
+	{
+		"en"		"minigun spinup time decreased"
+	}
+	"max pipebombs increased"
+	{
+		"en"		"max pipebombs increased"
+	}
+	"Construction rate increased"
+	{
+		"en"		"Construction rate increased"
+	}
+	"Build rate bonus"
+	{
+		"en"		"Build rate bonus"
+	}
+	"Repair rate increased"
+	{
+		"en"		"Repair rate increased"
+	}
+	"Reload time increased"
+	{
+		"en"		"Reload time increased"
+	}
+	"selfdmg on hit for rapidfire"
+	{
+		"en"		"selfdmg on hit for rapidfire"
+	}
+	"blast radius increased"
+	{
+		"en"		"Blast radius increased"
+	}
+	"Blast radius increased (J)"
+	{
+		"en"		"Blast radius increased"
+	}
+	"Blast radius decreased"
+	{
+		"en"		"Blast radius decreased"
+	}
+	"Projectile speed increased"
+	{
+		"en"		"Projectile speed increased"
+	}
+	"Projectile force increased"
+	{
+		"en"		"Projectile force increased"
+	}
+	"Projectile speed decreased"
+	{
+		"en"		"Projectile speed decreased"
+	}
+	"weapon spread bonus"
+	{
+		"en"		"weapon spread bonus"
+	}
+	"health from packs increased"
+	{
+		"en"		"health from packs increased"
+	}
+	"heal on hit for slowfire"
+	{
+		"en"		"heal on hit for slowfire"
+	}
+	"ammo regen"
+	{
+		"en"		"ammo regen"
+	}
+	"metal regen"
+	{
+		"en"		"metal regen"
+	}
+	"mod mini-crit airborne"
+	{
+		"en"		"mod mini-crit airborne"
+	}
+	"mod shovel damage boost"
+	{
+		"en"		"mod shovel damage boost"
+	}
+	"dmg falloff decreased"
+	{
+		"en"		"dmg falloff decreased"
+	}
+	"sticky detonate mode"
+	{
+		"en"		"sticky detonate mode"
+	}
+	"stickies detonate stickies"
+	{
+		"en"		"stickies detonate stickies"
+	}
+	"mod wrench builds minisentry"
+	{
+		"en"		"mod wrench builds minisentry"
+	}
+	"max health additive penalty"
+	{
+		"en"		"max health additive penalty"
+	}
+	"sticky arm time bonus"
+	{
+		"en"		"sticky arm time bonus"
+	}
+	"rocket jump damage reduction"
+	{
+		"en"		"rocket jump damage reduction"
+	}
+	"mod sentry killed revenge"
+	{
+		"en"		"mod sentry killed revenge"
+	}
+	"building cost reduction"
+	{
+		"en"		"building cost reduction"
+	}
+	"bleeding duration"
+	{
+		"en"		"bleeding duration"
+	}
+	"disguise on backstab"
+	{
+		"en"		"disguise on backstab"
+	}
+	"silent killer"
+	{
+		"en"		"silent killer"
+	}
+	"disguise speed"
+	{
+		"en"		"disguise speed"
+	}
+	"disguise damage reduction"
+	{
+		"en"		"disguise damage reduction"
+	}
+	"add cloak on kill"
+	{
+		"en"		"add cloak on kill"
+	}
+	"quiet unstealth"
+	{
+		"en"		"quiet unstealth"
+	}
+	"flame size bonus"
+	{
+		"en"		"flame size bonus"
+	}
+	"flame life bonus"
+	{
+		"en"		"flame life bonus"
+	}
+	"charged airblast"
+	{
+		"en"		"charged airblast"
+	}
+	"add cloak on hit"
+	{
+		"en"		"add cloak on hit"
+	}
+	"disguise no burn"
+	{
+		"en"		"disguise no burn"
+	}
+	"airblast cost decreased"
+	{
+		"en"		"airblast cost decreased"
+	}
+	"flame ammopersec increased"
+	{
+		"en"		"flame ammopersec increased"
+	}
+	"flame ammopersec decreased"
+	{
+		"en"		"flame ammopersec decreased"
+	}
+	"no death from headshots"
+	{
+		"en"		"no death from headshots"
+	}
+	"deploy time decreased"
+	{
+		"en"		"deploy time decreased"
+	}
+	"minicrits become crits"
+	{
+		"en"		"minicrits become crits"
+	}
+	"heal on kill"
+	{
+		"en"		"heal on kill"
+	}
+	"no self blast dmg"
+	{
+		"en"		"no self blast dmg"
+	}
+	"slow enemy on hit major"
+	{
+		"en"		"slow enemy on hit major"
+	}
+	"aiming movespeed increased"
+	{
+		"en"		"aiming movespeed increased"
+	}
+	"aiming movespeed decreased"
+	{
+		"en"		"aiming movespeed decreased"
+	}
+	"charge movespeed increased"
+	{
+		"en"		"charge movespeed increased"
+	}
+	"preserve ubercharge"
+	{
+		"en"		"preserve ubercharge"
+	}
+	"fires healing bolts"
+	{
+		"en"		"fires healing bolts"
+	}
+	"enables aoe heal"
+	{
+		"en"		"enables aoe heal"
+	}
+	"gesture speed increase"
+	{
+		"en"		"gesture speed increase"
+	}
+	"charge time increased"
+	{
+		"en"		"charge time increased"
+	}
+	"Set DamageType Ignite"
+	{
+		"en"		"Set DamageType Ignite"
+	}
+	"minicrit vs burning player"
+	{
+		"en"		"minicrit vs burning player"
+	}
+	"kill eater"
+	{
+		"en"		"kill eater"
+	}
+	"apply z velocity on damage"
+	{
+		"en"		"apply z velocity on damage"
+	}
+	"apply look velocity on damage"
+	{
+		"en"		"apply look velocity on damage"
+	}
+	"sanguisuge"
+	{
+		"en"		"sanguisuge"
+	}
+	"mark for death"
+	{
+		"en"		"mark for death"
+	}
+	"dmg bonus while half dead"
+	{
+		"en"		"dmg bonus while half dead"
+	}
+	"mod medic killed revenge"
+	{
+		"en"		"mod medic killed revenge"
+	}
+	"mult sniper charge after headshot"
+	{
+		"en"		"mult sniper charge after headshot"
+	}
+	"minigun no spin sounds"
+	{
+		"en"		"minigun no spin sounds"
+	}
+	"ubercharge rate bonus for healer"
+	{
+		"en"		"ubercharge rate bonus for healer"
+	}
+	"mod rage on hit bonus"
+	{
+		"en"		"mod rage on hit bonus"
+	}
+	"Rage damage boost"
+	{
+		"en"		"mod rage damage boost"
+	}
+	"accuracy scales damage"
+	{
+		"en"		"accuracy scales damage"
+	}
+	"mult charge turn control"
+	{
+		"en"		"mult charge turn control"
+	}
+	"no charge impact range"
+	{
+		"en"		"no charge impact range"
+	}
+	"charge impact damage increased"
+	{
+		"en"		"charge impact damage increased"
+	}
+	"charge recharge rate increased"
+	{
+		"en"		"charge recharge rate increased"
+	}
+	"air dash count"
+	{
+		"en"		"air dash count"
+	}
+	"speed buff ally"
+	{
+		"en"		"speed buff ally"
+	}
+	"damage force reduction"
+	{
+		"en"		"damage force reduction"
+	}
+	"airblast pushback scale"
+	{
+		"en"		"airblast pushback scale"
+	}
+	"mult airblast refire time"
+	{
+		"en"		"mult airblast refire time"
+	}
+	"ammo becomes health"
+	{
+		"en"		"ammo becomes health"
+	}
+	"boots falling stomp"
+	{
+		"en"		"boots falling stomp"
+	}
+	"deflection size multiplier"
+	{
+		"en"		"deflection size multiplier"
+	}
+	"melee bounds multiplier"
+	{
+		"en"		"melee bounds multiplier"
+	}
+	"melee range multiplier"
+	{
+		"en"		"melee range multiplier"
+	}
+	"see enemy health"
+	{
+		"en"		"see enemy health"
+	}
+	"powerup max charges"
+	{
+		"en"		"powerup max charges"
+	}
+	"powerup duration"
+	{
+		"en"		"powerup duration"
+	}
+	"bidirectional teleport"
+	{
+		"en"		"bidirectional teleport"
+	}
+	"effect bar recharge rate increased"
+	{
+		"en"		"effect bar recharge rate increased"
+	}
+	"override projectile type"
+	{
+		"en"		"override projectile type"
+	}
+	"engy building health bonus"
+	{
+		"en"		"engy building health bonus"
+	}
+	"engy sentry damage bonus"
+	{
+		"en"		"engy sentry damage bonus"
+	}
+	"sentry extra damage bonus"
+	{
+		"en"		"sentry extra damage bonus"
+	}
+	"no crit boost"
+	{
+		"en"		"no crit boost"
+	}
+	"crit chance"
+	{
+		"en"		"Crit chance"
+	}
+	"kill eater score type"
+	{
+		"en"		"kill eater score type"
+	}
+	"kill eater score type 2"
+	{
+		"en"		"kill eater score type 2"
+	}
+	"kill eater 2"
+	{
+		"en"		"kill eater 2"
+	}
+	"sapper kills collect crits"
+	{
+		"en"		"sapper kills collect crits"
+	}
+	"mod ammo per shot"
+	{
+		"en"		"mod ammo per shot"
+	}
+	"sniper full charge damage bonus"
+	{
+		"en"		"sniper full charge damage bonus"
+	}
+	"sniper penetrate players when charged"
+	{
+		"en"		"sniper penetrate players when charged"
+	}
+	"uber duration bonus"
+	{
+		"en"		"uber duration bonus"
+	}
+	"Faster reload rate SPECIAL"
+	{
+		"en"		"Faster reload rate SPECIAL"
+	}
+	"faster reload rate"
+	{
+		"en"		"faster reload rate"
+	}
+	"faster reload rate (U)"
+	{
+		"en"		"faster reload rate (U)"
+	}
+	"robo sapper"
+	{
+		"en"		"robo sapper"
+	}
+	"attack projectiles"
+	{
+		"en"		"attack projectiles"
+	}
+	"jump height"
+	{
+		"en"		"jump height"
+	}
+	"airblast vulnerability multiplier"
+	{
+		"en"		"airblast vulnerability multiplier"
+	}
+	"reveal cloaked victim on hit"
+	{
+		"en"		"reveal cloaked victim on hit"
+	}
+	"reveal disguised victim on hit"
+	{
+		"en"		"reveal disguised victim on hit"
+	}
+	"engy sentry fire rate increased"
+	{
+		"en"		"engy sentry fire rate increased"
+	}
+	"engy sentry radius increased"
+	{
+		"en"		"engy sentry radius increased"
+	}
+	"engy dispenser radius increased"
+	{
+		"en"		"engy dispenser radius increased"
+	}
+	"engy disposable sentries"
+	{
+		"en"		"engy disposable sentries"
+	}
+	"stun enemies wielding same weapon"
+	{
+		"en"		"stun enemies wielding same weapon"
+	}
+	"airblast disabled"
+	{
+		"en"		"airblast disabled"
+	}
+	"damage all connected"
+	{
+		"en"		"damage all connected"
+	}
+	"crit from behind"
+	{
+		"en"		"crit from behind"
+	}
+	"extinguish earns revenge crits"
+	{
+		"en"		"extinguish earns revenge crits"
+	}
+	"burn damage earns rage"
+	{
+		"en"		"burn damage earns rage"
+	}
+	"generate rage on damage"
+	{
+		"en"		"generate rage on damage"
+	}
+	"rage on kill"
+	{
+		"en"		"rage on kill"
+	}
+	"headshot damage increase"
+	{
+		"en"		"headshot damage increase"
+	}
+	"fire rate bonus HIDDEN"
+	{
+		"en"		"fire rate bonus HIDDEN"
+	}
+	"fire rate bonus (C)"
+	{
+		"en"		"fire rate bonus (C)"
+	}
+	"explosive sniper shot"
+	{
+		"en"		"explosive sniper shot"
+	}
+	"melee attack rate bonus (slow)"
+	{
+		"en"		"melee attack rate bonus (slow)"
+	}
+	"melee attack rate bonus"
+	{
+		"en"		"melee attack rate bonus"
+	}
+	"melee attack rate penalty"
+	{
+		"en"		"melee attack rate penalty"
+	}
+	"projectile penetration heavy"
+	{
+		"en"		"projectile penetration heavy"
+	}
+	"projectile penetration"
+	{
+		"en"		"projectile penetration"
+	}
+	"armor piercing"
+	{
+		"en"		"armor piercing"
+	}
+	"damage penalty"
+	{
+		"en"		"armor piercing damage"
+	}
+	"cannot be backstabbed"
+	{
+		"en"		"cannot be backstabbed"
+	}
+	"share consumable with patient"
+	{
+		"en"		"share consumable with patient"
+	}
+	"crit vs disguised players"
+	{
+		"en"		"crit vs disguised players"
+	}
+	"projectile spread angle penalty"
+	{
+		"en"		"projectile spread angle penalty"
+	}
+	"auto fires full clip"
+	{
+		"en"		"auto fires full clip"
+	}
+	"can overload"
+	{
+		"en"		"can overload"
+	}
+	"hype resets on jump"
+	{
+		"en"		"hype resets on jump"
+	}
+	"clip size penalty HIDDEN"
+	{
+		"en"		"clip size penalty HIDDEN"
+	}
+	"ring of fire while aiming"
+	{
+		"en"		"ring of fire while aiming"
+	}
+	"uses ammo while aiming"
+	{
+		"en"		"uses ammo while aiming"
+	}
+	"medigun charge is crit boost"
+	{
+		"en"		"medigun charge is crit boost"
+	}
+	"move speed (heavy)"
+	{
+		"en"		"move speed (heavy)"
+	}
+	"move speed penalty"
+	{
+		"en"		"move speed penalty"
+	}
+	"melee attack rate bonus (spy)"
+	{
+		"en"		"melee attack rate bonus (spy)"
+	}
+	"additionnal disposable sentries (mvm)"
+	{
+		"en"		"additionnal disposable sentries (mvm)"
+	}
+	"multiple sentries?"
+	{
+		"en"		"multiple sentries?"
+	}
+	"bullets per shot bonus (heavy)"
+	{
+		"en"		"bullets per shot bonus (heavy)"
+	}
+	"increase buff duration"
+	{
+		"en"		"increase buff duration"
+	}
+	"cancel falling damage"
+	{
+		"en"		"cancel falling damage"
+	}
+	"set item tint"
+	{
+		"en"		"set item tint"
+	}
+	"lunchbox adds maxhealth bonus"
+	{
+		"en"		"lunchbox adds maxhealth bonus"
+	}
+	"overheal decay disabled"
+	{
+		"en"		"overheal decay disabled"
+	}
+	"honor bound"
+	{
+		"en"		"honor bound"
+	}
+	"jarate duration"
+	{
+		"en"		"jarate duration"
+	}
+	"damage causes airblast"
+	{
+		"en"		"damage causes airblast"
+	}
+	"use large smoke explosion"
+	{
+		"en"		"use large smoke explosion"
+	}
+	"scattergun knockback mult"
+	{
+		"en"		"scattergun knockback mult"
+	}
+	"engineer building teleporting pickup"
+	{
+		"en"		"engineer building teleporting pickup"
+	}
+	"damage applies to sappers"
+	{
+		"en"		"damage applies to sappers"
+	}
+	"sapper damage bonus"
+	{
+		"en"		"sapper damage bonus"
+	}
+	"sapper health bonus"
+	{
+		"en"		"sapper health bonus"
+	}
+	"sapper damage leaches health"
+	{
+		"en"		"sapper damage leaches health"
+	}	
+	
+	"energy weapon no ammo"
+	{
+		"en"		"energy weapon no ammo"
+	}		
+	"mod ammo per shot missed DISPLAY ONLY"
+	{
+		"en"		"mod ammo per shot missed"
+	}	
+	"cleaver description"
+	{
+		"en"		"cleaver description"
+	}	
+	
+	"crit vs stunned players"
+	{
+		"en"		"crit vs stunned players"
+	}	
+	"Honor!"
+	{
+		"en"		"Honor!"
+	}
+	"honorbound"
+	{
+		"en"		"Honorbound"
+	}
+	"aiming no flinch when hurt"
+	{
+		"en"		"aiming no flinch when hurt"
+	}
+	"increase player capture value"
+	{
+		"en"		"increase player capture value"
+	}	
+	"airblast vulnerability multiplier"
+	{
+		"en"		"airblast vulnerability multiplier"
+	}
+	"airblast vertical vulnerability multiplier"
+	{
+		"en"		"airblast vertical vulnerability multiplier"
+	}
+	
+	
+	
+	//SPECIAL TWEAKS NAMES
+	
+	"Armor Piercing Explosive"
+	{
+		"en"		"Armor Piercing Explosive"
+	}
+	"Army of not Many"
+	{
+		"en"		"Army of not Many"
+	}
+	"Some Beggar Tweak"
+	{
+		"en"		"Some Beggar Tweak"
+	}
+	"Some Other Beggar Tweak"
+	{
+		"en"		"Some Other Beggar Tweak"
+	}
+	"Medic Beggar Tweak"
+	{
+		"en"		"Medic Beggar Tweak"
+	}
+	"Heavy Heavy Heavy Weapon"
+	{
+		"en"		"Heavy Heavy Heavy Weapon"
+	}
+	"Heavy Electric Motor"
+	{
+		"en"		"Heavy Electric Motor"
+	}
+	"Assault Weapon"
+	{
+		"en"		"Assault Weapon"
+	}
+	"Bigger Caliber"
+	{
+		"en"		"Bigger Caliber"
+	}
+	"Bigger Little Caliber."
+	{
+		"en"		"Bigger Little Caliber."
+	}
+	"Sentry Heavy Motor"
+	{
+		"en"		"Sentry Heavy Motor"
+	}
+	"Sentry Bigger Caliber"
+	{
+		"en"		"Sentry Bigger Caliber"
+	}
+	"Concentrated Fire"
+	{
+		"en"		"Concentrated Fire"
+	}
+	"Higher Pressure"
+	{
+		"en"		"Higher Pressure"
+	}
+	"Temperature rise"
+	{
+		"en"		"Temperature rise"
+	}
+	"Kamikaze strike"
+	{
+		"en"		"Kamikaze strike"
+	}
+	"Fast Shot"
+	{
+		"en"		"Fast Shot"
+	}
+	"Fast Laser Shot"
+	{
+		"en"		"Fast Laser Shot"
+	}
+	"Heavy Laser Shot"
+	{
+		"en"		"Heavy Laser Shot"
+	}
+	"Slow swing"
+	{
+		"en"		"Slow swing"
+	}
+	"Short charge"
+	{
+		"en"		"Short charge"
+	}
+	"Le Flingueur"
+	{
+		"en"		"Le Flingueur"	
+	}
+
+	
+
+}

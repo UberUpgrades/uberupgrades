@@ -1,0 +1,1610 @@
+"Phrases"
+{
+
+	"Body upgrade"
+	{
+		"fr"		"Upgrade corps"
+	}
+
+	"Upgrade my primary weapon"
+	{
+		"fr"		"Upgrade arme principale"
+	}
+
+	"Upgrade my secondary weapon"
+	{
+		"fr"		"Upgrade arme secondaire"
+	}
+
+	"Upgrade my melee weapon"
+	{
+		"fr"		"Upgrade arme de corps à corps"
+	}
+
+	"Display Upgrades/Remove disabilities"
+	{
+		"fr"		"Display Upgrades/Remove disabilities"
+	}
+
+	"Buy a neeew weapon!!"
+	{
+		"fr"		"Acheter une nouvelle arme!!"
+	}
+
+	"Upgrade my neeew weapon!!"
+	{
+		"fr"		"Upgrade nouvelle arme!!"
+	}
+
+	"Display Upgrades/Remove downgrades - Primary Weapon"
+	{
+		"fr"		"Display Upgrades/Remove downgrades - Primary"
+	}
+
+	"Display Upgrades/Remove downgrades - Secondary Weapon"
+	{
+		"fr"		"Display Upgrades/Remove downgrades - Secondary Weapon"
+	}
+
+	"Display Upgrades/Remove downgrades - Melee Weapon"
+	{
+		"fr"		"Display Upgrades/Remove downgrades - Melee Weapon"
+	}
+
+	"Display Upgrades/Remove downgrades - Body"
+	{
+		"fr"		"Display Upgrades/Remove downgrades - Body"
+	}
+
+	"Display Upgrades/Remove downgrades - Special Weapon"
+	{
+		"fr"		"Display Upgrades/Remove downgrades - Special weapon"
+	}
+
+	"Primary Weapon"
+	{
+		"fr"		"Arme principale"
+	}
+
+	"Secondary Weapon"
+	{
+		"fr"		"Arme secondaire"
+	}
+
+	"Melee Weapon"
+	{
+		"fr"		"Arme de corps à corps"
+	}
+
+	"Special Weapon"
+	{
+		"fr"		"Arme Spéciale"
+	}
+
+	"Body"
+	{
+		"fr"		"Body"
+	}
+
+	"You have not enough money!!"
+	{
+		"fr"		"Vous n'avez pas assez d'argent!!"
+	}
+
+	"Attribute removed"
+	{
+		"fr"		"downgrade enlevée"
+	}
+
+	"Protection upgrades"
+	{
+		"fr"		"Upgrades - Santé/Armure"
+	}
+
+	"Physical upgrades"
+	{
+		"fr"		"Upgrades - Physique"
+	}
+
+	"Ammo upgrades"
+	{
+		"fr"		"Upgrades - Munitions"
+	}
+
+	"Spy upgrades"
+	{
+		"fr"		"Upgrades - Espion"
+	}
+
+	"Ammo & metal upgrades"
+	{
+		"fr"		"Upgrades - Munitions & metal"
+	}
+
+	"Damage upgrades"
+	{
+		"fr"		"Upgrades - Dégats"
+	}
+
+	"Cannon specific upgrades"
+	{
+		"fr"		"Upgrades - Cannon techno."
+	}
+
+	"Special Tweaks"
+	{
+		"fr"		"Réglages spéciaux"
+	}
+
+	"Extra features*"
+	{
+		"fr"		"Extra features*"
+	}
+
+	"Pipebomb launcher specific upgrades"
+	{
+		"fr"		"Upgrades - Lanceur de b.c. techno."
+	}
+
+	"Launcher specific upgrades"
+	{
+		"fr"		"Upgrades - Lanceur techno."
+	}
+
+	"Melee specific upgrades"
+	{
+		"fr"		"Upgrades - Corps à corps techno."
+	}
+
+	"Charge upgrades"
+	{
+		"fr"		"Upgrades - Charge"
+	}
+
+	"Weapon Specific upgrades"
+	{
+		"fr"		"Upgrades - Arme techno."
+	}
+
+	"Gun specific upgrades"
+	{
+		"fr"		"Gun specific upgrades"
+	}
+
+	"Laser weapon specific upgrades"
+	{
+		"fr"		"Upgrades - Arme laser techno."
+	}
+
+	"Short circuit specific upgrades"
+	{
+		"fr"		"Upgrades - Court-circuit techno."
+	}
+
+	"Building tech upgrades"
+	{
+		"fr"		"Upgrades - Construction techno."
+	}
+
+	"Minigun specific upgrades"
+	{
+		"fr"		"Upgrades - Minigun techno."
+	}
+
+	"Lunchbox specific upgrades"
+	{
+		"fr"		"Upgrades - Boite à manger techno."
+	}
+
+	"Syringegun specific upgrades"
+	{
+		"fr"		"Upgrades - Pistolet chirurgical techno."
+	}
+
+	"Medigun Specific upgrades"
+	{
+		"fr"		"Upgrades - Medigun techno."
+	}
+
+	"Flamethrower specific upgrades"
+	{
+		"fr"		"Upgrades - Lance flammes techno."
+	}
+
+	"Flaregun specific upgrades"
+	{
+		"fr"		"Upgrades - Pistolet de détresse techno."
+	}
+
+	"Shotgun specific upgrades"
+	{
+		"fr"		"Upgrades - Fusil à pompe techno."
+	}
+
+	"Scattergun specific upgrades"
+	{
+		"fr"		"Upgrades - Fusil de dispersion techno."
+	}
+
+	"Handgun specific upgrades"
+	{
+		"fr"		"Upgrades - Pistolet techno."
+	}
+
+	"Cleaver specific upgrades"
+	{
+		"fr"		"Upgrades - Guillotine techno."
+	}
+
+	"Jarate specific upgrades"
+	{
+		"fr"		"Upgrades - Jarate techno."
+	}
+
+	"Sniper specific upgrades"
+	{
+		"fr"		"Upgrades - Fusil sniper techno."
+	}
+
+	"Smg Specific upgrades"
+	{
+		"fr"		"Upgrades - SMG techno."
+	}
+
+	"Mangler specific upgrades"
+	{
+		"fr"		"Upgrades - Broyeur.B techno."
+	}
+
+	"Laser specific upgrades"
+	{
+		"fr"		"Upgrades - Laser techno."
+	}
+
+	"Specific upgrades"
+	{
+		"fr"		"Upgrades - Technologie"
+	}
+
+	"Sapper upgrades"
+	{
+		"fr"		"Upgrades - Saboteur techno."
+	}
+
+	"Buff banner specific upgrades"
+	{
+		"fr"		"Upgrades - Bannière techno."
+	}
+
+	"Damage bonus vs player"
+	{
+		"fr"		"Dégats contres joueurs++"
+	}
+
+	"Damage bonus vs player (C)"
+	{
+		"fr"		"Dégats contres joueurs (C)++"
+	}
+
+	"armor piercing damage"
+	{
+		"fr"		"Dégats anti-armure++"
+	}
+
+	"damage bonus SPECIAL"
+	{
+		"fr"		"Dégats SPECIAL++"
+	}
+
+	"damage bonus"
+	{
+		"fr"		"Dégats++"
+	}
+
+	"clip size penalty"
+	{
+		"fr"		"Pénalité taille du chargeur"
+	}
+
+	"clip size bonus"
+	{
+		"fr"		"Taille du chargeur++"
+	}
+
+	"clip size bonus (E)"
+	{
+		"fr"		"Taille du chargeur++(E)"
+	}
+
+	"clip size bonus (B)"
+	{
+		"fr"		"Taille du chargeur++(B)"
+	}
+
+	"fire rate penalty"
+	{
+		"fr"		"Pénalité cadence de tir"
+	}
+
+	"fire rate bonus"
+	{
+		"fr"		"Cadence de tir++"
+	}
+
+	"heal rate bonus"
+	{
+		"fr"		"Cadence de guérison++"
+	}
+
+	"ubercharge rate bonus"
+	{
+		"fr"		"Cadence d'ubercharge++"
+	}
+
+	"overheal bonus"
+	{
+		"fr"		"Extra de santé++"
+	}
+
+	"overheal decay bonus"
+	{
+		"fr"		"Durée de l'extra de santé++"
+	}
+
+	"crit mod disabled"
+	{
+		"fr"		"Coups critiques indisponibles"
+	}
+
+	"heal on hit for rapidfire"
+	{
+		"fr"		"Dégats donne santé++"
+	}
+
+	"heal on hit (slowfire)"
+	{
+		"fr"		"Dégats donne santé++"
+	}
+
+	"add uber charge on hit"
+	{
+		"fr"		"Dégats activent Ubercharge"
+	}
+
+	"crit vs burning players"
+	{
+		"fr"		"Crit. contre les joueurs en feu"
+	}
+
+	"mod flamethrower back crit"
+	{
+		"fr"		"Mod lance-flamme crit. par l'arrière"
+	}
+
+	"max health additive bonus"
+	{
+		"fr"		"Santé++"
+	}
+
+	"max health additive bonus (H)"
+	{
+		"fr"		"Santé++ (H)"
+	}
+
+	"critboost on kill"
+	{
+		"fr"		"Tuerie active crit. boost++"
+	}
+
+	"set cloak is feign death"
+	{
+		"fr"		"Invisibilité par mort feinte"
+	}
+
+	"cloak consume rate"
+	{
+		"fr"		"Consommation de l'invisibilité--"
+	}
+
+	"mult cloak meter regen rate"
+	{
+		"fr"		"Cadence de régèn. de l'invisibilité++"
+	}
+
+	"cloak rate"
+	{
+		"fr"		"Cadence d'invisiblité--"
+	}
+
+	"decloak rate"
+	{
+		"fr"		"Cadence de re-visibilité--"
+	}
+
+	"spread penalty"
+	{
+		"fr"		"Pénalité de précision++"
+	}
+
+	"zoom speed mod disabled"
+	{
+		"fr"		"Mod. pas de ralentissement en visant"
+	}
+
+	"sniper charge per sec"
+	{
+		"fr"		"Cadence de charge du sniper++"
+	}
+
+	"scattergun no reload single"
+	{
+		"fr"		"Recharge en un coup"
+	}
+
+	"scattergun has knockback"
+	{
+		"fr"		"Contrecoup/recul pour victime/tireur"
+	}
+
+	"bullets per shot bonus"
+	{
+		"fr"		"nombre de balles par tir++"
+	}
+
+	"bullets per shot bonus (single)"
+	{
+		"fr"		"nombre de balles par tir++"
+	}
+
+	"absorb damage while cloaked"
+	{
+		"fr"		"Invisible: absorbe les dégats"
+	}
+
+	"revolver use hit locations"
+	{
+		"fr"		"Dégats localisés"
+	}
+
+	"backstab shield"
+	{
+		"fr"		"Parapoignard"
+	}
+
+	"fire retardant"
+	{
+		"fr"		"Ignifugé"
+	}
+
+	"move speed"
+	{
+		"fr"		"Vitesse de déplacement++"
+	}
+
+	"health regen"
+	{
+		"fr"		"Auto-guérison++"
+	}
+
+	"self dmg push force increased"
+	{
+		"fr"		"Force dégats sur soi++"
+	}
+
+	"dmg taken from fire reduced"
+	{
+		"fr"		"Armure - dégats de feu--"
+	}
+
+	"dmg taken from crit reduced"
+	{
+		"fr"		"Armure - dégats crit.--"
+	}
+
+	"dmg taken from blast reduced"
+	{
+		"fr"		"Armure - dégats d'explosif--"
+	}
+
+	"dmg taken from bullets reduced"
+	{
+		"fr"		"Armure - dégats de balle--"
+	}
+
+	"dmg from ranged reduced"
+	{
+		"fr"		"Armure - dégats distants--"
+	}
+
+	"dmg from sentry reduced"
+	{
+		"fr"		"Armure - dégats mitrailleuses--"	//Untranslated
+	}
+
+	"dmg from melee reduced"
+	{
+		"fr"		"Armure - corp à corps--"
+	}
+
+	"dmg taken reduced"
+	{
+		"fr"		"Armure - complète--"
+	}
+
+	"health from healers increased"
+	{
+		"fr"		"Santé reçue des soigneurs++"
+	}
+
+	"afterburn dmg increased"
+	{
+		"fr"		"Dégâts par brûlure++"
+	}
+
+	"afterburn dmg increased (E)"
+	{
+		"fr"		"Dégâts par brûlure++"
+	}
+
+	"afterburn time increased"
+	{
+		"fr"		"Durée de la brûlure++"
+	}
+
+	"max ammo"
+	{
+		"fr"		"Capacité max munition"
+	}
+
+	"maxammo primary increased"
+	{
+		"fr"		"Capacité max munition principale++"
+	}
+
+	"maxammo primary increased (S)"
+	{
+		"fr"		"Capacité max munition principale++"
+	}
+
+	"maxammo primary reduced"
+	{
+		"fr"		"Pénalité de capacité max munition principale--"
+	}
+
+	"maxammo secondary increased"
+	{
+		"fr"		"Capacité max munition secondaire++"
+	}
+
+	"maxammo secondary increased (S)"
+	{
+		"fr"		"Capacité max munition secondaire++"
+	}
+
+	"maxammo secondary reduced"
+	{
+		"fr"		"Pénalité de capacité max munition secondaire--"
+	}
+
+	"maxammo metal increased"
+	{
+		"fr"		"Capacité max metal++"
+	}
+
+	"maxammo metal reduced"
+	{
+		"fr"		"Pénalité de capacité max metal--"
+	}
+
+	"minigun spinup time increased"
+	{
+		"fr"		"Penalité de temps de rotation du canon++"
+	}
+
+	"minigun spinup time decreased"
+	{
+		"fr"		"temps de rotation du canon--"
+	}
+
+	"max pipebombs increased"
+	{
+		"fr"		"maximum de bombes posées++"
+	}
+
+	"Construction rate increased"
+	{
+		"fr"		"Vitesse de construction++"
+	}
+
+	"Build rate bonus"
+	{
+		"fr"		"Vitesse de déploiement construction++"
+	}
+
+	"Repair rate increased"
+	{
+		"fr"		"Cadence de reparation++"
+	}
+
+	"Reload time increased"
+	{
+		"fr"		"Penalité temps de rechargement++"
+	}
+
+	"selfdmg on hit for rapidfire"
+	{
+		"fr"		"Dégats causés provoque dégats sur soi"
+	}
+
+	"blast radius increased"
+	{
+		"fr"		"Taille de l'explosion++"
+	}
+
+	"Blast radius increased (J)"
+	{
+		"fr"		"Taille de l'explosion++"
+	}
+
+	"Blast radius decreased"
+	{
+		"fr"		"Pénalité de taille de l'explosion++"
+	}
+
+	"Projectile speed increased"
+	{
+		"fr"		"Vitesse du projectile++"
+	}
+
+	"Projectile force increased"
+	{
+		"fr"		"Vitesse du projectile++"
+	}
+
+	"Projectile speed decreased"
+	{
+		"fr"		"Penalité de vitesse du projectile++"
+	}
+
+	"weapon spread bonus"
+	{
+		"fr"		"Précision du tir++"
+	}
+
+	"health from packs increased"
+	{
+		"fr"		"Santé depuis les kit++"
+	}
+
+	"heal on hit for slowfire"
+	{
+		"fr"		"Dégats donne santé++"
+	}
+
+	"ammo regen"
+	{
+		"fr"		"Régénération des munitions++"
+	}
+
+	"metal regen"
+	{
+		"fr"		"Régénération du métal++"
+	}
+
+	"mod mini-crit airborne"
+	{
+		"fr"		"Mod. mini-crit sur cibles en l'air par expl."
+	}
+
+	"mod shovel damage boost"
+	{
+		"fr"		"Mod. boost dégats quand la santé chute"
+	}
+
+	"dmg falloff decreased"
+	{
+		"fr"		"Réduction pénalité dégats/distance de l'expl++"
+	}
+
+	"sticky detonate mode"
+	{
+		"fr"		"Mod. activation b.c. de type resistance ecossaisz"
+	}
+
+	"stickies detonate stickies"
+	{
+		"fr"		"Les b.c détruisent les b.c."
+	}
+
+	"mod wrench builds minisentry"
+	{
+		"fr"		"Mod. clé construit des minisentries"
+	}
+
+	"max health additive penalty"
+	{
+		"fr"		"Penalité de santé--"
+	}
+
+	"sticky arm time bonus"
+	{
+		"fr"		"Temps d'activation des bombes collantes--"
+	}
+
+	"rocket jump damage reduction"
+	{
+		"fr"		"dégâts d'expl. des sauts propulsés--"
+	}
+
+	"mod sentry killed revenge"
+	{
+		"fr"		"Mod. vengeance de la mitrailleuse détruite"
+	}
+
+	"building cost reduction"
+	{
+		"fr"		"Cout de construction--*"
+	}
+
+	"bleeding duration"
+	{
+		"fr"		"Durée de saignement++"
+	}
+
+	"disguise on backstab"
+	{
+		"fr"		"Poignarder entraine le déguisement"
+	}
+
+	"silent killer"
+	{
+		"fr"		"Tueur silencieux"
+	}
+
+	"disguise speed"
+	{
+		"fr"		"Cadence de déguisement++"
+	}
+
+	"disguise damage reduction"
+	{
+		"fr"		"Déguisement: réduction de dégats"
+	}
+
+	"add cloak on kill"
+	{
+		"fr"		"Tuer ajoute de l'invis."
+	}
+
+	"quiet unstealth"
+	{
+		"fr"		"Re-visibilité discrète"
+	}
+
+	"flame size bonus"
+	{
+		"fr"		"Taille de la flamme++"
+	}
+
+	"flame life bonus"
+	{
+		"fr"		"Durée de la flamme++"
+	}
+
+	"charged airblast"
+	{
+		"fr"		"Mod. air comprimé par chargement"
+	}
+
+	"add cloak on hit"
+	{
+		"fr"		"Les dégats donne de l'invis."
+	}
+
+	"disguise no burn"
+	{
+		"fr"		"Se déguiser ignifugé"
+	}
+
+	"airblast cost decreased"
+	{
+		"fr"		"Cout de l'air comprimé--"
+	}
+
+	"flame ammopersec increased"
+	{
+		"fr"		"Penalité cout munitions/sec flamme++"
+	}
+
+	"flame ammopersec decreased"
+	{
+		"fr"		"Cout munitions/sec flamme--"
+	}
+
+	"no death from headshots"
+	{
+		"fr"		"Protection contre la mort par headshot"
+	}
+
+	"deploy time decreased"
+	{
+		"fr"		"Vitesse de changement d'arme"
+	}
+
+	"minicrits become crits"
+	{
+		"fr"		"Mini-crits deviennent Crits"
+	}
+
+	"heal on kill"
+	{
+		"fr"		"Tuerie donne de la santé++"
+	}
+
+	"no self blast dmg"
+	{
+		"fr"		"Mod vos explosif ne font pas de dégats sur soi"
+	}
+
+	"slow enemy on hit major"
+	{
+		"fr"		"Temps de ralentissement de la cible++"
+	}
+
+	"aiming movespeed increased"
+	{
+		"fr"		"Vitesse pendant la visée++"
+	}
+
+	"aiming movespeed decreased"
+	{
+		"fr"		"Pénalité de vitesse pendant la visée--"
+	}
+
+	"charge movespeed increased"
+	{
+		"fr"		"charge movespeed increased"
+	}
+
+	"preserve ubercharge"
+	{
+		"fr"		"Mod garde un % d'ubercharge après la mort"
+	}
+
+	"fires healing bolts"
+	{
+		"fr"		"Tire des flèches soignantes"
+	}
+
+	"enables aoe heal"
+	{
+		"fr"		"Module soin aoe"
+	}
+
+	"gesture speed increase"
+	{
+		"fr"		"Vitesse de gestuelle++"
+	}
+
+	"charge time increased"
+	{
+		"fr"		"Temps de charge++"
+	}
+
+	"Set DamageType Ignite"
+	{
+		"fr"		"Mod. Les dégats enflamme la cible"
+	}
+
+	"minicrit vs burning player"
+	{
+		"fr"		"Minicrit contre les joueurs en feu"
+	}
+
+	"kill eater"
+	{
+		"fr"		"kill eater"
+	}
+
+	"apply z velocity on damage"
+	{
+		"fr"		"Force verticale-haut appliquée sur la cible++"
+	}
+
+	"apply look velocity on damage"
+	{
+		"fr"		"Force appliquée sur la cible++"
+	}
+
+	"sanguisuge"
+	{
+		"fr"		"sangsue"
+	}
+
+	"mark for death"
+	{
+		"fr"		"Mod. marque à mort"
+	}
+
+	"dmg bonus while half dead"
+	{
+		"fr"		"Dégats quand à moitié mort++"
+	}
+
+	"mod medic killed revenge"
+	{
+		"fr"		"Mod. vengeance du médecin tué"
+	}
+
+	"mult sniper charge after headshot"
+	{
+		"fr"		"Candencde de charge du sniper après headshot++"
+	}
+
+	"minigun no spin sounds"
+	{
+		"fr"		"Mod. rotation du canon silencieuse"
+	}
+
+	"ubercharge rate bonus for healer"
+	{
+		"fr"		"Cadence de charge d'ubercharge du soigneur++"
+	}
+
+	"mod rage on hit bonus"
+	{
+		"fr"		"Mod. rage on hit bonus"
+	}
+
+	"Rage damage boost"
+	{
+		"fr"		"Rage décuple dégats++"
+	}
+
+	"accuracy scales damage"
+	{
+		"fr"		"Précision décuple dégats++"
+	}
+
+	"mult charge turn control"
+	{
+		"fr"		"Contrôle directionnel pendant charge++"
+	}
+
+	"no charge impact range"
+	{
+		"fr"		"Pas de distance d'impact min."
+	}
+
+	"charge impact damage increased"
+	{
+		"fr"		"Dégats causés par charge++"
+	}
+
+	"charge recharge rate increased"
+	{
+		"fr"		"Cadence de recharge de charge++"
+	}
+
+	"air dash count"
+	{
+		"fr"		"Nombre de saut supplémentaires++"
+	}
+
+	"speed buff ally"
+	{
+		"fr"		"Donne un buff vitesse aux alliés"
+	}
+
+	"damage force reduction"
+	{
+		"fr"		"Force d'impact des dégats--"
+	}
+
+	"airblast pushback scale"
+	{
+		"fr"		"Poussée de l'air comprimé++"
+	}
+
+	"mult airblast refire time"
+	{
+		"fr"		"Temps de recharge de l'air comprimé--"
+	}
+
+	"ammo becomes health"
+	{
+		"fr"		"Les munitions deviennent des packs de soin"
+	}
+
+	"boots falling stomp"
+	{
+		"fr"		"Mod. transmission des dégats de chute"
+	}
+
+	"deflection size multiplier"
+	{
+		"fr"		"Taille du déflecteur++"
+	}
+
+	"melee bounds multiplier"
+	{
+		"fr"		"Largeur pour toucher au corps à corps++"
+	}
+
+	"melee range multiplier"
+	{
+		"fr"		"Distance d'attaque au corps à corps++"
+	}
+
+	"see enemy health"
+	{
+		"fr"		"Mod. voir la santé des ennemis"
+	}
+
+	"powerup max charges"
+	{
+		"fr"		"max d'utilisation de la gourde++"
+	}
+
+	"powerup duration"
+	{
+		"fr"		"Durée du bonus de la gourde++"
+	}
+
+	"bidirectional teleport"
+	{
+		"fr"		"Teleporteur bidirectionel"
+	}
+
+	"effect bar recharge rate increased"
+	{
+		"fr"		"Cadence de recharge de la barre d'effet++"
+	}
+
+	"override projectile type"
+	{
+		"fr"		"Change le type de projectile"
+	}
+
+	"engy building health bonus"
+	{
+		"fr"		"Constructions - santé++"
+	}
+
+	"engy sentry damage bonus"
+	{
+		"fr"		"Mitrailleuse - dégats++"
+	}
+
+	"sentry extra damage bonus"
+	{
+		"fr"		"Mitrailleuse - dégats anti armure++"
+	}
+
+	"no crit boost"
+	{
+		"fr"		"Pas de crit boost"
+	}
+
+	"crit chance"
+	{
+		"fr"		"chance crit++"
+	}
+
+	"kill eater score type"
+	{
+		"fr"		"kill eater score type"
+	}
+
+	"kill eater score type 2"
+	{
+		"fr"		"kill eater score type 2"
+	}
+
+	"kill eater 2"
+	{
+		"fr"		"kill eater 2"
+	}
+
+	"sapper kills collect crits"
+	{
+		"fr"		"sapper kills collect crits"
+	}
+
+	"mod ammo per shot"
+	{
+		"fr"		"Pénalité de munitions par tir++"
+	}
+
+	"sniper full charge damage bonus"
+	{
+		"fr"		"Dégats pour la charge maximale du sniper++"
+	}
+
+	"sniper penetrate players when charged"
+	{
+		"fr"		"Mod. sniper chargé pénètre les cibles"
+	}
+
+	"uber duration bonus"
+	{
+		"fr"		"Durée de l'Uber++"
+	}
+
+	"Faster reload rate SPECIAL"
+	{
+		"fr"		"Temps de rechargement SPECIAL--"
+	}
+
+	"faster reload rate"
+	{
+		"fr"		"Temps de rechargement--"
+	}
+
+	"faster reload rate (U)"
+	{
+		"fr"		"Temps de rechargement--"
+	}
+
+	"robo sapper"
+	{
+		"fr"		"robo-sabotage"
+	}
+
+	"attack projectiles"
+	{
+		"fr"		"Mod. détruit les projectiles"
+	}
+
+	"jump height"
+	{
+		"fr"		"Hauteur de saut++"
+	}
+
+	"airblast vulnerability multiplier"
+	{
+		"fr"		"airblast vulnerability multiplier"
+	}
+
+	"reveal cloaked victim on hit"
+	{
+		"fr"		"Les dégats détruisent les champs d'invisibilité"
+	}
+
+	"reveal disguised victim on hit"
+	{
+		"fr"		"Les dégats détruisent les déguisements"
+	}
+
+	"engy sentry fire rate increased"
+	{
+		"fr"		"Mitrailleuse - Cadence de tir--"
+	}
+
+	"engy sentry radius increased"
+	{
+		"fr"		"Mitrailleuse - Rayon d'action++"
+	}
+
+	"engy dispenser radius increased"
+	{
+		"fr"		"Distributeur - Rayon d'action++"
+	}
+
+	"engy disposable sentries"
+	{
+		"fr"		"Nombre de mini mitrailleuses jetables dispo++"
+	}
+
+	"stun enemies wielding same weapon"
+	{
+		"fr"		"Assome les enemis portant la même arme"
+	}
+
+	"airblast disabled"
+	{
+		"fr"		"Air comprimé désactivé"
+	}
+
+	"damage all connected"
+	{
+		"fr"		"Dégats contre tous les joueurs lié par médigun"
+	}
+
+	"crit from behind"
+	{
+		"fr"		"crit par l'arrière"
+	}
+
+	"extinguish earns revenge crits"
+	{
+		"fr"		"Eteindre un allié donne une vengance crit"
+	}
+
+	"burn damage earns rage"
+	{
+		"fr"		"burn damage earns rage"
+	}
+
+	"generate rage on damage"
+	{
+		"fr"		"Mod. dégats génèrent de la rage"
+	}
+
+	"rage on kill"
+	{
+		"fr"		"Tuerie donne de la rage"
+	}
+
+	"headshot damage increase"
+	{
+		"fr"		"Dégats des headshot++"
+	}
+
+	"fire rate bonus HIDDEN"
+	{
+		"fr"		"Cadence de tir - Special--"
+	}
+
+	"fire rate bonus (C)"
+	{
+		"fr"		"Cadence de tir - Special--"
+	}
+
+	"explosive sniper shot"
+	{
+		"fr"		"Tir de sniper explosif"
+	}
+
+	"melee attack rate bonus (slow)"
+	{
+		"fr"		"Vitesse de frappe au c-à-c--"
+	}
+
+	"melee attack rate bonus"
+	{
+		"fr"		"Vitesse de frappe au c-à-c--"
+	}
+
+	"melee attack rate penalty"
+	{
+		"fr"		"Penalité vitesse de frappe au c-à-c"
+	}
+
+	"projectile penetration heavy"
+	{
+		"fr"		"Les projectiles traverse les cibles++"
+	}
+
+	"projectile penetration"
+	{
+		"fr"		"Les projectiles traverse les cibles"
+	}
+
+	"armor piercing"
+	{
+		"fr"		"Dégats perce-armure"
+	}
+
+	"damage penalty"
+	{
+		"fr"		"Dégats anti-armure++"
+	}
+
+	"cannot be backstabbed"
+	{
+		"fr"		"Parapoignardage complet"
+	}
+
+	"share consumable with patient"
+	{
+		"fr"		"Partage les bonus de gourde avec le patient"
+	}
+
+	"crit vs disguised players"
+	{
+		"fr"		"Crit contre les joueurs déguisés"
+	}
+
+	"projectile spread angle penalty"
+	{
+		"fr"		"Pénalité de précision du projectile++"
+	}
+
+	"auto fires full clip"
+	{
+		"fr"		"Tire automatiquement tout le chargeur"
+	}
+
+	"can overload"
+	{
+		"fr"		"Peut surcharger"
+	}
+
+	"hype resets on jump"
+	{
+		"fr"		"Reset le hype lors d'un saut"
+	}
+
+	"clip size penalty HIDDEN"
+	{
+		"fr"		"Pénalité de taille du chargeur--"
+	}
+
+	"ring of fire while aiming"
+	{
+		"fr"		"Anneau de feu pendant la visée"
+	}
+
+	"uses ammo while aiming"
+	{
+		"fr"		"Utilise des munitions pour viser"
+	}
+
+	"medigun charge is crit boost"
+	{
+		"fr"		"Mod. charge du medigun est CritBoost"
+	}
+
+	"move speed (heavy)"
+	{
+		"fr"		"Vitesse de déplacement++"
+	}
+
+	"move speed penalty"
+	{
+		"fr"		"Pénalité vitesse de déplacement--"
+	}
+
+	"melee attack rate bonus (spy)"
+	{
+		"fr"		"Vitesse de frappe au c-à-c--"
+	}
+
+	"additionnal disposable sentries (mvm)"
+	{
+		"fr"		"Nombre de mini mitrailleuses jetables dispo(mvm)++"
+	}
+
+	"multiple sentries?"
+	{
+		"fr"		"multiple sentries?"
+	}
+
+	"bullets per shot bonus (heavy)"
+	{
+		"fr"		"nombre de balles par tir++"
+	}
+
+	"increase buff duration"
+	{
+		"fr"		"Durée du buff++"
+	}
+
+	"cancel falling damage"
+	{
+		"fr"		"Mod. annuler les dégats de chute"
+	}
+
+	"set item tint"
+	{
+		"fr"		"set item tint"
+	}
+
+	"lunchbox adds maxhealth bonus"
+	{
+		"fr"		"Mod. la boite à manger donne un bonus de santé"
+	}
+
+	"overheal decay disabled"
+	{
+		"fr"		"L'extra de santé ne s'amenuise pas"
+	}
+
+	"honor bound"
+	{
+		"fr"		"Lié par l'honneur"
+	}
+
+	"jarate duration"
+	{
+		"fr"		"Durée du jarate"
+	}
+
+	"damage causes airblast"
+	{
+		"fr"		"Les dégats soufflent la cible"
+	}
+
+	"use large smoke explosion"
+	{
+		"fr"		"Mod. utilise une grosse explosion de fumée"
+	}
+
+	"scattergun knockback mult"
+	{
+		"fr"		"Contrecoup du fusil à dispersion++"
+	}
+
+	"engineer building teleporting pickup"
+	{
+		"fr"		"engineer building teleporting pickup"
+	}
+
+	"damage applies to sappers"
+	{
+		"fr"		"Les dégats s'appliquent aux saboteurs"
+	}
+
+	"sapper damage bonus"
+	{
+		"fr"		"Saboteur - Dégats++"
+	}
+
+	"sapper health bonus"
+	{
+		"fr"		"Saboteur - Santé++"
+	}
+
+	"sapper damage leaches health"
+	{
+		"fr"		"Saboteur vampires"
+	}
+
+	"energy weapon no ammo"
+	{
+		"fr"		"energy weapon no ammo"
+	}
+
+	"mod ammo per shot missed DISPLAY ONLY"
+	{
+		"fr"		"mod ammo per shot missed"
+	}
+
+	"cleaver description"
+	{
+		"fr"		"cleaver description"
+	}
+
+	"crit vs stunned players"
+	{
+		"fr"		"crit vs stunned players"
+	}
+
+	"Honor!"
+	{
+		"fr"		"Honneur!"
+	}
+
+	"honorbound"
+	{
+		"fr"		"Tenue par l'honneur"
+	}
+
+	"aiming no flinch when hurt"
+	{
+		"fr"		"Visée stable quand bléssé"
+	}
+
+	"increase player capture value"
+	{
+		"fr"		"Augmente la capacité de capture"
+	}
+
+	"airblast vertical vulnerability multiplier"
+	{
+		"fr"		"airblast vertical vulnerability multiplier"
+	}
+
+	"Armor Piercing Explosive"
+	{
+		"fr"		"Explosif perce-armure"
+	}
+
+	"Army of not Many"
+	{
+		"fr"		"L'armée de pas beaucoup"
+	}
+
+	"Some Beggar Tweak"
+	{
+		"fr"		"Un réglage de mendiant"
+	}
+
+	"Some Other Beggar Tweak"
+	{
+		"fr"		"Un auter réglage de mendiant"
+	}
+
+	"Medic Beggar Tweak"
+	{
+		"fr"		"Reglage de mendiant du médécien"
+	}
+
+	"Heavy Heavy Heavy Weapon"
+	{
+		"fr"		"Arme lourde lourde lourde"
+	}
+
+	"Heavy Electric Motor"
+	{
+		"fr"		"Moteur électrique lourd"
+	}
+
+	"Assault Weapon"
+	{
+		"fr"		"Arme d'assaut"
+	}
+
+	"Bigger Caliber"
+	{
+		"fr"		"Calibre plus gros"
+	}
+
+	"Bigger Little Caliber."
+	{
+		"fr"		"Petit gros calibre"
+	}
+
+	"Sentry Heavy Motor"
+	{
+		"fr"		"Moteur lourd pour Mitrailleuse"
+	}
+
+	"Sentry Bigger Caliber"
+	{
+		"fr"		"Calibre plus gros pour Mitrailleuse"
+	}
+
+	"Concentrated Fire"
+	{
+		"fr"		"Feu concentré"
+	}
+
+	"Higher Pressure"
+	{
+		"fr"		"Pression plus forte"
+	}
+
+	"Temperature rise"
+	{
+		"fr"		"Température plus forte"
+	}
+
+	"Kamikaze strike"
+	{
+		"fr"		"Attaque kamikaze"
+	}
+
+	"Fast Shot"
+	{
+		"fr"		"Tir rapide"
+	}
+
+	"Fast Laser Shot"
+	{
+		"fr"		"Tir laser rapide"
+	}
+
+	"Heavy Laser Shot"
+	{
+		"fr"		"Tir laser lourd"
+	}
+
+	"Slow swing"
+	{
+		"fr"		"Lame épaisse"
+	}
+
+	"Short charge"
+	{
+		"fr"		"Courte charge"
+	}
+
+	"Le Flingueur"
+	{
+		"fr"		"Le Flingueur"
+	}
+
+
+}

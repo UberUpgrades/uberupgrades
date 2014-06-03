@@ -1,0 +1,143 @@
+"uu_attribs"
+{
+	"Special_tweaks"
+	{
+		"Armor Piercing Explosive"
+		{
+			"Blast radius decreased"		"1.00"
+			"armor piercing damage"		"1.00"
+		}
+		"Army of not Many"
+		{
+			"clip size penalty HIDDEN"		"3.00"
+			"Reload time increased"		"15.00"
+			"fire rate penalty"		"15.00"
+			"maxammo primary reduced"		"3.00"
+			"Projectile speed decreased"		"4.50"
+			"armor piercing damage"		"25.00"
+		}
+		"Some Beggar Tweak"
+		{
+			"projectile spread angle penalty"		"2.00"
+			"can overload"		"1.00"
+			"auto fires full clip"		"1.00"
+			"fire rate bonus HIDDEN"		"3.00"
+			"clip size penalty HIDDEN"		"1.00"
+			"Reload time increased"		"3.00"
+		}
+		"Some Other Beggar Tweak"
+		{
+			"projectile spread angle penalty"		"1.00"
+			"fire rate bonus HIDDEN"		"0.75"
+		}
+		"Medic Beggar Tweak"
+		{
+			"Faster reload rate SPECIAL"		"0.75"
+			"projectile spread angle penalty"		"1.00"
+		}
+		"Heavy Heavy Heavy Weapon"
+		{
+			"minigun spinup time increased"		"3.50"
+			"aiming movespeed decreased"		"1.0"
+			"armor piercing damage"		"1.5"
+		}
+		"Heavy Electric Motor"
+		{
+			"minigun spinup time increased"		"2.00"
+			"uses ammo while aiming"		"1.00"
+			"fire rate bonus"		"0.50"
+			"armor piercing damage"		"1.0"
+		}
+		"Assault Weapon"
+		{
+			"fire rate penalty"		"2.50"
+			"weapon spread bonus"		"0.13"
+			"armor piercing damage"		"0.50"
+		}
+		"Bigger Caliber"
+		{
+			"fire rate penalty"		"1.50"
+			"Reload time increased"		"2.00"
+			"maxammo primary reduced"		"0.75"
+			"armor piercing damage"		"2.00"
+		}
+		"Bigger Little Caliber."
+		{
+			"fire rate penalty"		"1.50"
+			"Reload time increased"		"2.00"
+			"maxammo secondary reduced"		"0.75"
+			"armor piercing damage"		"2.00"
+		}
+		"Sentry Heavy Motor"
+		{
+			"sentry extra damage bonus"		"1.00"
+			"move speed penalty"		"2.00"
+		}
+		"Sentry Bigger Caliber"
+		{
+			"sentry extra damage bonus"		"2.00"
+			"engy sentry fire rate increased"		"-2.00"
+			"maxammo metal reduced"		"1.00"
+		}
+		"Concentrated Fire"
+		{
+			"mod ammo per shot"		"1.00"
+			"armor piercing damage"		"2.00"
+		}
+		"Higher Pressure"
+		{
+			"flame ammopersec increased"		"1.00"
+			"maxammo primary reduced"		"0.50"
+			"armor piercing damage"		"1.00"
+			"afterburn dmg increased"		"3.00"
+		}
+		"Temperature rise"
+		{
+			"flame ammopersec increased"		"1.00"
+			"armor piercing damage"		"1.00"
+		}
+		"Kamikaze strike"
+		{
+			"blast radius increased"			"10.0"
+			"rocket jump damage reduction"		"-100.00"
+			"use large smoke explosion"			"1.0"
+			"armor piercing damage"		"3000.00"
+			"damage bonus"				"500.0"
+		}
+		"Fast Shot"
+		{
+			"fire rate bonus HIDDEN"		"1.00"
+			"spread penalty"		"3.00"
+		}
+		"Fast Laser Shot"
+		{
+			"fire rate bonus HIDDEN"		"1.00"
+			"Reload time increased"			"2.00"
+		}
+		"Heavy Laser Shot"
+		{
+			"armor piercing damage"			"1.00"
+			"Reload time increased"			"2.00"
+		}
+		"Slow swing"
+		{
+			"armor piercing damage"		"1.0"
+			"melee attack rate penalty"	"2.0"
+		}
+		"Short charge"
+		{
+			"armor piercing damage"		"1.0"
+			"charge recharge rate increased"		"-2.0"
+		}
+		"Le Flingueur"
+		{
+			"mod wrench builds minisentry"	"1.0"
+			"max health additive bonus"		"1.25"
+		}
+		"Honor!"
+		{
+			"Honorbound"					"1.0"
+		}
+		
+	}
+}
