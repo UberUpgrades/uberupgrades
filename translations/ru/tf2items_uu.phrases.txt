@@ -381,7 +381,7 @@
 	}
 	"revolver use hit locations"
 	{
-		"ru"		"revolver use hit locations"
+		"ru"		"револьвер использует места попадания"
 	}
 	"backstab shield"
 	{
@@ -401,7 +401,7 @@
 	}
 	"self dmg push force increased"
 	{
-		"ru"		"self dmg push force increased"
+		"ru"		"увеличена сила толкания от урона по себе"
 	}
 	"dmg taken from fire reduced"
 	{
@@ -629,7 +629,7 @@
 	}
 	"add cloak on kill"
 	{
-		"ru"		"дает невидимость при убийстве"
+		"ru"		"даёт невидимость при убийстве"
 	}
 	"quiet unstealth"
 	{
@@ -649,7 +649,7 @@
 	}
 	"add cloak on hit"
 	{
-		"ru"		"дает невидимость при попадании"
+		"ru"		"даёт невидимость при попадании"
 	}
 	"disguise no burn"
 	{
@@ -745,7 +745,7 @@
 	}
 	"sanguisuge"
 	{
-		"ru"		"sanguisuge"
+		"ru"		"кровожадность"
 	}
 	"mark for death"
 	{
@@ -801,7 +801,7 @@
 	}
 	"air dash count"
 	{
-		"ru"		"air dash count"
+		"ru"		"кол-во рывков в воздухе"
 	}
 	"speed buff ally"
 	{
@@ -929,7 +929,7 @@
 	}
 	"robo sapper"
 	{
-		"ru"		"робо жучок"
+		"ru"		"робо-жучок"
 	}
 	"attack projectiles"
 	{
@@ -985,11 +985,11 @@
 	}
 	"extinguish earns revenge crits"
 	{
-		"ru"		"тушение дает криты мести"
+		"ru"		"тушение даёт криты мести"
 	}
 	"burn damage earns rage"
 	{
-		"ru"		"урон от ожога дает ярость"
+		"ru"		"урон от ожога даёт ярость"
 	}
 	"generate rage on damage"
 	{
@@ -1029,7 +1029,7 @@
 	}
 	"projectile penetration heavy"
 	{
-		"ru"		"тяжелое пробитие насквозь"
+		"ru"		"тяжёлое пробитие насквозь"
 	}
 	"projectile penetration"
 	{
@@ -1153,7 +1153,7 @@
 	}
 	"engineer building teleporting pickup"
 	{
-		"ru"		"engineer building teleporting pickup"
+		"ru"		"телепортация постройки при взятии"
 	}
 	"damage applies to sappers"
 	{
@@ -1203,7 +1203,7 @@
 	}
 	"increase player capture value"
 	{
-		"ru"		"увеличичь значение захвата игрока"
+		"ru"		"увеличить значение захвата игрока"
 	}	
 	"airblast vulnerability multiplier"
 	{
@@ -1212,8 +1212,7 @@
 	"airblast vertical vulnerability multiplier"
 	{
 		"ru"		"множитель вертикального сжатого воздуха"
-	}
-	
+    }
 	
 	
 	//SPECIAL TWEAKS NAMES
@@ -1240,11 +1239,11 @@
 	}
 	"Heavy Heavy Heavy Weapon"
 	{
-		"ru"		"Тяжелое тяжелое тяжелое оружие"
+		"ru"		"Тяжёлое тяжёлое тяжёлое оружие"
 	}
 	"Heavy Electric Motor"
 	{
-		"ru"		"Тяжелый Электромотор"
+		"ru"		"Тяжёлый Электромотор"
 	}
 	"Assault Weapon"
 	{
@@ -1260,7 +1259,7 @@
 	}
 	"Sentry Heavy Motor"
 	{
-		"ru"		"Тяжелый мотор турели"
+		"ru"		"Тяжёлый мотор турели"
 	}
 	"Sentry Bigger Caliber"
 	{
@@ -1292,7 +1291,7 @@
 	}
 	"Heavy Laser Shot"
 	{
-		"ru"		"Тяжелый лазерный выстрел"
+		"ru"		"Тяжёлый лазерный выстрел"
 	}
 	"Slow swing"
 	{
@@ -1304,7 +1303,7 @@
 	}
 	"Le Flingueur"
 	{
-		"ru"		"Le Flingueur"	
+		"ru"		"Стрелок"	
 	}
 
 	
