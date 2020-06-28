@@ -1,0 +1,1311 @@
+"Phrases"
+{
+	"Body upgrade"
+	{
+		"zho"		"人物升級"
+	}
+	"Upgrade my primary weapon"
+	{
+		"zho"		"主要武器升級"
+	}
+	"Upgrade my secondary weapon"
+	{
+		"zho"		"次要武器升級"
+	}
+	"Upgrade my melee weapon"
+	{
+		"zho"		"近戰武器升級"
+	}
+	"Display Upgrades/Remove disabilities"
+	{
+		"zho"		"Display Upgrades/Remove disabilities"
+	}
+	"Buy a neeew weapon!!"
+	{
+		"zho"		"購買新武器!!"
+	}
+	"Upgrade my neeew weapon!!"
+	{
+		"zho"		"升級新武器!!"
+	}
+	"Display Upgrades/Remove downgrades - Primary Weapon"
+	{
+		"zho"	"顯示 升級/移除 能力 - 主要"
+	}
+	"Display Upgrades/Remove downgrades - Secondary Weapon"
+	{
+		"zho"	"顯示 升級/移除 能力 - 次要"
+	}
+	
+	"Display Upgrades/Remove downgrades - Melee Weapon"
+	{
+		"zho"	"顯示 升級/移除 能力 - 近戰武器"
+	}
+	
+	"Display Upgrades/Remove downgrades - Body"
+	{
+		"zho"	"顯示 升級/移除 能力 - 人物"
+	}
+	
+	"Display Upgrades/Remove downgrades - Special Weapon"
+	{
+		"zho"	"顯示 升級/移除 能力 - 特殊武器"
+	}
+	
+	"Primary Weapon"
+	{
+		"zho"	"主要"
+	}
+	"Secondary Weapon"
+	{
+		"zho"	"次要武器"
+	}
+	
+	"Melee Weapon"
+	{
+		"zho"	"近戰武器"
+	}
+	
+	"Special Weapon"
+	{
+		"zho"	"特殊武器"
+	}
+	"Body"
+	{
+		"zho"	"人物"
+	}
+	"You have not enough money!!" 
+	{
+		"zho"	"可....可惡!! 錢還是不夠嗎..?" 
+	}
+	"Attribute removed"
+	{
+		"zho" "功能移除!"
+	}
+	//SUB CATEGORIES
+	
+	"Protection upgrades"
+	{
+		"zho"		"防禦升級"
+	}
+	"Physical upgrades"
+	{
+		"zho"		"肉體升級"
+	}
+	"Ammo upgrades"
+	{
+		"zho"		"彈藥升級"
+	}
+	"Spy upgrades"
+	{
+		"zho"		"手錶升級"
+	}
+	"Ammo & metal upgrades"
+	{
+		"zho"		"彈藥 & 金屬 升級"
+	}
+	"Damage upgrades"
+	{
+		"zho"		"傷害升級"
+	}
+	"Cannon specific upgrades"
+	{
+		"zho"		"脫韁火炮升級"
+	}
+	"Special Tweaks"
+	{
+		"zho"		"特別調整"
+	}
+	"Extra features*"
+	{
+		"zho"		"Extra features*"
+	}
+	"Pipebomb launcher specific upgrades"
+	{
+		"zho"		"黏彈升級"
+	}
+	"Launcher specific upgrades"
+	{
+		"zho"		"發射器升級"
+	}
+	"Melee specific upgrades"
+	{
+		"zho"		"近戰武器強化"
+	}
+	"Charge upgrades"
+	{
+		"zho"		"特殊升級"
+	}
+	"Weapon Specific upgrades"
+	{
+		"zho"		"特殊升級"
+	}
+	"Gun specific upgrades"
+	{
+		"zho"		"武器升級"
+	}
+	"Laser weapon specific upgrades"
+	{
+		"zho"		"雷射升級"
+	}
+	"Short circuit specific upgrades"
+	{
+		"zho"		"短路升級"
+	}
+	"Building tech upgrades"
+	{
+		"zho"		"建築升級"
+	}
+	"Minigun specific upgrades"
+	{
+		"zho"		"機槍升級"
+	}
+	"Lunchbox specific upgrades"
+	{
+		"zho"		"食物升級"
+	}
+	"Syringegun specific upgrades"
+	{
+		"zho"		"注射槍升級"
+	}
+	"Medigun Specific upgrades"
+	{
+		"zho"		"醫療槍升級"
+	}
+	"Flamethrower specific upgrades"
+	{
+		"zho"		"火焰發射器升級"
+	}
+	"Flaregun specific upgrades"
+	{
+		"zho"		"信號槍升級"
+	}
+	"Shotgun specific upgrades"
+	{
+		"zho"		"武器升級"
+	}
+	"Scattergun specific upgrades"
+	{
+		"zho"		"散彈槍升級"
+	}
+	"Handgun specific upgrades"
+	{
+		"zho"		"手槍升級"
+	}
+	"Cleaver specific upgrades"
+	{
+		"zho"		"菜刀升級"
+	}
+	"Jarate specific upgrades"
+	{
+		"zho"		"瓶子升級"
+	}
+	"Sniper specific upgrades"
+	{
+		"zho"		"狙擊槍升級"
+	}
+	"Smg Specific upgrades"
+	{
+		"zho"		"衝鋒槍升級"
+	}
+	"Mangler specific upgrades"
+	{
+		"zho"		"要牛命升級"
+	}
+	"Laser specific upgrades"
+	{
+		"zho"		"雷射升級"
+	}
+	"Specific upgrades"
+	{
+		"zho"		"特殊升級"
+	}
+	"Sapper upgrades"
+	{
+		"zho"		"電子破壞器升級"
+	}
+	"Buff banner specific upgrades"
+	{
+		"zho"		"旗幟升級"
+	}
+	
+	
+	
+	"Damage bonus vs player"
+	{
+		"zho"		"對玩家造成傷害"
+	}
+	"Damage bonus vs player (C)"
+	{
+		"zho"		"對玩家造成傷害 (C)"
+	}
+	"armor piercing damage"
+	{
+		"zho"		"對巨型機器人造成傷害"
+	}
+	"damage bonus SPECIAL"
+	{
+		"zho"		"特殊傷害"
+	}
+	"damage bonus"
+	{
+		"zho"		"傷害值"
+	}
+	"clip size penalty"
+	{
+		"zho"		"彈藥上膛數"
+	}
+	"clip size bonus"
+	{
+		"zho"		"彈藥上膛數"
+	}
+	"clip size bonus (E)"
+	{
+		"zho"		"彈藥上膛數 (E)"
+	}
+	"clip size bonus (B)"
+	{
+		"zho"		"彈藥上膛數 (B)"
+	}
+	"fire rate penalty"
+	{
+		"zho"		"攻擊速度變慢"
+	}
+	"fire rate bonus"
+	{
+		"zho"		"攻擊速度變快"
+	}
+	"heal rate bonus"
+	{
+		"zho"		"治療速率"
+	}
+	"ubercharge rate bonus"
+	{
+		"zho"		"UberCharge 充電速率"
+	}
+	"overheal bonus"
+	{
+		"zho"		"超量治療量"
+	}
+	"overheal decay bonus"
+	{
+		"zho"		"過量治療時間加長"
+	}
+	"crit mod disabled"
+	{
+		"zho"		"無隨機爆擊"
+	}
+	"heal on hit for rapidfire"
+	{
+		"zho"		"命中回復生命"
+	}
+	"heal on hit (slowfire)"
+	{
+		"zho"		"命中時 (回復生命)"
+	}
+	"add uber charge on hit"
+	{
+		"zho"		"命中時：增加UberCharge"
+	}
+	"crit vs burning players"
+	{
+		"zho"		"對著火的玩家造成爆擊"
+	}
+	"mod flamethrower back crit"
+	{
+		"zho"		"從背後攻擊保證爆擊"
+	}
+	"max health additive bonus"
+	{
+		"zho"		"增加最大生命值"
+	}
+	"max health additive bonus (H)"
+	{
+		"zho"		"最大生命值 (H)"
+	}
+	"critboost on kill"
+	{
+		"zho"		"殺敵後可獲得爆擊加成"
+	}
+	"set cloak is feign death"
+	{
+		"zho"		"掩飾類型：裝死"
+	}
+	"cloak consume rate"
+	{
+		"zho"		"隱形時間"
+	}
+	"mult cloak meter regen rate"
+	{
+		"zho"		"隱形再生率"
+	}
+	"cloak rate"
+	{
+		"zho"		"cloak rate"
+	}
+	"decloak rate"
+	{
+		"zho"		"decloak rate"
+	}
+	"spread penalty"
+	{
+		"zho"		"精確度降低"
+	}
+	"zoom speed mod disabled"
+	{
+		"zho"		"zoom speed mod disabled"
+	}
+	"sniper charge per sec"
+	{
+		"zho"		"充電速率"
+	}
+	"scattergun no reload single"
+	{
+		"zho"		"武器在重新裝彈會一次重裝"
+	}
+	"scattergun has knockback"
+	{
+		"zho"		"可震飛射擊目標，射擊者有後座力"
+	}
+	"bullets per shot bonus"
+	{
+		"zho"		"單發霰彈量"
+	}
+	"bullets per shot bonus (single)"
+	{
+		"zho"		"單發霰彈量"
+	}
+	"absorb damage while cloaked"
+	{
+		"zho"		"absorb damage while cloaked"
+	}
+	"revolver use hit locations"
+	{
+		"zho"		"revolver use hit locations"
+	}
+	"backstab shield"
+	{
+		"zho"		"防背刺"
+	}
+	"fire retardant"
+	{
+		"zho"		"fire retardant"
+	}
+	"move speed"
+	{
+		"zho"		"移動速度"
+	}
+	"health regen"
+	{
+		"zho"		"生命值再生量"
+	}
+	"self dmg push force increased"
+	{
+		"zho"		"自我擊退力道"
+	}
+	"dmg taken from fire reduced"
+	{
+		"zho"		"抗火焰力"
+	}
+	"dmg taken from crit reduced"
+	{
+		"zho"		"抗爆擊力"
+	}
+	"dmg taken from blast reduced"
+	{
+		"zho"		"抗爆炸力"
+	}
+	"dmg taken from bullets reduced"
+	{
+		"zho"		"抗子彈力"
+	}
+	"dmg from ranged reduced"
+	{
+		"zho"		"使用遠距離武器傷害"
+	}
+	"dmg from sentry reduced"
+	{
+		"zho"		"抗步哨子彈"
+	}
+	"dmg from melee reduced"
+	{
+		"zho"		"減少來自近戰的傷害"
+	}
+	"dmg taken reduced"
+	{
+		"zho"		"減少受到傷害"
+	}
+	"health from healers increased"
+	{
+		"zho"		"增加從醫療槍得到的生命值"
+	}
+	"afterburn dmg increased"
+	{
+		"zho"		"增加餘火傷害"
+	}
+	"afterburn dmg increased (E)"
+	{
+		"zho"		"增加餘火傷害 (E)"
+	}
+	"afterburn time increased"
+	{
+		"zho"		"增加餘火持續時間"
+	}
+	"max ammo"
+	{
+		"zho"		"最大彈藥"
+	}
+	"maxammo primary increased"
+	{
+		"zho"		"主要武器彈藥最大值"
+	}
+	"maxammo primary increased (S)"
+	{
+		"zho"		"主要武器彈藥最大值 (S)"
+	}
+	"maxammo primary reduced"
+	{
+		"zho"		"主要武器彈藥最大值"
+	}
+	"maxammo secondary increased"
+	{
+		"zho"		"次要武器彈藥最大值"
+	}
+	"maxammo secondary increased (S)"
+	{
+		"zho"		"次要武器彈藥最大值 (S)"
+	}
+	"maxammo secondary reduced"
+	{
+		"zho"		"次要武器彈藥最大值"
+	}
+	"maxammo metal increased"
+	{
+		"zho"		"最大金屬量"
+	}
+	"maxammo metal reduced"
+	{
+		"zho"		"最大金屬量"
+	}
+	"minigun spinup time increased"
+	{
+		"zho"		"進入旋轉時間變慢"
+	}
+	"minigun spinup time decreased"
+	{
+		"zho"		"進入旋轉時間變快"
+	}
+	"max pipebombs increased"
+	{
+		"zho"		"最大土製鐵管炸彈"
+	}
+	"Construction rate increased"
+	{
+		"zho"		"建造速度變快"
+	}
+	"Build rate bonus"
+	{
+		"zho"		"敲打建造速度"
+	}
+	"Repair rate increased"
+	{
+		"zho"		"增加修復率"
+	}
+	"Reload time increased"
+	{
+		"zho"		"重新裝彈速度"
+	}
+	"selfdmg on hit for rapidfire"
+	{
+		"zho"		"命中時：回復生命值"
+	}
+	"blast radius increased"
+	{
+		"zho"		"爆炸範圍"
+	}
+	"Blast radius increased (J)"
+	{
+		"zho"		"爆炸範圍"
+	}
+	"Blast radius decreased"
+	{
+		"zho"		"爆炸範圍"
+	}
+	"Projectile speed increased"
+	{
+		"zho"		"投射物速度"
+	}
+	"Projectile force increased"
+	{
+		"zho"		"投射物穿透"
+	}
+	"Projectile speed decreased"
+	{
+		"zho"		"投射物速度"
+	}
+	"weapon spread bonus"
+	{
+		"zho"		"精確度增加"
+	}
+	"health from packs increased"
+	{
+		"zho"		"從補血包得到的生命值"
+	}
+	"heal on hit for slowfire"
+	{
+		"zho"		"命中時：回復生命值"
+	}
+	"ammo regen"
+	{
+		"zho"		"裝備者每 5 秒彈藥再生量"
+	}
+	"metal regen"
+	{
+		"zho"		"裝備者每 5 秒金屬再生量"
+	}
+	"mod mini-crit airborne"
+	{
+		"zho"		"可對空中的目標產生小爆擊傷害"
+	}
+	"mod shovel damage boost"
+	{
+		"zho"		"依使用者受到的傷害而增加攻擊力"
+	}
+	"dmg falloff decreased"
+	{
+		"zho"		"擴散傷害降低"
+	}
+	"sticky detonate mode"
+	{
+		"zho"		"sticky detonate mode"
+	}
+	"stickies detonate stickies"
+	{
+		"zho"		"stickies detonate stickies"
+	}
+	"mod wrench builds minisentry"
+	{
+		"zho"		"mod wrench builds minisentry"
+	}
+	"max health additive penalty"
+	{
+		"zho"		"max health additive penalty"
+	}
+	"sticky arm time bonus"
+	{
+		"zho"		"黏炸引爆時間加快"
+	}
+	"rocket jump damage reduction"
+	{
+		"zho"		"減少火箭跳傷害"
+	}
+	"mod sentry killed revenge"
+	{
+		"zho"		"mod sentry killed revenge"
+	}
+	"building cost reduction"
+	{
+		"zho"		"減少建造耗費的金屬量"
+	}
+	"bleeding duration"
+	{
+		"zho"		"命中時：使敵人持續流血"
+	}
+	"disguise on backstab"
+	{
+		"zho"		"當背刺成功時，您可以迅速偽裝成受害者"
+	}
+	"silent killer"
+	{
+		"zho"		"沈默殺手：受害者不會發出背刺慘叫"
+	}
+	"disguise speed"
+	{
+		"zho"		"偽裝速度"
+	}
+	"disguise damage reduction"
+	{
+		"zho"		"disguise damage reduction"
+	}
+	"add cloak on kill"
+	{
+		"zho"		"殺敵時回復手錶能量"
+	}
+	"quiet unstealth"
+	{
+		"zho"		"背刺時：吸取受害者的生命值"
+	}
+	"flame size bonus"
+	{
+		"zho"		"火焰範圍"
+	}
+	"flame life bonus"
+	{
+		"zho"		"flame life bonus"
+	}
+	"charged airblast"
+	{
+		"zho"		"charged airblast"
+	}
+	"add cloak on hit"
+	{
+		"zho"		"add cloak on hit"
+	}
+	"disguise no burn"
+	{
+		"zho"		"偽裝時不受火力傷害影響"
+	}
+	"airblast cost decreased"
+	{
+		"zho"		"airblast cost decreased"
+	}
+	"flame ammopersec increased"
+	{
+		"zho"		"flame ammopersec increased"
+	}
+	"flame ammopersec decreased"
+	{
+		"zho"		"flame ammopersec decreased"
+	}
+	"no death from headshots"
+	{
+		"zho"		"不會被爆頭殺害"
+	}
+	"deploy time decreased"
+	{
+		"zho"		"武器切換速度加快"
+	}
+	"minicrits become crits"
+	{
+		"zho"		"小爆擊變成爆擊"
+	}
+	"heal on kill"
+	{
+		"zho"		"殺敵回復生命"
+	}
+	"no self blast dmg"
+	{
+		"zho"		"不會遭受自身造成的爆破傷害"
+	}
+	"slow enemy on hit major"
+	{
+		"zho"		"命中時：可以減緩目標速度"
+	}
+	"aiming movespeed increased"
+	{
+		"zho"		"部署狀態時加快移動速度"
+	}
+	"aiming movespeed decreased"
+	{
+		"zho"		"處於部署狀態時變慢"
+	}
+	"charge movespeed increased"
+	{
+		"zho"		"charge movespeed increased"
+	}
+	"preserve ubercharge"
+	{
+		"zho"		"死亡時保留ubercharge"
+	}
+	"fires healing bolts"
+	{
+		"zho"		"fires healing bolts"
+	}
+	"enables aoe heal"
+	{
+		"zho"		"enables aoe heal"
+	}
+	"gesture speed increase"
+	{
+		"zho"		"嘲諷速度"
+	}
+	"charge time increased"
+	{
+		"zho"		"增加衝鋒時間"
+	}
+	"Set DamageType Ignite"
+	{
+		"zho"		"命中使敵人著火"
+	}
+	"minicrit vs burning player"
+	{
+		"zho"		"minicrit vs burning player"
+	}
+	"kill eater"
+	{
+		"zho"		"kill eater"
+	}
+	"apply z velocity on damage"
+	{
+		"zho"		"apply z velocity on damage"
+	}
+	"apply look velocity on damage"
+	{
+		"zho"		"apply look velocity on damage"
+	}
+	"sanguisuge"
+	{
+		"zho"		"sanguisuge"
+	}
+	"mark for death"
+	{
+		"zho"		"死亡標記"
+	}
+	"dmg bonus while half dead"
+	{
+		"zho"		"dmg bonus while half dead"
+	}
+	"mod medic killed revenge"
+	{
+		"zho"		"當治療你的 Medic 被殺害時，可獲得兩發復仇爆擊"
+	}
+	"mult sniper charge after headshot"
+	{
+		"zho"		"開鏡射擊爆頭：狙擊槍充電速率加快"
+	}
+	"minigun no spin sounds"
+	{
+		"zho"		"minigun no spin sounds"
+	}
+	"ubercharge rate bonus for healer"
+	{
+		"zho"		"為治療你的 Medic 增加 UberCharge 充電速率"
+	}
+	"mod rage on hit bonus"
+	{
+		"zho"		"命中敵人時：增加憤怒值"
+	}
+	"Rage damage boost"
+	{
+		"zho"		"可隨憤怒值增加而獲得傷害加成"
+	}
+	"accuracy scales damage"
+	{
+		"zho"		"由命中率決定傷害大小"
+	}
+	"mult charge turn control"
+	{
+		"zho"		"mult charge turn control"
+	}
+	"no charge impact range"
+	{
+		"zho"		"no charge impact range"
+	}
+	"charge impact damage increased"
+	{
+		"zho"		"charge impact damage increased"
+	}
+	"charge recharge rate increased"
+	{
+		"zho"		"charge recharge rate increased"
+	}
+	"air dash count"
+	{
+		"zho"		"air dash count"
+	}
+	"speed buff ally"
+	{
+		"zho"		"鞭打隊友：可讓自身和被鞭者短時間內移動速度加快"
+	}
+	"damage force reduction"
+	{
+		"zho"		"減輕來自傷害的擊退力"
+	}
+	"airblast pushback scale"
+	{
+		"zho"		"增加壓縮氣爆作用力"
+	}
+	"mult airblast refire time"
+	{
+		"zho"		"減少壓縮氣爆冷卻時間"
+	}
+	"ammo becomes health"
+	{
+		"zho"		"彈藥轉為補包"
+	}
+	"boots falling stomp"
+	{
+		"zho"		"對你所踩到的玩家造成三倍傷害"
+	}
+	"deflection size multiplier"
+	{
+		"zho"		"deflection size multiplier"
+	}
+	"melee bounds multiplier"
+	{
+		"zho"		"增加近戰範圍"
+	}
+	"melee range multiplier"
+	{
+		"zho"		"增加近戰半徑範圍"
+	}
+	"see enemy health"
+	{
+		"zho"		"使您可以看見敵方生命值"
+	}
+	"powerup max charges"
+	{
+		"zho"		"powerup max charges"
+	}
+	"powerup duration"
+	{
+		"zho"		"powerup duration"
+	}
+	"bidirectional teleport"
+	{
+		"zho"		"傳送裝置可以雙向傳送"
+	}
+	"effect bar recharge rate increased"
+	{
+		"zho"		"冷卻時間"
+	}
+	"override projectile type"
+	{
+		"zho"		"override projectile type"
+	}
+	"engy building health bonus"
+	{
+		"zho"		"增加建築生命"
+	}
+	"engy sentry damage bonus"
+	{
+		"zho"		"增加步哨傷害"
+	}
+	"sentry extra damage bonus"
+	{
+		"zho"		"增加步哨額外傷害加成"
+	}
+	"no crit boost"
+	{
+		"zho"		"no crit boost"
+	}
+	"crit chance"
+	{
+		"zho"		"Crit chance"
+	}
+	"kill eater score type"
+	{
+		"zho"		"kill eater score type"
+	}
+	"kill eater score type 2"
+	{
+		"zho"		"kill eater score type 2"
+	}
+	"kill eater 2"
+	{
+		"zho"		"kill eater 2"
+	}
+	"sapper kills collect crits"
+	{
+		"zho"		"sapper kills collect crits"
+	}
+	"mod ammo per shot"
+	{
+		"zho"		"彈藥消耗量"
+	}
+	"sniper full charge damage bonus"
+	{
+		"zho"		"充電全滿：每發子彈傷害"
+	}
+	"sniper penetrate players when charged"
+	{
+		"zho"		"充電全滿 : 能貫穿玩家"
+	}
+	"uber duration bonus"
+	{
+		"zho"		"uber持續時間增加"
+	}
+	"Faster reload rate SPECIAL"
+	{
+		"zho"		"重新裝彈速度 強化"
+	}
+	"faster reload rate"
+	{
+		"zho"		"重新裝彈速度"
+	}
+	"faster reload rate (U)"
+	{
+		"zho"		"重新裝彈速度 (U)"
+	}
+	"robo sapper"
+	{
+		"zho"		"robo sapper"
+	}
+	"attack projectiles"
+	{
+		"zho"		"可以破壞投射物"
+	}
+	"jump height"
+	{
+		"zho"		"跳躍高度"
+	}
+	"airblast vulnerability multiplier"
+	{
+		"zho"		"airblast vulnerability multiplier"
+	}
+	"reveal cloaked victim on hit"
+	{
+		"zho"		"使隱形中的SPY暴露身形"
+	}
+	"reveal disguised victim on hit"
+	{
+		"zho"		"使偽裝中的SPY現出原形"
+	}
+	"engy sentry fire rate increased"
+	{
+		"zho"		"增加步哨開火速度"
+	}
+	"engy sentry radius increased"
+	{
+		"zho"		"增加步哨開火範圍"
+	}
+	"engy dispenser radius increased"
+	{
+		"zho"		"增加補給器作用範圍"
+	}
+	"engy disposable sentries"
+	{
+		"zho"		"engy disposable sentries"
+	}
+	"stun enemies wielding same weapon"
+	{
+		"zho"		"擊昏持有相同武器者"
+	}
+	"airblast disabled"
+	{
+		"zho"		"airblast disabled"
+	}
+	"damage all connected"
+	{
+		"zho"		"所有由治療光束相互連結的玩家都會受到傷害"
+	}
+	"crit from behind"
+	{
+		"zho"		"背後造成爆擊"
+	}
+	"extinguish earns revenge crits"
+	{
+		"zho"		"次要攻擊：可以幫隊友滅火藉此取得爆擊次數"
+	}
+	"burn damage earns rage"
+	{
+		"zho"		"增加「Mmmph」量表"
+	}
+	"generate rage on damage"
+	{
+		"zho"		"傷害敵人憤怒值"
+	}
+	"rage on kill"
+	{
+		"zho"		"殺敵或助攻可獲得聚焦力"
+	}
+	"headshot damage increase"
+	{
+		"zho"		"增加爆頭的額外傷害"
+	}
+	"fire rate bonus HIDDEN"
+	{
+		"zho"		"開火速度"
+	}
+	"fire rate bonus (C)"
+	{
+		"zho"		"開火速度 (C)"
+	}
+	"explosive sniper shot"
+	{
+		"zho"		"爆炸性爆頭"
+	}
+	"melee attack rate bonus (slow)"
+	{
+		"zho"		"增加近戰攻擊速度 (slow)"
+	}
+	"melee attack rate bonus"
+	{
+		"zho"		"增加近戰攻擊速度"
+	}
+	"melee attack rate penalty"
+	{
+		"zho"		"melee attack rate penalty"
+	}
+	"projectile penetration heavy"
+	{
+		"zho"		"子彈可以射穿敵人"
+	}
+	"projectile penetration"
+	{
+		"zho"		"projectile penetration"
+	}
+	"armor piercing"
+	{
+		"zho"		"armor piercing"
+	}
+	"damage penalty"
+	{
+		"zho"		"armor piercing damage"
+	}
+	"cannot be backstabbed"
+	{
+		"zho"		"防背刺"
+	}
+	"share consumable with patient"
+	{
+		"zho"		"share consumable with patient"
+	}
+	"crit vs disguised players"
+	{
+		"zho"		"對偽裝的敵人造成爆擊"
+	}
+	"projectile spread angle penalty"
+	{
+		"zho"		"projectile spread angle penalty"
+	}
+	"auto fires full clip"
+	{
+		"zho"		"auto fires full clip"
+	}
+	"can overload"
+	{
+		"zho"		"can overload"
+	}
+	"hype resets on jump"
+	{
+		"zho"		"hype resets on jump"
+	}
+	"clip size penalty HIDDEN"
+	{
+		"zho"		"clip size penalty HIDDEN"
+	}
+	"ring of fire while aiming"
+	{
+		"zho"		"ring of fire while aiming"
+	}
+	"uses ammo while aiming"
+	{
+		"zho"		"uses ammo while aiming"
+	}
+	"medigun charge is crit boost"
+	{
+		"zho"		"爆擊製造者效果"
+	}
+	"move speed (heavy)"
+	{
+		"zho"		"移動速度 (heavy)"
+	}
+	"move speed penalty"
+	{
+		"zho"		"move speed penalty"
+	}
+	"melee attack rate bonus (spy)"
+	{
+		"zho"		"近戰武器攻擊速度 (spy)"
+	}
+	"additionnal disposable sentries (mvm)"
+	{
+		"zho"		"拋棄式步哨+1 (mvm)"
+	}
+	"multiple sentries?"
+	{
+		"zho"		"multiple sentries?"
+	}
+	"bullets per shot bonus (heavy)"
+	{
+		"zho"		"單發霰彈量(heavy)"
+	}
+	"increase buff duration"
+	{
+		"zho"		"延長增益持續時間"
+	}
+	"cancel falling damage"
+	{
+		"zho"		"裝備者不需承受摔落傷害"
+	}
+	"set item tint"
+	{
+		"zho"		"物品色相代碼"
+	}
+	"lunchbox adds maxhealth bonus"
+	{
+		"zho"		"30 秒內最大生命值 +50"
+	}
+	"overheal decay disabled"
+	{
+		"zho"		"超量治療加成不會衰退"
+	}
+	"honor bound"
+	{
+		"zho"		"半盲效果"
+	}
+	"jarate duration"
+	{
+		"zho"		"瓶手道持續時間"
+	}
+	"damage causes airblast"
+	{
+		"zho"		"damage causes airblast"
+	}
+	"use large smoke explosion"
+	{
+		"zho"		"使用核彈爆炸煙霧"
+	}
+	"scattergun knockback mult"
+	{
+		"zho"		" 可震飛射擊目標，射擊者有後座力"
+	}
+	"engineer building teleporting pickup"
+	{
+		"zho"		"次要攻擊：消耗 100 單位金屬搬運遠方的自有建築物"
+	}
+	"damage applies to sappers"
+	{
+		"zho"		"可移除破壞器"
+	}
+	"sapper damage bonus"
+	{
+		"zho"		"破壞器傷害值"
+	}
+	"sapper health bonus"
+	{
+		"zho"		"破壞器生命值回復量"
+	}
+	"sapper damage leaches health"
+	{
+		"zho"		"破壞器生命值每秒回復量"
+	}	
+	
+	"energy weapon no ammo"
+	{
+		"zho"		"不需要彈藥補給"
+	}		
+	"mod ammo per shot missed DISPLAY ONLY"
+	{
+		"zho"		"使用金屬作為彈藥來源"
+	}	
+	"cleaver description"
+	{
+		"zho"		"把這東西丟向敵人讓他們流血吧！遠距離擊中敵人時縮短蓄力時間。"
+	}	
+	
+	"crit vs stunned players"
+	{
+		"zho"		"擊中暈眩的敵人 100% 爆擊"
+	}	
+	"Honor!"
+	{
+		"zho"		"榮譽之縛：一旦取出，在殺敵前收起武器會減少 50 點生命值。"
+	}
+	"honorbound"
+	{
+		"zho"		"殺敵時獲得基本生命值的 50% 生命值"
+	}
+	"aiming no flinch when hurt"
+	{
+		"zho"		"舒適的露營家效果"
+	}
+	"increase player capture value"
+	{
+		"zho"		"裝備者佔領速率"
+	}	
+	"airblast vulnerability multiplier"
+	{
+		"zho"		"承受的壓縮氣爆擊退力"
+	}
+	"airblast vertical vulnerability multiplier"
+	{
+		"zho"		"承受的壓縮氣爆擊退力"
+	}
+	
+	
+	//SPECIAL TWEAKS NAMES
+	
+	"Armor Piercing Explosive"
+	{
+		"zho"		"Armor Piercing Explosive"
+	}
+	"Army of not Many"
+	{
+		"zho"		"Army of not Many"
+	}
+	"Some Beggar Tweak"
+	{
+		"zho"		"Some Beggar Tweak"
+	}
+	"Some Other Beggar Tweak"
+	{
+		"zho"		"Some Other Beggar Tweak"
+	}
+	"Medic Beggar Tweak"
+	{
+		"zho"		"Medic Beggar Tweak"
+	}
+	"Heavy Heavy Heavy Weapon"
+	{
+		"zho"		"我是重,重,重裝兵"
+	}
+	"Heavy Electric Motor"
+	{
+		"zho"		"Heavy Electric Motor"
+	}
+	"Assault Weapon"
+	{
+		"zho"		"Assault Weapon"
+	}
+	"Bigger Caliber"
+	{
+		"zho"		"Bigger Caliber"
+	}
+	"Bigger Little Caliber."
+	{
+		"zho"		"Bigger Little Caliber."
+	}
+	"Sentry Heavy Motor"
+	{
+		"zho"		"Sentry Heavy Motor"
+	}
+	"Sentry Bigger Caliber"
+	{
+		"zho"		"Sentry Bigger Caliber"
+	}
+	"Concentrated Fire"
+	{
+		"zho"		"Concentrated Fire"
+	}
+	"Higher Pressure"
+	{
+		"zho"		"Higher Pressure"
+	}
+	"Temperature rise"
+	{
+		"zho"		"Temperature rise"
+	}
+	"Kamikaze strike"
+	{
+		"zho"		"Kamikaze strike"
+	}
+	"Fast Shot"
+	{
+		"zho"		"Fast Shot"
+	}
+	"Fast Laser Shot"
+	{
+		"zho"		"Fast Laser Shot"
+	}
+	"Heavy Laser Shot"
+	{
+		"zho"		"Heavy Laser Shot"
+	}
+	"Slow swing"
+	{
+		"zho"		"Slow swing"
+	}
+	"Short charge"
+	{
+		"zho"		"Short charge"
+	}
+	"Le Flingueur"
+	{
+		"zho"		"Le Flingueur"	
+	}
+
+	
+
+}
