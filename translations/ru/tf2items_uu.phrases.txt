@@ -18,7 +18,7 @@
 	}
 	"Display Upgrades/Remove disabilities"
 	{
-		"ru"		"Показать Улучшения/Убрать недостатки"
+		"ru"		"Показать улучшения/убрать ограничения"
 	}
 	"Buy a neeew weapon!!"
 	{
@@ -30,26 +30,26 @@
 	}
 	"Display Upgrades/Remove downgrades - Primary Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Основное"
+		"ru"	"Показать улучшения/Убрать ограничения - Основное"
 	}
 	"Display Upgrades/Remove downgrades - Secondary Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Доп."
+		"ru"	"Показать улучшения/Убрать ограничения - Доп."
 	}
 	
 	"Display Upgrades/Remove downgrades - Melee Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Ближний бой"
+		"ru"	"Показать улучшения/Убрать ограничения - Ближний бой"
 	}
 	
 	"Display Upgrades/Remove downgrades - Body"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Тело"
+		"ru"	"Показать улучшения/Убрать ограничения - Тело"
 	}
 	
 	"Display Upgrades/Remove downgrades - Special Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Особое оружие"
+		"ru"	"Показать улучшения/Убрать ограничения - Особое оружие"
 	}
 	
 	"Primary Weapon"
@@ -80,7 +80,7 @@
 	}
 	"Attribute removed"
 	{
-		"ru" "Атрибут удален!"
+		"ru" "Атрибут удалён!"
 	}
 	//SUB CATEGORIES
 	
@@ -90,7 +90,7 @@
 	}
 	"Physical upgrades"
 	{
-		"ru"		"Улучшения физические"
+		"ru"		"Физические улучшения"
 	}
 	"Ammo upgrades"
 	{
@@ -98,11 +98,11 @@
 	}
 	"Spy upgrades"
 	{
-		"ru"		"Улучшения для Шпиона"
+		"ru"		"Улучшения для шпиона"
 	}
 	"Ammo & metal upgrades"
 	{
-		"ru"		"Улучшения Боеприпасов и металла"
+		"ru"		"Улучшения боеприпасов и металла"
 	}
 	"Damage upgrades"
 	{
@@ -110,11 +110,11 @@
 	}
 	"Cannon specific upgrades"
 	{
-		"ru"		"Улучшения для Пушки"
+		"ru"		"Улучшения для пушки"
 	}
 	"Special Tweaks"
 	{
-		"ru"		"Специальные хитрости"
+		"ru"		"Специальные улучшения"
 	}
 	"Extra features*"
 	{
@@ -122,15 +122,15 @@
 	}
 	"Pipebomb launcher specific upgrades"
 	{
-		"ru"		"Улучшения для Гранатомёта"
+		"ru"		"Улучшения для гранатомёта"
 	}
 	"Launcher specific upgrades"
 	{
-		"ru"		"Улучшения для Ракетомёта"
+		"ru"		"Улучшения для ракетомёта"
 	}
 	"Melee specific upgrades"
 	{
-		"ru"		"Улучшения для Ближнего Боя"
+		"ru"		"Улучшения для ближнего боя"
 	}
 	"Charge upgrades"
 	{
@@ -138,15 +138,15 @@
 	}
 	"Weapon Specific upgrades"
 	{
-		"ru"		"Улучшения для Оружия"
+		"ru"		"Улучшения для оружия"
 	}
 	"Gun specific upgrades"
 	{
-		"ru"		"Улучшения для Пушек"
+		"ru"		"Улучшения для пушек"
 	}
 	"Laser weapon specific upgrades"
 	{
-		"ru"		"Улучшения для Лазерного Оружия"
+		"ru"		"Улучшения для лазерного оружия"
 	}
 	"Short circuit specific upgrades"
 	{
@@ -154,55 +154,55 @@
 	}
 	"Building tech upgrades"
 	{
-		"ru"		"Улучшения для Строительной техники"
+		"ru"		"Улучшения для технологии строительства"
 	}
 	"Minigun specific upgrades"
 	{
-		"ru"		"Улучшения для Пулемёта"
+		"ru"		"Улучшения для пулемёта"
 	}
 	"Lunchbox specific upgrades"
 	{
-		"ru"		"Улучшения для Лакомства"
+		"ru"		"Улучшения для лакомства"
 	}
 	"Syringegun specific upgrades"
 	{
-		"ru"		"Улучшения для Шприцемета"
+		"ru"		"Улучшения для шприцемёта"
 	}
 	"Medigun Specific upgrades"
 	{
-		"ru"		"Улучшения для Лечебной пушки"
+		"ru"		"Улучшения для лечебной пушки"
 	}
 	"Flamethrower specific upgrades"
 	{
-		"ru"		"Улучшения для Огнемёта"
+		"ru"		"Улучшения для огнемёта"
 	}
 	"Flaregun specific upgrades"
 	{
-		"ru"		"Улучшения для Ракетницы"
+		"ru"		"Улучшения для ракетницы"
 	}
 	"Shotgun specific upgrades"
 	{
-		"ru"		"Улучшения для Дробовика"
+		"ru"		"Улучшения для дробовика"
 	}
 	"Scattergun specific upgrades"
 	{
-		"ru"		"Улучшения для Обреза"
+		"ru"		"Улучшения для обреза"
 	}
 	"Handgun specific upgrades"
 	{
-		"ru"		"Улучшения для Пистолета"
+		"ru"		"Улучшения для пистолета"
 	}
 	"Cleaver specific upgrades"
 	{
-		"ru"		"Улучшения для Тесака"
+		"ru"		"Улучшения для тесака"
 	}
 	"Jarate specific upgrades"
 	{
-		"ru"		"Улучшения для Банкате"
+		"ru"		"Улучшения для банкате"
 	}
 	"Sniper specific upgrades"
 	{
-		"ru"		"Улучшения для Снайпера"
+		"ru"		"Улучшения для снайпера"
 	}
 	"Smg Specific upgrades"
 	{
@@ -210,11 +210,11 @@
 	}
 	"Mangler specific upgrades"
 	{
-		"ru"		"Улучшения для Линчевателя"
+		"ru"		"Улучшения для линчевателя"
 	}
 	"Laser specific upgrades"
 	{
-		"ru"		"Улучшения для Лазера"
+		"ru"		"Улучшения для лазера"
 	}
 	"Specific upgrades"
 	{
@@ -222,11 +222,11 @@
 	}
 	"Sapper upgrades"
 	{
-		"ru"		"Улучшения для Жучка"
+		"ru"		"Улучшения для жучка"
 	}
 	"Buff banner specific upgrades"
 	{
-		"ru"		"Улучшения для Вдохновляющего знамя"
+		"ru"		"Улучшения для вдохновляющего знамя"
 	}
 	
 	
@@ -637,7 +637,7 @@
 	}
 	"flame size bonus"
 	{
-		"ru"		"бонус размера горения"
+		"ru"		"бонус размера огня"
 	}
 	"flame life bonus"
 	{
@@ -725,7 +725,7 @@
 	}
 	"Set DamageType Ignite"
 	{
-		"ru"		"Установить ТипУрона Огня"
+		"ru"		"Установить тип урона огня"
 	}
 	"minicrit vs burning player"
 	{
@@ -857,7 +857,7 @@
 	}
 	"effect bar recharge rate increased"
 	{
-		"ru"		"увеличена скорость перезарядки панели эффектов"
+		"ru"		"увеличена скорость перезарядки эффектов"
 	}
 	"override projectile type"
 	{
@@ -1243,7 +1243,7 @@
 	}
 	"Heavy Electric Motor"
 	{
-		"ru"		"Тяжёлый Электромотор"
+		"ru"		"Тяжёлый электромотор"
 	}
 	"Assault Weapon"
 	{
