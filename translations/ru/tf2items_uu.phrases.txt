@@ -513,7 +513,7 @@
 	}
 	"Reload time increased"
 	{
-		"ru"		"Время перезарядки увеличена"
+		"ru"		"Время перезарядки увеличено"
 	}
 	"selfdmg on hit for rapidfire"
 	{
