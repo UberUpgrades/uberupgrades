@@ -150,7 +150,7 @@
 	}
 	"Short circuit specific upgrades"
 	{
-		"ru"		"Улучшения для Короткого замыкания"
+		"ru"		"Улучшения для короткого замыкания"
 	}
 	"Building tech upgrades"
 	{
@@ -313,7 +313,7 @@
 	}
 	"mod flamethrower back crit"
 	{
-		"ru"		"мод криты при атаке со спины огнемётом"
+		"ru"		"мод: криты при атаке со спины огнемётом"
 	}
 	"max health additive bonus"
 	{
@@ -565,11 +565,11 @@
 	}
 	"mod mini-crit airborne"
 	{
-		"ru"		"мод мини-криты в воздухе"
+		"ru"		"мод: мини-криты в воздухе"
 	}
 	"mod shovel damage boost"
 	{
-		"ru"		"мод увеличенный урон от лопаты"
+		"ru"		"мод: увеличенный урон от лопаты"
 	}
 	"dmg falloff decreased"
 	{
@@ -585,7 +585,7 @@
 	}
 	"mod wrench builds minisentry"
 	{
-		"ru"		"мод гаечный ключ строит мини-турель"
+		"ru"		"мод: гаечный ключ строит мини-турель"
 	}
 	"max health additive penalty"
 	{
@@ -601,7 +601,7 @@
 	}
 	"mod sentry killed revenge"
 	{
-		"ru"		"мод месть убившей турели"
+		"ru"		"мод: месть убившей турели"
 	}
 	"building cost reduction"
 	{
@@ -757,7 +757,7 @@
 	}
 	"mod medic killed revenge"
 	{
-		"ru"		"мод месть убившего медика"
+		"ru"		"мод: месть убившего медика"
 	}
 	"mult sniper charge after headshot"
 	{
@@ -773,11 +773,11 @@
 	}
 	"mod rage on hit bonus"
 	{
-		"ru"		"бонус мод ярость при попадании"
+		"ru"		"бонус мод: ярость при попадании"
 	}
 	"Rage damage boost"
 	{
-		"ru"		"мод увеличение урона в ярости"
+		"ru"		"мод: увеличение урона в ярости"
 	}
 	"accuracy scales damage"
 	{
@@ -901,7 +901,7 @@
 	}
 	"mod ammo per shot"
 	{
-		"ru"		"мод боеприпасов за выстрел"
+		"ru"		"мод: боеприпасы за выстрел"
 	}
 	"sniper full charge damage bonus"
 	{
@@ -1178,7 +1178,7 @@
 	}		
 	"mod ammo per shot missed DISPLAY ONLY"
 	{
-		"ru"		"мод боеприпасы за промах"
+		"ru"		"мод: боеприпасы за промах"
 	}	
 	"cleaver description"
 	{
