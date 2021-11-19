@@ -305,7 +305,7 @@
 	}
 	"add uber charge on hit"
 	{
-		"ru"		"убер-заряд при попадании"
+		"ru"		"даёт убер-заряд при попадании"
 	}
 	"crit vs burning players"
 	{
