@@ -226,7 +226,7 @@
 	}
 	"Buff banner specific upgrades"
 	{
-		"ru"		"Улучшения для вдохновляющего знамя"
+		"ru"		"Улучшения для вдохновляющего знамени"
 	}
 	
 	
@@ -533,7 +533,7 @@
 	}
 	"Projectile speed increased"
 	{
-		"ru"		"Ск. снаряда уменьшена"
+		"ru"		"Ск. снаряда увеличена"
 	}
 	"Projectile force increased"
 	{
@@ -573,7 +573,7 @@
 	}
 	"dmg falloff decreased"
 	{
-		"ru"		"урон от падения уменьшен"
+		"ru"		"снижение урона уменьшено"
 	}
 	"sticky detonate mode"
 	{
@@ -673,7 +673,7 @@
 	}
 	"deploy time decreased"
 	{
-		"ru"		"время развертывания уменьшено"
+		"ru"		"время развёртывания уменьшено"
 	}
 	"minicrits become crits"
 	{
@@ -781,7 +781,7 @@
 	}
 	"accuracy scales damage"
 	{
-		"ru"		"точность на уровне урона"
+		"ru"		"точность увеличивает урон"
 	}
 	"mult charge turn control"
 	{
@@ -905,7 +905,7 @@
 	}
 	"sniper full charge damage bonus"
 	{
-		"ru"		"снайпер бонус урона при полном заряде"
+		"ru"		"снайпер: бонусный урон при полном заряде"
 	}
 	"sniper penetrate players when charged"
 	{
@@ -1149,7 +1149,7 @@
 	}
 	"scattergun knockback mult"
 	{
-		"ru"		"отдача обреза множитель"
+		"ru"		"множитель отдачи обреза"
 	}
 	"engineer building teleporting pickup"
 	{
@@ -1165,11 +1165,11 @@
 	}
 	"sapper health bonus"
 	{
-		"ru"		"бонус здоровья жучка"
+		"ru"		"бонус прочности жучка"
 	}
 	"sapper damage leaches health"
 	{
-		"ru"		"урон жучка выщелачивает здоровье"
+		"ru"		"урон жучка переводится в здоровье"
 	}	
 	
 	"energy weapon no ammo"
@@ -1227,11 +1227,11 @@
 	}
 	"Some Beggar Tweak"
 	{
-		"ru"		"Некоторая хитрость бродяги"
+		"ru"		"Небольшая хитрость бродяги"
 	}
 	"Some Other Beggar Tweak"
 	{
-		"ru"		"Некоторая другая хитрость бродяги"
+		"ru"		"Небольшая другая хитрость бродяги"
 	}
 	"Medic Beggar Tweak"
 	{
