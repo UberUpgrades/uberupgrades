@@ -18,7 +18,7 @@
 	}
 	"Display Upgrades/Remove disabilities"
 	{
-		"ru"		"Показать Улучшения/Убрать недостатки"
+		"ru"		"Показать улучшения/убрать ограничения"
 	}
 	"Buy a neeew weapon!!"
 	{
@@ -30,26 +30,26 @@
 	}
 	"Display Upgrades/Remove downgrades - Primary Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Основное"
+		"ru"	"Показать улучшения/Убрать ограничения - Основное"
 	}
 	"Display Upgrades/Remove downgrades - Secondary Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Доп."
+		"ru"	"Показать улучшения/Убрать ограничения - Доп."
 	}
 	
 	"Display Upgrades/Remove downgrades - Melee Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Ближний бой"
+		"ru"	"Показать улучшения/Убрать ограничения - Ближний бой"
 	}
 	
 	"Display Upgrades/Remove downgrades - Body"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Тело"
+		"ru"	"Показать улучшения/Убрать ограничения - Тело"
 	}
 	
 	"Display Upgrades/Remove downgrades - Special Weapon"
 	{
-		"ru"	"Показать Улучшения/Убрать ухудшения - Особое оружие"
+		"ru"	"Показать улучшения/Убрать ограничения - Особое оружие"
 	}
 	
 	"Primary Weapon"
@@ -80,7 +80,7 @@
 	}
 	"Attribute removed"
 	{
-		"ru" "Атрибут удален!"
+		"ru" "Атрибут удалён!"
 	}
 	//SUB CATEGORIES
 	
@@ -90,7 +90,7 @@
 	}
 	"Physical upgrades"
 	{
-		"ru"		"Улучшения физические"
+		"ru"		"Физические улучшения"
 	}
 	"Ammo upgrades"
 	{
@@ -98,11 +98,11 @@
 	}
 	"Spy upgrades"
 	{
-		"ru"		"Улучшения для Шпиона"
+		"ru"		"Улучшения для шпиона"
 	}
 	"Ammo & metal upgrades"
 	{
-		"ru"		"Улучшения Боеприпасов и металла"
+		"ru"		"Улучшения боеприпасов и металла"
 	}
 	"Damage upgrades"
 	{
@@ -110,11 +110,11 @@
 	}
 	"Cannon specific upgrades"
 	{
-		"ru"		"Улучшения для Пушки"
+		"ru"		"Улучшения для пушки"
 	}
 	"Special Tweaks"
 	{
-		"ru"		"Специальные хитрости"
+		"ru"		"Специальные улучшения"
 	}
 	"Extra features*"
 	{
@@ -122,15 +122,15 @@
 	}
 	"Pipebomb launcher specific upgrades"
 	{
-		"ru"		"Улучшения для Гранатомёта"
+		"ru"		"Улучшения для гранатомёта"
 	}
 	"Launcher specific upgrades"
 	{
-		"ru"		"Улучшения для Ракетомёта"
+		"ru"		"Улучшения для ракетомёта"
 	}
 	"Melee specific upgrades"
 	{
-		"ru"		"Улучшения для Ближнего Боя"
+		"ru"		"Улучшения для ближнего боя"
 	}
 	"Charge upgrades"
 	{
@@ -138,71 +138,71 @@
 	}
 	"Weapon Specific upgrades"
 	{
-		"ru"		"Улучшения для Оружия"
+		"ru"		"Улучшения для оружия"
 	}
 	"Gun specific upgrades"
 	{
-		"ru"		"Улучшения для Пушек"
+		"ru"		"Улучшения для пушек"
 	}
 	"Laser weapon specific upgrades"
 	{
-		"ru"		"Улучшения для Лазерного Оружия"
+		"ru"		"Улучшения для лазерного оружия"
 	}
 	"Short circuit specific upgrades"
 	{
-		"ru"		"Улучшения для Короткого замыкания"
+		"ru"		"Улучшения для короткого замыкания"
 	}
 	"Building tech upgrades"
 	{
-		"ru"		"Улучшения для Строительной техники"
+		"ru"		"Улучшения для технологии строительства"
 	}
 	"Minigun specific upgrades"
 	{
-		"ru"		"Улучшения для Пулемёта"
+		"ru"		"Улучшения для пулемёта"
 	}
 	"Lunchbox specific upgrades"
 	{
-		"ru"		"Улучшения для Лакомства"
+		"ru"		"Улучшения для лакомства"
 	}
 	"Syringegun specific upgrades"
 	{
-		"ru"		"Улучшения для Шприцемета"
+		"ru"		"Улучшения для шприцемёта"
 	}
 	"Medigun Specific upgrades"
 	{
-		"ru"		"Улучшения для Лечебной пушки"
+		"ru"		"Улучшения для лечебной пушки"
 	}
 	"Flamethrower specific upgrades"
 	{
-		"ru"		"Улучшения для Огнемёта"
+		"ru"		"Улучшения для огнемёта"
 	}
 	"Flaregun specific upgrades"
 	{
-		"ru"		"Улучшения для Ракетницы"
+		"ru"		"Улучшения для ракетницы"
 	}
 	"Shotgun specific upgrades"
 	{
-		"ru"		"Улучшения для Дробовика"
+		"ru"		"Улучшения для дробовика"
 	}
 	"Scattergun specific upgrades"
 	{
-		"ru"		"Улучшения для Обреза"
+		"ru"		"Улучшения для обреза"
 	}
 	"Handgun specific upgrades"
 	{
-		"ru"		"Улучшения для Пистолета"
+		"ru"		"Улучшения для пистолета"
 	}
 	"Cleaver specific upgrades"
 	{
-		"ru"		"Улучшения для Тесака"
+		"ru"		"Улучшения для тесака"
 	}
 	"Jarate specific upgrades"
 	{
-		"ru"		"Улучшения для Банкате"
+		"ru"		"Улучшения для банкате"
 	}
 	"Sniper specific upgrades"
 	{
-		"ru"		"Улучшения для Снайпера"
+		"ru"		"Улучшения для снайпера"
 	}
 	"Smg Specific upgrades"
 	{
@@ -210,11 +210,11 @@
 	}
 	"Mangler specific upgrades"
 	{
-		"ru"		"Улучшения для Линчевателя"
+		"ru"		"Улучшения для линчевателя"
 	}
 	"Laser specific upgrades"
 	{
-		"ru"		"Улучшения для Лазера"
+		"ru"		"Улучшения для лазера"
 	}
 	"Specific upgrades"
 	{
@@ -222,11 +222,11 @@
 	}
 	"Sapper upgrades"
 	{
-		"ru"		"Улучшения для Жучка"
+		"ru"		"Улучшения для жучка"
 	}
 	"Buff banner specific upgrades"
 	{
-		"ru"		"Улучшения для Вдохновляющего знамя"
+		"ru"		"Улучшения для вдохновляющего знамени"
 	}
 	
 	
@@ -305,7 +305,7 @@
 	}
 	"add uber charge on hit"
 	{
-		"ru"		"убер-заряд при попадании"
+		"ru"		"даёт убер-заряд при попадании"
 	}
 	"crit vs burning players"
 	{
@@ -313,7 +313,7 @@
 	}
 	"mod flamethrower back crit"
 	{
-		"ru"		"мод криты при атаке со спины огнемётом"
+		"ru"		"мод: криты при атаке со спины огнемётом"
 	}
 	"max health additive bonus"
 	{
@@ -381,7 +381,7 @@
 	}
 	"revolver use hit locations"
 	{
-		"ru"		"revolver use hit locations"
+		"ru"		"револьвер использует места попадания"
 	}
 	"backstab shield"
 	{
@@ -401,7 +401,7 @@
 	}
 	"self dmg push force increased"
 	{
-		"ru"		"self dmg push force increased"
+		"ru"		"увеличена сила толкания от урона по себе"
 	}
 	"dmg taken from fire reduced"
 	{
@@ -513,7 +513,7 @@
 	}
 	"Reload time increased"
 	{
-		"ru"		"Время перезарядки увеличена"
+		"ru"		"Время перезарядки увеличено"
 	}
 	"selfdmg on hit for rapidfire"
 	{
@@ -533,7 +533,7 @@
 	}
 	"Projectile speed increased"
 	{
-		"ru"		"Ск. снаряда уменьшена"
+		"ru"		"Ск. снаряда увеличена"
 	}
 	"Projectile force increased"
 	{
@@ -565,15 +565,15 @@
 	}
 	"mod mini-crit airborne"
 	{
-		"ru"		"мод мини-криты в воздухе"
+		"ru"		"мод: мини-криты в воздухе"
 	}
 	"mod shovel damage boost"
 	{
-		"ru"		"мод увеличенный урон от лопаты"
+		"ru"		"мод: увеличенный урон от лопаты"
 	}
 	"dmg falloff decreased"
 	{
-		"ru"		"урон от падения уменьшен"
+		"ru"		"снижение урона уменьшено"
 	}
 	"sticky detonate mode"
 	{
@@ -585,7 +585,7 @@
 	}
 	"mod wrench builds minisentry"
 	{
-		"ru"		"мод гаечный ключ строит мини-турель"
+		"ru"		"мод: гаечный ключ строит мини-турель"
 	}
 	"max health additive penalty"
 	{
@@ -601,7 +601,7 @@
 	}
 	"mod sentry killed revenge"
 	{
-		"ru"		"мод месть убившей турели"
+		"ru"		"мод: месть убившей турели"
 	}
 	"building cost reduction"
 	{
@@ -629,7 +629,7 @@
 	}
 	"add cloak on kill"
 	{
-		"ru"		"дает невидимость при убийстве"
+		"ru"		"даёт невидимость при убийстве"
 	}
 	"quiet unstealth"
 	{
@@ -637,7 +637,7 @@
 	}
 	"flame size bonus"
 	{
-		"ru"		"бонус размера горения"
+		"ru"		"бонус размера огня"
 	}
 	"flame life bonus"
 	{
@@ -649,7 +649,7 @@
 	}
 	"add cloak on hit"
 	{
-		"ru"		"дает невидимость при попадании"
+		"ru"		"даёт невидимость при попадании"
 	}
 	"disguise no burn"
 	{
@@ -673,7 +673,7 @@
 	}
 	"deploy time decreased"
 	{
-		"ru"		"время развертывания уменьшено"
+		"ru"		"время развёртывания уменьшено"
 	}
 	"minicrits become crits"
 	{
@@ -725,7 +725,7 @@
 	}
 	"Set DamageType Ignite"
 	{
-		"ru"		"Установить ТипУрона Огня"
+		"ru"		"Установить тип урона огня"
 	}
 	"minicrit vs burning player"
 	{
@@ -745,7 +745,7 @@
 	}
 	"sanguisuge"
 	{
-		"ru"		"sanguisuge"
+		"ru"		"кровожадность"
 	}
 	"mark for death"
 	{
@@ -757,7 +757,7 @@
 	}
 	"mod medic killed revenge"
 	{
-		"ru"		"мод месть убившего медика"
+		"ru"		"мод: месть убившего медика"
 	}
 	"mult sniper charge after headshot"
 	{
@@ -773,15 +773,15 @@
 	}
 	"mod rage on hit bonus"
 	{
-		"ru"		"бонус мод ярость при попадании"
+		"ru"		"бонус мод: ярость при попадании"
 	}
 	"Rage damage boost"
 	{
-		"ru"		"мод увеличение урона в ярости"
+		"ru"		"мод: увеличение урона в ярости"
 	}
 	"accuracy scales damage"
 	{
-		"ru"		"точность на уровне урона"
+		"ru"		"точность увеличивает урон"
 	}
 	"mult charge turn control"
 	{
@@ -801,7 +801,7 @@
 	}
 	"air dash count"
 	{
-		"ru"		"air dash count"
+		"ru"		"кол-во рывков в воздухе"
 	}
 	"speed buff ally"
 	{
@@ -857,7 +857,7 @@
 	}
 	"effect bar recharge rate increased"
 	{
-		"ru"		"увеличена скорость перезарядки панели эффектов"
+		"ru"		"увеличена скорость перезарядки эффектов"
 	}
 	"override projectile type"
 	{
@@ -901,11 +901,11 @@
 	}
 	"mod ammo per shot"
 	{
-		"ru"		"мод боеприпасов за выстрел"
+		"ru"		"мод: боеприпасы за выстрел"
 	}
 	"sniper full charge damage bonus"
 	{
-		"ru"		"снайпер бонус урона при полном заряде"
+		"ru"		"снайпер: бонусный урон при полном заряде"
 	}
 	"sniper penetrate players when charged"
 	{
@@ -929,7 +929,7 @@
 	}
 	"robo sapper"
 	{
-		"ru"		"робо жучок"
+		"ru"		"робо-жучок"
 	}
 	"attack projectiles"
 	{
@@ -985,11 +985,11 @@
 	}
 	"extinguish earns revenge crits"
 	{
-		"ru"		"тушение дает криты мести"
+		"ru"		"тушение даёт криты мести"
 	}
 	"burn damage earns rage"
 	{
-		"ru"		"урон от ожога дает ярость"
+		"ru"		"урон от ожога даёт ярость"
 	}
 	"generate rage on damage"
 	{
@@ -1029,7 +1029,7 @@
 	}
 	"projectile penetration heavy"
 	{
-		"ru"		"тяжелое пробитие насквозь"
+		"ru"		"тяжёлое пробитие насквозь"
 	}
 	"projectile penetration"
 	{
@@ -1149,11 +1149,11 @@
 	}
 	"scattergun knockback mult"
 	{
-		"ru"		"отдача обреза множитель"
+		"ru"		"множитель отдачи обреза"
 	}
 	"engineer building teleporting pickup"
 	{
-		"ru"		"engineer building teleporting pickup"
+		"ru"		"телепортация постройки при взятии"
 	}
 	"damage applies to sappers"
 	{
@@ -1165,11 +1165,11 @@
 	}
 	"sapper health bonus"
 	{
-		"ru"		"бонус здоровья жучка"
+		"ru"		"бонус прочности жучка"
 	}
 	"sapper damage leaches health"
 	{
-		"ru"		"урон жучка выщелачивает здоровье"
+		"ru"		"урон жучка переводится в здоровье"
 	}	
 	
 	"energy weapon no ammo"
@@ -1178,7 +1178,7 @@
 	}		
 	"mod ammo per shot missed DISPLAY ONLY"
 	{
-		"ru"		"мод боеприпасы за промах"
+		"ru"		"мод: боеприпасы за промах"
 	}	
 	"cleaver description"
 	{
@@ -1203,7 +1203,7 @@
 	}
 	"increase player capture value"
 	{
-		"ru"		"увеличичь значение захвата игрока"
+		"ru"		"увеличить значение захвата игрока"
 	}	
 	"airblast vulnerability multiplier"
 	{
@@ -1212,8 +1212,7 @@
 	"airblast vertical vulnerability multiplier"
 	{
 		"ru"		"множитель вертикального сжатого воздуха"
-	}
-	
+    }
 	
 	
 	//SPECIAL TWEAKS NAMES
@@ -1228,11 +1227,11 @@
 	}
 	"Some Beggar Tweak"
 	{
-		"ru"		"Некоторая хитрость бродяги"
+		"ru"		"Небольшая хитрость бродяги"
 	}
 	"Some Other Beggar Tweak"
 	{
-		"ru"		"Некоторая другая хитрость бродяги"
+		"ru"		"Небольшая другая хитрость бродяги"
 	}
 	"Medic Beggar Tweak"
 	{
@@ -1240,11 +1239,11 @@
 	}
 	"Heavy Heavy Heavy Weapon"
 	{
-		"ru"		"Тяжелое тяжелое тяжелое оружие"
+		"ru"		"Тяжёлое тяжёлое тяжёлое оружие"
 	}
 	"Heavy Electric Motor"
 	{
-		"ru"		"Тяжелый Электромотор"
+		"ru"		"Тяжёлый электромотор"
 	}
 	"Assault Weapon"
 	{
@@ -1260,7 +1259,7 @@
 	}
 	"Sentry Heavy Motor"
 	{
-		"ru"		"Тяжелый мотор турели"
+		"ru"		"Тяжёлый мотор турели"
 	}
 	"Sentry Bigger Caliber"
 	{
@@ -1292,7 +1291,7 @@
 	}
 	"Heavy Laser Shot"
 	{
-		"ru"		"Тяжелый лазерный выстрел"
+		"ru"		"Тяжёлый лазерный выстрел"
 	}
 	"Slow swing"
 	{
@@ -1304,7 +1303,7 @@
 	}
 	"Le Flingueur"
 	{
-		"ru"		"Le Flingueur"	
+		"ru"		"Стрелок"	
 	}
 
 	
